@@ -1,18 +1,20 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
-d9c97b1f-e279-414b-a727-f15c332bfe38,speed.digital,resell,,,72,36,5,Porkbun LLC,06/08/2020 10:48,06/08/2026 10:48
-86db7b2a-cc11-41b7-874c-5d022a59237f,supreme.digital,resell,,,72,34,7,Porkbun LLC,05/08/2020 12:06,05/08/2026 12:06
-ce50ba85-a6c5-45e8-b2c1-d3af276bc058,turn.digital,resell,,,78,22,4,Porkbun LLC,15/02/2020 05:17,15/02/2027 05:17
-94fa9c33-a70e-47ea-a628-5aa5d2fa15dd,forever.digital,resell,,,76,40,7,Porkbun LLC,20/07/2020 12:40,20/07/2026 12:40
-636e5138-13be-41cc-a90a-60a27d7272ad,form.digital,resell,,,74,40,4,Porkbun LLC,04/08/2024 22:22,04/08/2026 22:22
-be9d24cf-abf2-4595-8b70-8244cbb3361e,gram.digital,resell,,,62,26,4,Porkbun LLC,19/07/2020 08:15,19/07/2026 08:15
-10ee9f98-4158-4d09-b9e5-f4c871f8972a,jump.digital,resell,,,72,33,4,Porkbun LLC,17/06/2015 16:11,17/06/2026 16:11
-ef317b32-44cf-424b-b5d8-4957bab0b3d4,lunar.digital,resell,,,72,38,5,Porkbun LLC,25/03/2020 17:07,25/03/2027 17:07
-407da712-f86c-4c19-8809-44fdecb969cc,about.digital,resell,,,84,38,5,Porkbun LLC,12/06/2021 13:36,12/06/2026 13:36
-ca574941-557d-414a-bc4f-ebc2f9748a91,boost.digital,resell,,,78,39,5,Porkbun LLC,17/06/2015 16:11,17/06/2026 16:11
-6eb7fe1b-f7d2-4a5c-9e7e-43431e967313,butterfly.digital,resell,,,82,38,9,"Global Domains International, Inc. DBA DomainCostClub.com",01/02/2026 15:15,01/02/2027 15:15
+06f71919-0894-40f6-8517-cd4665d1e623,scale.digital,resell,,,78,43,5,Porkbun LLC,12/10/2024 21:34,12/10/2026 21:34
 08bf99ab-f4bc-4046-b6de-fa62266ca692,confetti.digital,resell,,,81,16,8,"Global Domains International, Inc. DBA DomainCostClub.com",09/02/2026 15:15,09/02/2027 15:15
-db61ed7b-9c98-4e6e-ba65-4147cf320fb4,creative.digital,resell,,,82,45,8,Porkbun LLC,08/09/2016 08:46,08/09/2026 08:46
+10ee9f98-4158-4d09-b9e5-f4c871f8972a,jump.digital,resell,,,72,32,4,Porkbun LLC,17/06/2015 16:11,17/06/2026 16:11
+407da712-f86c-4c19-8809-44fdecb969cc,about.digital,resell,,,84,37,5,Porkbun LLC,12/06/2021 13:36,12/06/2026 13:36
+636e5138-13be-41cc-a90a-60a27d7272ad,form.digital,resell,,,74,40,4,Porkbun LLC,04/08/2024 22:22,04/08/2026 22:22
 6a727eb0-9413-4728-907b-a55188650b46,define.digital,resell,,,78,21,6,Porkbun LLC,16/08/2020 20:40,16/08/2026 20:40
+6eb7fe1b-f7d2-4a5c-9e7e-43431e967313,butterfly.digital,resell,,,82,38,9,"Global Domains International, Inc. DBA DomainCostClub.com",01/02/2026 15:15,01/02/2027 15:15
+78dfc0d7-d678-414e-9f55-71f7ee38706a,imagine.digital,resell,,,82,42,7,Porkbun LLC,06/11/2020 14:47,06/11/2026 14:47
+86db7b2a-cc11-41b7-874c-5d022a59237f,supreme.digital,resell,,,72,34,7,Porkbun LLC,05/08/2020 12:06,05/08/2026 12:06
+94fa9c33-a70e-47ea-a628-5aa5d2fa15dd,forever.digital,resell,,,76,40,7,Porkbun LLC,20/07/2020 12:40,20/07/2026 12:40
+be9d24cf-abf2-4595-8b70-8244cbb3361e,gram.digital,resell,,,62,26,4,Porkbun LLC,19/07/2020 08:15,19/07/2026 08:15
+ca574941-557d-414a-bc4f-ebc2f9748a91,boost.digital,resell,,,78,39,5,Porkbun LLC,17/06/2015 16:11,17/06/2026 16:11
+ce50ba85-a6c5-45e8-b2c1-d3af276bc058,turn.digital,resell,,,78,22,4,Porkbun LLC,15/02/2020 05:17,15/02/2027 05:17
+d9c97b1f-e279-414b-a727-f15c332bfe38,speed.digital,resell,,,72,36,5,Porkbun LLC,06/08/2020 10:48,06/08/2026 10:48
+db61ed7b-9c98-4e6e-ba65-4147cf320fb4,creative.digital,resell,,,82,45,8,Porkbun LLC,08/09/2016 08:46,08/09/2026 08:46
+ef317b32-44cf-424b-b5d8-4957bab0b3d4,lunar.digital,resell,,,72,38,5,Porkbun LLC,25/03/2020 17:07,25/03/2027 17:07
 17b274a8-6e01-4940-9fb3-0afa1d2c2f53,sickabed.digital,premium,,,42,0,9,,,
 a7b2ac96-b154-4328-b9e0-7745d66da174,procrastinate.digital,premium,,,66,5,13,,,
 b16413c3-6ca1-4472-82ff-ef7d635be474,consent.digital,resell,,,100,21,7,Dynadot Inc,10/07/2025 17:00,10/07/2026 17:00
@@ -24,7 +26,7 @@ f4c14a5a-54c4-45ae-9706-82a19d2d1f5d,unbeatable.digital,premium,,,93,9,10,,,
 0ce1a1c8-1ef8-444e-b010-f91e0782f77e,whitepepper.digital,premium,,,,2,12,,,
 e222d0bd-015c-4c65-a7fd-e79434dbe26a,algometric.digital,premium,,,48,1,10,,,
 f9588f63-9b24-457b-9b3c-ee3f034573df,collision.digital,resell,,,60,16,9,"Sav.com, LLC",11/03/2026 19:46,11/03/2027 19:46
-e55df9d9-d41f-4c93-9088-dc643b965357,warrant.digital,premium,,,90,10,7,,,
+e55df9d9-d41f-4c93-9088-dc643b965357,warrant.digital,premium,,,90,9,7,,,
 8bef9f19-7c13-47ab-ad60-b9d8fe68d5d3,achaian.digital,premium,,,68,2,7,,,
 3096dbc0-eb24-46ee-87fc-b0f939648425,breakeven.digital,premium,,,82,5,10,,,
 15c3c6aa-143a-43d1-b0e0-3c5f67f6748d,audile.digital,premium,,,82,3,6,,,
@@ -41,7 +43,7 @@ af05ab1e-4c69-4668-8a08-2eee8781bdf0,whatisthat.digital,premium,,,,5,12,,,
 fc06eab3-5abb-466d-ac27-487e0647451f,inkind.digital,premium,,,66,9,7,,,
 0a2b1991-fa92-44a6-a1cd-1346b47574a7,planetarium.digital,premium,,,,9,11,,,
 312405a5-e0e8-4c74-9b06-82dcdfcb5535,spiritual.digital,resell,,,62,24,9,"Sav.com, LLC - 25",29/01/2025 15:16,29/01/2026 15:16
-763aff60-ffbb-4f58-ba59-d096db9aac8e,answering.digital,premium,,,74,7,9,,,
+763aff60-ffbb-4f58-ba59-d096db9aac8e,answering.digital,premium,,,74,6,9,,,
 9bf85201-e86c-4895-a233-038b2ef29a6b,willingness.digital,premium,,,,2,11,,,
 88ed2094-1808-42ae-8299-316fa399d3e9,setose.digital,premium,,,46,1,6,,,
 9e3eca95-a1e7-4e45-aef7-8a56cd01628c,perspective.digital,resell,,,88,24,11,"GoDaddy.com, LLC",14/01/2025 15:15,14/01/2027 15:15
@@ -143,7 +145,7 @@ b40d1a6e-3e44-40ba-a99e-398305ad1639,surrounding.digital,premium,,,74,4,11,,,
 72d2842c-f074-4f22-ad93-de4ebf31ca97,amphibious.digital,premium,,,50,4,10,,,
 2fd32b4c-afce-4d02-8f89-10c23d591ab9,combative.digital,premium,,,60,1,9,,,
 fcba40fd-f6d2-4c2d-85a6-6b075ed29184,abducent.digital,available,1.99,54.99,68,1,8,name.com,,
-15429170-22d9-40a6-be85-4d0e1c6cd942,aided.digital,available,2.99,54.99,72,7,5,name.com,,
+15429170-22d9-40a6-be85-4d0e1c6cd942,aided.digital,available,2.99,54.99,72,6,5,name.com,,
 5f51bd65-dd32-4144-a3b1-24a1b7858876,useless.digital,premium,,,56,19,7,,,
 8e489a94-3f6c-4355-8f40-e28d567e6c85,jail.digital,premium,,,80,13,4,,,
 d4a45dbd-ad80-48c2-8d7c-54e1cd54a2e7,anorectal.digital,premium,,,50,1,9,,,
@@ -249,7 +251,7 @@ f1afb2f1-4e3a-4570-9d87-7d09a16d08c6,oval.digital,resell,,,60,23,4,"Sav.com, LLC
 d71c79ac-d570-413a-9f76-78ffd288c2a8,inthehopethat.digital,premium,,,52,1,16,,,
 c5224a92-6716-4614-835f-d6a5328e585f,disadvantage.digital,premium,,,80,4,12,,,
 ccd2187f-7617-42b0-baf4-791d213d237a,minutes.digital,resell,,,72,12,7,"Spaceship, Inc.",04/03/2026 20:26,04/03/2027 20:26
-cb1828e9-9777-4130-b123-7a7a2814302a,tend.digital,resell,,,76,19,4,Porkbun LLC,22/09/2024 16:13,22/09/2026 16:13
+cb1828e9-9777-4130-b123-7a7a2814302a,tend.digital,resell,,,76,21,4,Porkbun LLC,22/09/2024 16:13,22/09/2026 16:13
 b6cb35e2-f8e8-4a2e-9084-125eae69fbcf,likenoother.digital,premium,,,74,4,13,,,
 5f1b9f6e-2330-4781-9740-e5e5f0e90165,waitfor.digital,premium,,,,4,8,,,
 74122069-7b75-44c5-9c0b-3553ee5a205c,motherfukka.digital,premium,,,62,1,11,,,
@@ -287,7 +289,7 @@ cc88d992-f59b-4928-8c85-80baed27511d,cornering.digital,premium,,,60,1,9,,,
 0081b064-b092-49f6-a331-656601c5fccf,augean.digital,premium,,,52,3,6,,,
 8682c6c1-76c8-49ab-aaca-aece926aeacb,thanksfornothing.digital,premium,,,60,2,18,,,
 85eb11d1-6732-414c-a384-8d171ae58747,daft.digital,premium,,,56,11,4,,,
-e950d168-cb58-44f2-a662-92209684c5b2,sexy.digital,premium,,,82,35,4,,,
+e950d168-cb58-44f2-a662-92209684c5b2,sexy.digital,premium,,,82,34,4,,,
 57d8f109-99a0-467c-a24a-234b1fdb0694,battleful.digital,premium,,,40,1,9,,,
 59efb9ae-d8e9-4de2-a25f-72de18e180dc,sushibar.digital,premium,,,76,5,9,,,
 ac75440e-997b-49d8-b3b7-2c9dd05b5fc8,eonian.digital,premium,,,50,3,6,,,
@@ -316,7 +318,7 @@ d2ec73a2-f2c6-46be-92d6-051cf926b196,seeming.digital,premium,,,86,3,7,,,
 e502104b-c3e3-407c-986d-ebcf1b0715bc,situated.digital,premium,,,58,4,8,,,
 8a16e6c7-bf67-4a02-9015-fda3007680ee,rubbingoil.digital,premium,,,,1,11,,,
 c8f7d68c-8e12-4033-a69f-bbeedab13e4b,aufait.digital,premium,,,62,4,7,,,
-ec4cd854-be12-4a6b-9c72-a840df6e5899,fond.digital,resell,,,116,14,4,"Sav.com, LLC - 21",14/03/2026 15:16,14/03/2027 15:16
+ec4cd854-be12-4a6b-9c72-a840df6e5899,fond.digital,resell,,,116,15,4,"Sav.com, LLC - 21",14/03/2026 15:16,14/03/2027 15:16
 32121420-252e-4fe1-914b-4589feec437e,conveyable.digital,premium,,,44,1,10,,,
 484d4493-f387-4292-be80-0a7198d9957c,givesomeoneabreak.digital,premium,,,72,1,20,,,
 8f315bd5-3bf9-4d55-911f-c8fc48f1d725,nutritive.digital,premium,,,84,2,9,,,
@@ -425,7 +427,7 @@ c43c970b-70b0-43fb-b159-a8fd089d8fe9,rail.digital,resell,,,92,29,4,"Sav.com, LLC
 2e69f5c7-cb01-425d-b3d0-24b54cdf3356,chore.digital,premium,,,88,11,5,,,
 e25ab5e2-ebe1-4d19-9e5e-cdfaa5ed4a5f,dustyrose.digital,premium,,,,3,10,,,
 7938886e-73e5-4e2c-a7d8-ffb80103a6d7,fix.digital,resell,,,66,32,3,"Sav.com, LLC - 32",26/05/2025 15:16,26/05/2026 15:16
-f2dd7c40-a000-4fa1-9b41-2d8758317e76,gym.digital,premium,,,105,28,3,,,
+f2dd7c40-a000-4fa1-9b41-2d8758317e76,gym.digital,premium,,,105,26,3,,,
 95e310c2-7a0e-4214-a3f0-73f96e4b1698,determined.digital,available,2.99,54.99,72,8,10,name.com,,
 5532a9e2-5adf-4662-b420-a317b5d2ebc9,penandink.digital,premium,,,,3,11,,,
 70d77df1-6e3f-4101-9458-d87535236fac,babyfaced.digital,premium,,,70,1,10,,,
@@ -433,7 +435,7 @@ c178a9a1-ac90-4f73-8dd4-c40bf071bed0,quatern.digital,premium,,,54,2,7,,,
 0636fc80-ca89-48bb-9ecb-afdacd14a7c9,excelat.digital,premium,,,82,2,8,,,
 e729004d-6255-4be0-bc60-e7021d782ba1,assamese.digital,premium,,,72,2,8,,,
 f2499bb5-e99e-4ddc-ab21-efccbd15a018,worshipful.digital,premium,,,80,1,10,,,
-710863da-1931-4873-baeb-77e357689151,whale.digital,resell,,,62,30,5,"Sav.com, LLC",19/11/2024 21:37,19/11/2026 21:37
+710863da-1931-4873-baeb-77e357689151,whale.digital,resell,,,62,31,5,"Sav.com, LLC",19/11/2024 21:37,19/11/2026 21:37
 f36af601-680b-47f8-b96d-9279be21c191,inthethickof.digital,premium,,,54,1,15,,,
 24a79bf6-2e95-4f8c-96b0-6463c5ef9273,SSI.digital,resell,,,78,27,3,Netregistry Wholesale Pty Ltd,24/03/2025 15:15,24/03/2027 15:15
 002d75cb-c0bd-4b4c-92dd-31c032269e6a,owe.digital,premium,,,70,10,3,,,
@@ -482,7 +484,7 @@ d1fc7f05-5fd1-4b97-8345-12812b3b5b13,theory.digital,resell,,,82,25,6,"Sav.com, L
 aa1e0eea-1921-44be-aee9-94e3961900c0,electronic.digital,premium,42.9,42.9,68,19,10,namecheap,,
 03397991-ccbe-4698-b1f0-478a6ee26d82,thehardway.digital,premium,,,,4,12,,,
 9edb3e26-28e8-45b6-89ce-56749f7f0275,hotticket.digital,premium,,,76,3,10,,,
-50287056-b6e1-4869-92c0-a948b88dd540,asteroid.digital,resell,,,66,19,8,"Sav.com, LLC - 7",29/05/2025 15:16,29/05/2026 15:16
+50287056-b6e1-4869-92c0-a948b88dd540,asteroid.digital,resell,,,66,18,8,"Sav.com, LLC - 7",29/05/2025 15:16,29/05/2026 15:16
 74c05ed8-ba5c-4567-a8c2-38e1c667061a,manymoonsago.digital,premium,,,50,1,14,,,
 8e849cd8-62ae-4ecd-b48b-9a682030d266,squat.digital,premium,,,94,9,5,,,
 8b21ff71-7e2b-4dd6-8cf3-484f8bf98fb5,retiring.digital,premium,,,73,5,8,,,
@@ -540,7 +542,7 @@ e99ddc8a-1008-4528-a5c7-b0df337fbf9b,blind.digital,resell,,,68,22,5,"Sav.com, LL
 cc54f7c0-fb93-46c4-b395-662f0ce961e6,knowing.digital,premium,,,94,14,7,,,
 04093e57-410c-4dbf-a76a-9219686d7088,Tahoe.digital,resell,,,42,30,5,"Sav.com, LLC - 4",10/08/2025 15:15,10/08/2026 15:15
 460359c1-1fe6-4bf5-80b4-cae52346a942,blueberrypie.digital,premium,,,64,1,13,,,
-53f17fc5-12ac-4658-88a1-3b5a8035683a,esthetic.digital,available,2.99,54.99,70,9,8,name.com,,
+53f17fc5-12ac-4658-88a1-3b5a8035683a,esthetic.digital,available,2.99,54.99,70,8,8,name.com,,
 2ef1130e-bad6-4d2a-bf16-77c19fd80e17,headteacher.digital,premium,,,74,2,12,,,
 17e08ec2-654b-4098-966b-9cd9f8f05d4a,departmentstore.digital,premium,,,70,3,16,,,
 f780a403-6e77-4932-bf31-81a6e3bd3f5c,triad.digital,resell,,,56,16,5,"Sav.com, LLC - 2",04/03/2025 15:16,04/03/2026 15:16
@@ -562,7 +564,7 @@ a4fe4aac-9b34-4412-9d8d-7bf4bf7fbede,baghdad.digital,premium,,,60,13,7,,,
 eebcc5f7-2138-4cd4-8a47-8839c0b16b0c,banausic.digital,premium,,,44,1,8,,,
 53ef6f69-fb3c-4268-9c74-0ff8f8c2275d,washing.digital,premium,,,88,9,7,,,
 f4466b1a-2739-4c80-832d-b0faf2b9f6d1,Christalmighty.digital,premium,,,72,1,15,,,
-80f4c3c7-ed3b-4d07-91fe-f197c0daf579,engrossed.digital,available,2.99,54.99,72,2,9,name.com,,
+80f4c3c7-ed3b-4d07-91fe-f197c0daf579,engrossed.digital,available,2.99,54.99,72,1,9,name.com,,
 6e75cb21-310f-4495-90ea-33535a039987,advective.digital,premium,,,50,1,9,,,
 9c506b05-545a-4ba7-9ba3-d1082314cc1a,accentual.digital,premium,,,54,2,9,,,
 4986c43a-76c0-4c75-8164-19e547ada429,dull.digital,premium,,,62,16,4,,,
@@ -602,7 +604,7 @@ c6f23da9-5a9d-4a44-9e68-50ac8ea45f19,seattle.digital,premium,,,70,31,7,,,
 f6b9841d-2529-4a4c-8cac-3ff667b2fdb3,affinity.digital,premium,,,74,19,8,,,
 52dd02d3-1e0b-47b8-8f91-19ab5a53d6a0,bewell.digital,resell,,,84,20,7,"Sav.com, LLC - 42",05/02/2026 15:15,05/02/2027 15:15
 a93eda08-a9d1-4c5b-845a-a476eb259645,creaky.digital,premium,,,54,3,6,,,
-74f13f93-12fe-4584-80f3-7eb8b7c7e02f,xiii.digital,available,2.99,54.99,66,13,4,name.com,,
+74f13f93-12fe-4584-80f3-7eb8b7c7e02f,xiii.digital,available,2.99,54.99,66,12,4,name.com,,
 2fb88419-105f-470a-a961-e8acaa9d91e5,mouthy.digital,premium,,,,4,6,,,
 c79d060c-f00a-476e-a2de-49927f8a5699,advocate.digital,resell,,,90,21,8,"Sav.com, LLC - 9",24/12/2025 15:15,24/12/2026 15:15
 a64862f2-d370-4757-a785-d6395ee4291c,meaning.digital,resell,,,96,18,7,Dynadot Inc,26/08/2025 17:00,26/08/2026 17:00
@@ -646,7 +648,7 @@ adb1e963-f271-4fd5-8e6b-87e4c14614af,ive.digital,resell,,,62,12,3,IONOS SE,22/07
 35f3799f-a00b-4084-87cf-db24d6e2aded,whitesauce.digital,premium,,,,2,11,,,
 c097fc90-cf0a-4264-9d72-b42770f390c2,octet.digital,premium,,,60,12,5,,,
 2bb3ca45-0810-45e2-939e-f747a5d6ca62,bucket.digital,resell,,,62,20,6,"Sav.com, LLC - 23",06/06/2025 15:15,06/06/2026 15:15
-092b6e59-bfdf-4791-ba30-e8d54392ee70,indian.digital,premium,,,86,32,6,,,
+092b6e59-bfdf-4791-ba30-e8d54392ee70,indian.digital,premium,,,86,30,6,,,
 67e0a6c2-59c9-4879-b12e-808867e2b2ec,curse.digital,available,2.99,54.99,78,13,5,name.com,,
 7c0906b0-c864-48c1-aebf-3a0b494bcfd7,Laura.digital,resell,,,84,24,5,"GoDaddy.com, LLC",07/07/2015 07:56,07/07/2026 07:56
 2375a21b-e85b-4484-aa0f-b8ba0471dd47,koala.digital,resell,,,80,31,5,"Sav.com, LLC - 5",25/04/2025 15:15,25/04/2026 15:15
@@ -726,7 +728,7 @@ bee4d5df-058b-4b7f-a0f6-08b9d9fefda2,lifelesson.digital,premium,,,76,3,11,,,
 7e920059-04e7-4c7e-97af-93cf5f49e3e9,alienated.digital,premium,,,44,4,9,,,
 041bc6fc-3678-4ca2-bf0c-ac241f89084e,longhaired.digital,premium,,,,1,11,,,
 d214fb44-7782-46f1-b510-4aaef0fb51b2,grandparent.digital,premium,,,102,6,11,,,
-b6771233-71f2-42a2-a065-813cbe7ab36a,yard.digital,resell,,,80,34,4,Dynadot Inc,09/07/2025 17:00,09/07/2026 17:00
+b6771233-71f2-42a2-a065-813cbe7ab36a,yard.digital,resell,,,80,35,4,Dynadot Inc,09/07/2025 17:00,09/07/2026 17:00
 e281b129-b2ee-4dd5-aee2-2cb94acddb12,Yukongold.digital,premium,,,,6,10,,,
 5dce0105-4ba2-4686-9a60-d3940e227b7d,anticancer.digital,premium,,,70,5,10,,,
 f29f0f80-de56-484a-8515-7bc2a51735d6,none.digital,premium,,,86,21,4,,,
@@ -820,7 +822,7 @@ ab4e3bfd-d9dd-45f8-a7ce-e19d0d031e75,rulesisrules.digital,premium,,,62,1,14,,,
 ce354082-5517-4bd0-8d96-1474598bfa9d,Ilikepie.digital,premium,,,54,2,10,,,
 a187fb91-7269-4c40-b1e4-6dae19257c22,wasted.digital,premium,,,50,98,6,,,
 877aa5a8-1a3b-4596-9cfc-ac7a034fd909,unused.digital,premium,,,56,7,6,,,
-d23330ca-f181-4c7c-9573-1eef8f22127f,allegro.digital,resell,,,100,24,7,"Sav.com, LLC - 7",14/06/2025 15:15,14/06/2026 15:15
+d23330ca-f181-4c7c-9573-1eef8f22127f,allegro.digital,resell,,,100,23,7,"Sav.com, LLC - 7",14/06/2025 15:15,14/06/2026 15:15
 db161048-28f5-40e4-b673-32a78137a86a,mealdeal.digital,premium,,,72,4,9,,,
 798e2c59-d278-4bc0-902e-bcc908ee39fb,channel.digital,premium,,,62,31,7,,,
 ff4a7e5b-71aa-4d8b-bbe5-5f6cd0218d42,xoxoxo.digital,premium,,,88,6,6,,,
@@ -854,7 +856,7 @@ e4228a02-0267-4975-bb8c-9186dc4de4c2,speculation.digital,premium,,,,5,11,,,
 bb21149a-4782-4bc6-98cb-8535825ce910,spontaneous.digital,premium,,,72,13,11,,,
 3bfc81e0-7b47-479c-8229-1b858d983683,mouthcare.digital,premium,,,,2,9,,,
 b246a38a-13d7-4f86-9c3a-d3b0b95e58d4,algid.digital,premium,,,52,2,5,,,
-a4fd115f-a083-4dc4-b3b1-9dbc55ecf995,poverty.digital,premium,,,58,9,7,,,
+a4fd115f-a083-4dc4-b3b1-9dbc55ecf995,poverty.digital,premium,,,58,10,7,,,
 baafbf61-b40c-4e31-86bb-3f4f5d6c4814,boxoffice.digital,resell,,,74,15,10,"Sav.com, LLC - 31",29/03/2026 15:15,29/03/2027 15:15
 5792344c-1ac5-4e31-8417-c06f391d69df,capitalize.digital,resell,,,72,11,10,"Spaceship, Inc.",30/09/2025 19:24,30/09/2026 19:24
 cc3c604c-e421-430d-94a8-a618e295a85f,pocket.digital,resell,,,72,42,6,Porkbun LLC,11/03/2021 06:12,11/03/2027 06:12
@@ -910,10 +912,10 @@ fc5109ed-9e67-49ba-87e1-b7e37a676410,septenary.digital,premium,,,68,2,9,,,
 0a8b2816-cc40-486b-b19f-8db4796454a0,childmolestation.digital,premium,,,52,1,17,,,
 f71f297f-be07-438c-a095-3d1c988a569b,blockaded.digital,premium,,,37,1,9,,,
 5e8961c4-f2b3-4ab1-b85b-254999b42da8,fretful.digital,premium,,,58,2,7,,,
-2764397a-46eb-4f25-b481-1840d65c82ae,happiness.digital,resell,,,78,37,9,"Sav.com, LLC - 46",22/12/2025 15:15,22/12/2026 15:15
+2764397a-46eb-4f25-b481-1840d65c82ae,happiness.digital,resell,,,78,34,9,"Sav.com, LLC - 46",22/12/2025 15:15,22/12/2026 15:15
 1f99649a-fd48-4f5a-8bca-d03c154a47a8,avestan.digital,premium,,,62,3,7,,,
 135737c7-2e94-4751-8754-904e5de40e1b,worry.digital,premium,,,84,6,5,,,
-9d468e56-8f1e-40ad-83c1-7151dc1b3483,respondent.digital,premium,,,88,5,10,,,
+9d468e56-8f1e-40ad-83c1-7151dc1b3483,respondent.digital,premium,,,88,4,10,,,
 2ee688d5-fea4-4020-bfdf-35aa6f16923e,seat.digital,resell,,,38,17,4,"Sav.com, LLC - 20",02/11/2024 17:00,02/11/2025 17:00
 6ba76f41-8a7e-4f25-86c6-278913356619,banned.digital,premium,,,48,14,6,,,
 b752b797-a5a9-4a70-ad48-5dd8e951a874,isolated.digital,premium,,,56,8,8,,,
@@ -953,7 +955,7 @@ cb6f5b40-ea05-47e4-891a-e721fd4e4501,butter.digital,resell,,,78,27,6,Porkbun LLC
 21384792-fe70-4818-a327-4f35fcd755ba,respiratory.digital,premium,,,,8,11,,,
 0ea0e246-63b0-40ea-a660-137f885cadd8,SouthCarolina.digital,premium,,,,12,14,,,
 940851bb-eae0-4431-81f7-ae4b97596b0e,pray.digital,resell,,,66,23,4,"Sav.com, LLC - 21",04/08/2025 15:15,04/08/2026 15:15
-262cb317-1bcd-4584-b523-49daa9a2b99d,licenced.digital,available,2.99,54.99,68,3,8,name.com,,
+262cb317-1bcd-4584-b523-49daa9a2b99d,licenced.digital,available,2.99,54.99,68,2,8,name.com,,
 08a3b56f-d14c-45ac-94a1-d6ea248a0ccb,humanlike.digital,premium,,,56,4,9,,,
 18099e33-034d-4730-a6d2-2fe563609acd,strongly.digital,premium,,,64,4,8,,,
 4b7ca73a-2b27-4cdc-8e41-5e87993a1ae6,lucky.digital,resell,,,76,42,5,Netregistry Wholesale Pty Ltd,24/12/2020 12:06,24/12/2026 12:06
@@ -964,9 +966,9 @@ cb6f5b40-ea05-47e4-891a-e721fd4e4501,butter.digital,resell,,,78,27,6,Porkbun LLC
 64ffc680-dd22-45af-9175-ed45c28ca012,lxxxv.digital,premium,,,52,2,5,,,
 0cf53270-98ae-4e42-a178-456df431a661,putitabout.digital,premium,,,,1,12,,,
 fc6138b8-bca0-435a-9984-19b5334658f7,comerainorshine.digital,premium,,,56,2,18,,,
-4b0133dc-d9a6-4029-9339-f510e3f18667,nonstop.digital,resell,,,98,29,7,"Sav.com, LLC - 15",21/03/2025 15:15,21/03/2027 15:15
+4b0133dc-d9a6-4029-9339-f510e3f18667,nonstop.digital,resell,,,98,28,7,"Sav.com, LLC - 15",21/03/2025 15:15,21/03/2027 15:15
 5c8de6f8-deaf-4aa5-af4a-96a1946231b2,fiery.digital,premium,,,60,9,5,,,
-d442f386-cbd6-40a3-abab-205ff2e31ea8,alterable.digital,available,2.99,54.99,80,3,9,name.com,,
+d442f386-cbd6-40a3-abab-205ff2e31ea8,alterable.digital,available,2.99,54.99,80,2,9,name.com,,
 7ffc1b81-09af-4a9e-bc19-2fa707332802,upper.digital,resell,,,84,17,5,"Sav.com, LLC - 33",17/12/2025 15:15,17/12/2026 15:15
 230af97b-4d27-4815-a0ac-3a87681d8ed1,newwave.digital,resell,,,68,17,8,"Sav.com, LLC - 32",10/04/2025 15:15,10/04/2026 15:15
 4c106461-9019-4a33-961c-634a15ce3a7b,actress.digital,premium,,,78,9,7,,,
@@ -1046,7 +1048,7 @@ dc8a8ca3-2cca-434e-a5e8-8be6d78fe6f4,littleperson.digital,premium,,,74,1,13,,,
 a0d57288-4942-4ee4-a4e8-dae9441d0fca,possibly.digital,premium,,,62,6,8,,,
 38253c5f-2350-474c-8ec2-5cd4de9e568a,crying.digital,available,2.99,54.99,82,9,6,name.com,,
 607817a6-caa7-440f-8c2e-59e6b0d7c47f,thug.digital,premium,,,78,11,4,,,
-ce3381ae-2455-4c7f-b347-c49b1353dd82,guts.digital,premium,,,97,16,4,,,
+ce3381ae-2455-4c7f-b347-c49b1353dd82,guts.digital,premium,,,97,14,4,,,
 0efab83f-62ef-494b-b22e-3147521d7344,saveup.digital,premium,,,,3,7,,,
 37739d03-5f11-4961-aeb0-9034b5e50891,gleaming.digital,premium,,,82,4,8,,,
 fc52ab52-e1b0-443c-9bb5-426d49a2d72a,awful.digital,premium,,,76,15,5,,,
@@ -1078,7 +1080,7 @@ aabf839b-25eb-42cf-b60b-927dbcc14298,divinelaw.digital,premium,,,69,2,10,,,
 072cfc0d-6033-4aab-b5d2-58c2be3539ef,aimless.digital,premium,,,54,9,7,,,
 99b45c47-6958-4a68-97f6-782975fc45a4,worried.digital,available,2.99,54.99,72,6,7,name.com,,
 a8302bb4-0856-41bb-9415-587fe6256607,giveandtake.digital,premium,,,70,5,13,,,
-a3d0e062-373a-4df5-b857-d790843f52f7,creator.digital,resell,,,70,44,7,"Sav.com, LLC",16/05/2021 08:47,16/05/2026 08:47
+a3d0e062-373a-4df5-b857-d790843f52f7,creator.digital,resell,,,70,45,7,"Sav.com, LLC",16/05/2021 08:47,16/05/2026 08:47
 5538c73f-7910-4444-9885-00f6f3b6242b,diner.digital,available,2.99,,85,12,5,name.com,,
 9a3b3610-159a-429d-b2aa-3ee9b189cd1e,dick.digital,resell,,,56,30,4,Porkbun LLC,02/07/2025 19:49,02/07/2026 19:49
 e1ef586a-b4c3-424a-8c5c-e62cefd82eab,anopheline.digital,premium,,,70,1,10,,,
@@ -1143,7 +1145,6 @@ b3ddc052-30e4-4a99-aff0-4b2d5cee33e7,courtroom.digital,premium,,,66,6,9,,,
 3803b7af-fd09-499a-93cf-707d05a29921,substantial.digital,premium,,,84,6,11,,,
 e3197f10-40b8-4fe4-975d-8d0f3a61438a,leaveofabsence.digital,premium,,,70,1,16,,,
 97b952b6-2dd4-4b65-868f-1ea26c4dac55,unshakable.digital,premium,,,72,7,10,,,
-3162bd13-c7b9-4a5c-876e-2b0287b27428,antique.digital,resell,,,72,19,7,"Sav.com, LLC - 27",05/05/2025 15:15,05/05/2026 15:15
 7f83ea8c-f027-45b8-baf3-c8e2b2daa1a9,wishing.digital,premium,,,78,7,7,,,
 c29fd165-6a56-472d-bb82-91996c46d470,fast.digital,premium,1000,1000,82,53,4,name.com,,
 20021914-e97d-49a7-bf16-d675be3bc556,buttocks.digital,premium,,,42,2,8,,,
@@ -1197,7 +1198,7 @@ c184ace5-fcdc-4dbf-a0fc-531a49cd4553,prominently.digital,premium,,,60,1,11,,,
 726eb00b-8931-42e3-8d2c-20cc253e668c,brandnew.digital,resell,,,72,15,9,"Sav.com, LLC - 23",10/11/2025 15:16,10/11/2026 15:16
 99e3984c-429c-4b6c-802e-9a4441a054e2,trimback.digital,premium,,,67,1,9,,,
 9eddbb3e-f1e7-48e4-b399-82341510e0e1,antlered.digital,premium,,,47,1,8,,,
-68f00bda-1c2b-41a9-937f-1a3126f0b83f,info.digital,resell,,,80,53,4,"NameCheap, Inc.",17/06/2015 21:14,17/06/2026 21:14
+68f00bda-1c2b-41a9-937f-1a3126f0b83f,info.digital,resell,,,80,51,4,"NameCheap, Inc.",17/06/2015 21:14,17/06/2026 21:14
 5e36bfa5-f59f-416d-9020-43479a159ac4,inthehand.digital,premium,,,48,1,11,,,
 8de68667-b45b-4956-82a6-becbaec46a19,tire.digital,resell,,,88,17,4,"Sav.com, LLC - 12",04/09/2025 15:15,04/09/2026 15:15
 8f8650e8-c0bd-4e7d-b1d3-f8a58845ce03,childendangerment.digital,premium,,,52,1,18,,,
@@ -1209,7 +1210,7 @@ cc70936a-0281-47c0-9ef2-77b70671f5ae,biggame.digital,premium,,,74,8,8,,,
 ce514f3b-b584-4526-89db-fea10f63a474,since.digital,premium,,,74,13,5,,,
 f93d0054-a79d-43d3-87da-647e047c2376,documentation.digital,resell,,,66,15,13,"NameSilo, LLC",31/08/2024 10:20,31/08/2026 10:20
 55493d54-7e9f-475f-8e4a-230d0752efe8,lookunderrocks.digital,premium,,,68,1,16,,,
-6903f2f7-f05e-459a-8598-dff1579962f4,trinity.digital,resell,,,72,31,7,Dynadot Inc,07/12/2025 09:48,07/12/2026 09:48
+6903f2f7-f05e-459a-8598-dff1579962f4,trinity.digital,resell,,,72,30,7,Dynadot Inc,07/12/2025 09:48,07/12/2026 09:48
 c98667c0-6bcb-417c-8e74-3752e952b81b,burden.digital,premium,,,52,10,6,,,
 2d48e781-4e38-4c92-a666-284e65823a91,continually.digital,premium,,,60,2,11,,,
 9b9f38b7-340a-4d47-b66e-f9ee9113c348,racingline.digital,premium,,,76,4,11,,,
@@ -1324,7 +1325,7 @@ ae3c521a-45a6-4d00-8a2c-39e850edb4f5,bedofroses.digital,premium,,,70,2,12,,,
 2183bde0-f759-4b10-becb-fa5f23a8fb18,needing.digital,premium,,,70,5,7,,,
 114e19e3-9270-4295-a5dc-c7c611ec87d6,craft.digital,resell,,,70,41,5,"Spaceship, Inc.",23/11/2023 15:15,23/11/2026 15:15
 a03250f8-b351-44ca-b15b-86b48c5e071d,penny.digital,resell,,,66,29,5,"Sav.com, LLC - 16",25/05/2025 15:15,25/05/2026 15:15
-d4fd2600-1ddc-4f39-8259-9e46be4f2d4c,academic.digital,resell,,,96,22,8,"Sav.com, LLC - 2",12/05/2025 15:15,12/05/2026 15:15
+d4fd2600-1ddc-4f39-8259-9e46be4f2d4c,academic.digital,resell,,,96,21,8,"Sav.com, LLC - 2",12/05/2025 15:15,12/05/2026 15:15
 9bc828de-53dd-486f-a424-cda572e0e0bc,pratabout.digital,premium,,,,1,10,,,
 76969ee4-e76e-4158-a98a-35e39e38b81c,mega.digital,resell,,,74,41,4,"Sav.com, LLC",19/05/2018 09:32,19/05/2026 09:32
 5598e888-2e64-4c89-89b2-214dbd42e5d8,sanative.digital,premium,,,80,2,8,,,
@@ -1398,7 +1399,7 @@ c72cef19-11cb-4770-b8d2-4c45f1189464,jellybaby.digital,premium,,,76,2,10,,,
 dfaf787b-4e8f-4696-8472-b5252004da74,twodozen.digital,premium,,,62,1,9,,,
 17b5daf2-4f4b-4f68-b804-fe586f2addd5,disclosure.digital,available,2.99,,71,16,10,name.com,,
 c9594bb3-05d7-4f8c-a9d9-eecca1dcd111,apogametic.digital,premium,,,41,1,10,,,
-69db30fd-37fc-4017-ab8e-33e26ce16816,expectant.digital,premium,,,88,3,9,,,
+69db30fd-37fc-4017-ab8e-33e26ce16816,expectant.digital,premium,,,88,2,9,,,
 ca21999c-ebaf-49c9-b80f-734073f27ec2,copyrightsymbol.digital,premium,,,66,2,16,,,
 13a19a9b-2279-42cb-86e9-ba55ff9a281e,same.digital,resell,,,76,23,4,InterNetX GmbH,17/11/2017 10:14,17/11/2026 10:14
 daa9a954-bcac-43fd-bf0f-4087ef510aa6,nomatter.digital,premium,,,56,7,9,,,
@@ -1422,7 +1423,6 @@ f957f5ac-436f-421a-8794-e52f38ae580a,aweary.digital,premium,,,56,1,6,,,
 86a3694a-f02c-45fa-9619-4d79575c84cb,lithuania.digital,premium,,,60,4,9,,,
 a8d62c47-2786-4c21-9dae-2b239f24c835,basophilic.digital,premium,,,42,1,10,,,
 36cbdfac-59a9-4561-b0eb-2a7fddc1bd0d,expended.digital,premium,,,56,1,8,,,
-7539e5d3-b20b-4aba-a3be-274b77f9ba70,paste.digital,resell,,,90,21,5,"Sav.com, LLC - 20",08/05/2025 15:15,08/05/2026 15:15
 eafae848-66af-4883-a346-0113cae1f840,aeronautic.digital,premium,,,62,3,10,,,
 e264f339-2024-47f7-a322-cb266d127025,sudden.digital,premium,,,90,10,6,,,
 b5301045-c423-4e3c-960b-3ca119f643a3,castellano.digital,premium,,,56,8,10,,,
@@ -1434,7 +1434,7 @@ d0e2c535-7eb2-41b5-848f-71ad9b27a9ac,necessary.digital,premium,,,66,12,9,,,
 f1d3fe04-dfbb-4037-a105-56a7eade3c3b,bathroom.digital,premium,,,94,15,8,,,
 a05128f9-c215-417f-aa39-e4cc3b5f515c,bakinghot.digital,premium,,,44,1,10,,,
 a824c750-c728-4b46-be54-2ffa2d53a410,aphyllous.digital,premium,,,41,1,9,,,
-dca2317b-dac8-464e-9eda-b436d70be183,mass.digital,resell,,,78,29,4,Netregistry Wholesale Pty Ltd,19/05/2025 15:15,19/05/2027 15:15
+dca2317b-dac8-464e-9eda-b436d70be183,mass.digital,resell,,,78,28,4,Netregistry Wholesale Pty Ltd,19/05/2025 15:15,19/05/2027 15:15
 3c6016aa-99d1-42bb-b8a7-c657d34c3810,littleblackdress.digital,premium,,,76,2,18,,,
 b2531214-8b63-4b60-bd48-fe906ed4381b,allantoid.digital,premium,,,72,1,9,,,
 2efc0e6e-b1a6-4605-bb53-51d75d157381,maternal.digital,premium,,,86,7,8,,,
@@ -1546,9 +1546,10 @@ af4af843-34fa-459f-b9f0-8c089095611e,autosomal.digital,premium,,,52,2,9,,,
 6af48712-e19b-43a1-8e4f-d64b2d5f5139,ding.digital,resell,,,60,22,4,"Sav.com, LLC - 21",13/12/2025 15:16,13/12/2026 15:16
 6bbdb71e-14ee-40e8-b3be-505dd3fef660,anadromous.digital,premium,,,46,2,10,,,
 e51137ba-236e-4c5f-b0a3-7856e76f33a6,woodsy.digital,premium,,,66,7,6,,,
+f47912f7-f30a-489e-b598-b4433f31cc5c,incentive.digital,resell,,,90,16,9,"Sav.com, LLC - 17",04/01/2026 15:15,04/01/2027 15:15
 863f0be8-93ea-4a8b-9f7a-729d64d75290,abomb.digital,premium,,,102,2,6,,,
 a2693181-b2c7-47a2-8b0f-3318509e3fd9,anoxemic.digital,premium,,,44,1,8,,,
-c753fb1a-4b6d-4bbe-adc5-ceb522ef0d1b,adept.digital,resell,,,92,27,5,"Global Domains International, Inc. DBA DomainCostClub.com",27/10/2025 15:15,27/10/2026 15:15
+c753fb1a-4b6d-4bbe-adc5-ceb522ef0d1b,adept.digital,resell,,,92,26,5,"Global Domains International, Inc. DBA DomainCostClub.com",27/10/2025 15:15,27/10/2026 15:15
 8366c8ac-e030-47e9-8146-4e7da6a507d2,abroach.digital,available,1.99,50.99,82,1,7,name.com,,
 8307bc66-4dc2-42c6-a07b-0cb6ac62a8a2,achromatic.digital,premium,,,54,5,10,,,
 8f835242-a969-438b-941b-94be8b8d2d28,orangejuice.digital,premium,,,,7,12,,,
@@ -1587,14 +1588,14 @@ f695a81a-b049-43c1-9888-1e40ca320df4,attenuate.digital,premium,,,56,1,9,,,
 83d19651-b74a-45c3-b3e3-52c93853752b,gummybear.digital,premium,,,85,5,10,,,
 8f3b9b0d-8d17-429d-b836-831a1d0f42b7,adjunctive.digital,premium,,,72,2,10,,,
 a028fcc2-bb03-4656-9fef-6bb02f7ed24f,augitic.digital,premium,,,52,1,7,,,
-1666be10-078c-45ea-ae48-0ab7ec9f7358,invigorate.digital,premium,,,78,7,10,,,
+1666be10-078c-45ea-ae48-0ab7ec9f7358,invigorate.digital,premium,,,78,6,10,,,
 1b364189-ab0a-46eb-9b0a-baa2c0755b48,avocado.digital,resell,,,96,33,7,Netregistry Wholesale Pty Ltd,07/04/2025 15:15,07/04/2027 15:15
 4e3b532f-c4f9-4438-abcb-957b2b5490de,baffling.digital,premium,,,59,3,8,,,
 bfaa37eb-ca60-4d14-a0e2-d63571cafa40,costly.digital,available,2.99,54.99,66,7,6,name.com,,
 36e7e6cf-7946-49e8-bff4-452f7a0c8194,tatafornow.digital,premium,,,,1,13,,,
 1c545cf8-02c3-4a52-817f-1a753f59f47e,allweathertyre.digital,premium,,,76,1,16,,,
 541174ef-26cc-4260-83ea-42b2258b7c41,acrobatic.digital,premium,,,66,4,9,,,
-cd51e257-adf3-4f0f-95cd-bd3148c95368,answerable.digital,premium,,,70,4,10,,,
+cd51e257-adf3-4f0f-95cd-bd3148c95368,answerable.digital,premium,,,70,3,10,,,
 0a9152f4-c5fe-4eac-8ebf-fb9040b607d7,dogshot.digital,premium,,,76,1,8,,,
 ed215a92-300f-435b-8f53-abe9a7095de6,android.digital,premium,,,88,44,7,,,
 3f01d17f-0535-4d8f-8902-0a6aaebbf753,alpine.digital,premium,,,70,17,6,,,
@@ -1603,7 +1604,7 @@ ed215a92-300f-435b-8f53-abe9a7095de6,android.digital,premium,,,88,44,7,,,
 4497ff22-dfd1-409e-a377-37935ec612d5,dropin.digital,premium,,,76,14,7,,,
 9dfdd953-9b28-47c4-b3b6-b3aaf83402bf,ataraxic.digital,premium,,,52,3,8,,,
 02f02d89-f8e6-45cf-90d1-4d3465183fc4,trillionaire.digital,premium,,,80,12,12,,,
-0fcc7e1b-f3cb-4f6f-a2e6-2ecf941c9da3,arranged.digital,premium,,,70,8,8,,,
+0fcc7e1b-f3cb-4f6f-a2e6-2ecf941c9da3,arranged.digital,premium,,,70,7,8,,,
 cf50f209-c242-43e3-8a08-68ddfd6a7dde,singletree.digital,premium,,,,3,11,,,
 3ab5a818-d8bc-4999-bb6f-52d47e4bf7c4,lockbox.digital,premium,,,68,12,7,,,
 f130dd80-943b-4c1d-b373-fb413540ef84,knew.digital,premium,,,50,8,4,,,
@@ -1750,7 +1751,7 @@ b1471b02-2780-4a6c-b3ac-36af4e37173d,asyndetic.digital,premium,,,45,1,9,,,
 b8f287b7-ddf0-481b-8a62-227f5227206e,adoring.digital,available,2.99,54.99,90,5,7,name.com,,
 33d3bc57-d52c-4087-8589-21ab1f753199,havesecondthoughts.digital,premium,,,64,1,20,,,
 b19898ce-9a22-41e7-b266-4c85eabf6683,artless.digital,premium,,,62,7,7,,,
-5be0b574-5c2f-4001-b6ae-f63ca75f5e4f,adroit.digital,resell,,,72,16,6,"Sav.com, LLC - 33",18/07/2025 15:15,18/07/2026 15:15
+5be0b574-5c2f-4001-b6ae-f63ca75f5e4f,adroit.digital,resell,,,72,15,6,"Sav.com, LLC - 33",18/07/2025 15:15,18/07/2026 15:15
 d4cc9f00-e15f-419b-9684-4f61ca082703,noreally.digital,premium,,,74,2,9,,,
 b9ecb2cb-751e-46f1-b293-668573bccba1,nebraska.digital,premium,,,50,20,8,,,
 e2ca1859-207b-4a41-89d5-036395bd1fde,courage.digital,resell,,,100,23,7,"Sav.com, LLC - 1",02/06/2025 15:15,02/06/2026 15:15
@@ -1828,7 +1829,7 @@ b3b22877-d60d-4113-ad80-cadaf0348ef7,keepon.digital,premium,,,76,11,7,,,
 fbbfcb9c-14ba-414b-b758-2f3c9e931849,escaped.digital,premium,,,44,4,7,,,
 44ff80fe-465d-491d-aa50-f5c2af60b2eb,sweetFA.digital,premium,,,38,2,8,,,
 bf512a82-6412-418c-a22d-68d0ded5cc9d,abounding.digital,premium,,,78,2,9,,,
-f562bef4-14c2-49f1-9ab9-2fc8667e642c,antiacid.digital,premium,,,70,2,8,,,
+f562bef4-14c2-49f1-9ab9-2fc8667e642c,antiacid.digital,premium,,,70,1,8,,,
 68b21a7b-faad-4c03-9a6d-9b6ed642ab0d,hannukah.digital,premium,,,68,2,8,,,
 16c9af32-8a7c-4620-a7e8-c1d025577663,pickuptruck.digital,premium,,,58,4,13,,,
 16150cf3-ef51-49b3-a2be-61916ea4d049,ofcolor.digital,premium,,,,2,8,,,
@@ -1860,7 +1861,7 @@ efda7250-56d9-4554-b3e1-a443999452e8,wakening.digital,premium,,,75,2,8,,,
 d353e450-4cef-4500-aead-e73fc6906ac4,fortynine.digital,premium,,,56,3,10,,,
 262b21fd-4600-4173-ab88-53c30bc5305e,adding.digital,premium,,,76,5,6,,,
 e9168aea-344b-43e3-b236-23700760958d,brightness.digital,premium,,,72,7,10,,,
-ef00f413-0532-43e9-ad11-85e1aa51236b,derelict.digital,available,2.99,54.99,92,7,8,name.com,,
+ef00f413-0532-43e9-ad11-85e1aa51236b,derelict.digital,available,2.99,54.99,92,6,8,name.com,,
 8030fb97-1a75-46e5-94b3-d62d4f0100b5,acetabular.digital,premium,,,46,1,10,,,
 9b75ea36-16ab-4adb-b101-cd7d2b85fb7f,aired.digital,premium,,,56,7,5,,,
 637a0742-21f0-482b-82e1-d6094e90b6a7,ethical.digital,resell,,,94,25,7,"Sav.com, LLC - 38",30/09/2025 15:15,30/09/2026 15:15
@@ -1868,7 +1869,7 @@ ef00f413-0532-43e9-ad11-85e1aa51236b,derelict.digital,available,2.99,54.99,92,7,
 c714aa1e-7e4a-4cea-916a-71fad7dcb6d8,heel.digital,available,2.99,,64,11,4,name.com,,
 66cf98ab-f09e-4dd4-b81b-eeed6ee54923,manageable.digital,available,2.99,54.99,74,6,10,name.com,,
 a5fa2bf4-c368-400b-8239-4e3f1cd483bd,flush.digital,premium,,,114,12,5,,,
-1ba896ba-d2d0-461f-a393-06c909355c7c,hello.digital,resell,,,130,71,5,Dynadot Inc,03/09/2024 15:15,03/09/2026 15:15
+1ba896ba-d2d0-461f-a393-06c909355c7c,hello.digital,resell,,,130,70,5,Dynadot Inc,03/09/2024 15:15,03/09/2026 15:15
 9f29847f-0513-419d-9ad9-3cfc1f6c3a0b,departed.digital,premium,,,62,5,8,,,
 00f4b7d7-7e32-4194-9f96-7903d067133e,asthecrowflies.digital,premium,,,52,3,17,,,
 67b5f17d-0343-4bea-81cf-f1071abb1560,businessman.digital,premium,,,70,8,11,,,
@@ -1968,7 +1969,7 @@ baca0c77-5173-4e90-8cb3-4bc05e14c981,arguable.digital,premium,,,50,2,8,,,
 1eca5691-d373-41c0-9fb3-d3b624e96080,inthegreen.digital,premium,,,50,2,12,,,
 d1fb0779-a88c-4547-980c-2763d1aee6e0,mouthguard.digital,premium,,,,2,11,,,
 6c3980bf-8e27-4faf-923c-e76c98c83bbb,setaside.digital,premium,,,,2,9,,,
-3614ed7d-9114-4a9c-8fd7-4fed443775bc,prank.digital,premium,,,106,14,5,,,
+3614ed7d-9114-4a9c-8fd7-4fed443775bc,prank.digital,premium,,,106,13,5,,,
 d6712433-95c9-40cb-bb0d-bf0bebb5759c,sworn.digital,premium,,,70,6,5,,,
 ba987633-8258-48a7-948c-55bbc71df81a,anall.digital,premium,,,56,1,6,,,
 498d8f80-cd0f-4ead-9f2c-ed75c7b57d28,pillowcase.digital,premium,,,,3,11,,,
@@ -2028,7 +2029,7 @@ ded98e09-93da-4ff7-b3d2-0302f3949ff9,commentate.digital,premium,,,73,2,10,,,
 b95e76c9-b728-4d56-afd6-8db41c2b750d,resignation.digital,premium,,,66,3,11,,,
 41c868bc-2ffa-4497-8422-33f947952ea2,affectionate.digital,premium,,,98,3,12,,,
 11590a3a-b5a0-4891-9a66-d57df2a00445,tentative.digital,premium,,,81,6,9,,,
-286e0ae0-4056-433d-91b9-2a138dcc9d80,aromatic.digital,premium,,,92,9,8,,,
+286e0ae0-4056-433d-91b9-2a138dcc9d80,aromatic.digital,premium,,,92,8,8,,,
 ab265f24-c6af-43a7-828f-b9e61c724539,youwhat.digital,premium,,,,2,8,,,
 7d2ee166-b2a8-4ac1-8710-3e6a24047d4b,alveolate.digital,premium,,,74,1,9,,,
 c882df03-07c0-425e-b8a4-24418c9cb8e5,steppingstone.digital,premium,,,74,10,14,,,
@@ -2081,7 +2082,7 @@ e92cf329-ca71-48c6-b36e-564b575d64f7,heal.digital,premium,,,70,26,4,,,
 1b43f714-571f-4e74-b970-e56ac54344ef,agronomic.digital,premium,,,54,2,9,,,
 7bfe1183-e476-430a-9cf5-fc6bd2861667,speeding.digital,premium,,,80,5,8,,,
 0013db77-c9a8-434c-a7f5-d1ddd5c2604e,whenever.digital,premium,,,,6,8,,,
-ecebb486-c105-4aba-a2a3-955caf92fd12,nourishing.digital,available,2.99,54.99,72,9,10,name.com,,
+ecebb486-c105-4aba-a2a3-955caf92fd12,nourishing.digital,available,2.99,54.99,72,8,10,name.com,,
 62b16e05-c7b6-4a41-a35b-1fc4d78c19fb,distribution.digital,resell,,,64,16,12,Cronon GmbH,10/09/2014 16:00,10/09/2026 16:00
 5cdef826-5b93-44f9-8303-76fb5c292880,alpestrine.digital,premium,,,46,1,10,,,
 2aa27bbf-9e54-423c-b933-c3647faf7308,acetylic.digital,premium,,,46,1,8,,,
@@ -2104,7 +2105,7 @@ f14d410f-03d2-4fd7-a285-8ed0aa94e661,beaten.digital,premium,,,50,2,6,,,
 4cd9ec45-0b48-47e5-83c6-fa1dd36adee6,mount.digital,resell,,,58,19,5,"Sav.com, LLC - 41",03/03/2025 15:15,03/03/2027 15:15
 43ff36b8-7ef8-43ca-b5f1-effee1f171c9,annoyance.digital,premium,,,54,2,9,,,
 0c08c741-39c5-4529-85c4-c12ab1e455ec,setabout.digital,premium,,,,1,9,,,
-b6d60395-b7ba-4968-ab91-bbfe2f0fa1d1,outdoors.digital,resell,,,88,18,8,"Sav.com, LLC - 48",08/08/2025 15:15,08/08/2026 15:15
+b6d60395-b7ba-4968-ab91-bbfe2f0fa1d1,outdoors.digital,resell,,,88,17,8,"Sav.com, LLC - 48",08/08/2025 15:15,08/08/2026 15:15
 2f1a7d7d-722f-400d-8c8e-3e7c9a266847,agape.digital,resell,,,94,27,5,Squarespace Domains II LLC,04/08/2021 08:38,04/08/2028 08:38
 c2787586-2b5c-4f9f-aea7-b985c37f38ce,boot.digital,resell,,,72,24,4,"Sav.com, LLC - 40",04/08/2025 15:15,04/08/2026 15:15
 b419a88f-abbe-4829-944a-f3455f772e17,trolling.digital,premium,,,58,9,8,,,
@@ -2188,6 +2189,7 @@ ed7765cc-cc8d-4c16-bae9-2ad4be4a061c,shed.digital,resell,,,62,27,4,"Sav.com, LLC
 b1d57df1-0b5c-4e75-81eb-34b343c7beb7,alienate.digital,premium,,,82,3,8,,,
 ddcee796-134d-4529-b77f-8ee6d895d775,assuasive.digital,premium,,,68,1,9,,,
 5df5dd46-f604-4a01-b6d9-a6a1d248f143,StClair.digital,premium,,,64,7,9,,,
+6cc626ed-5e4c-4530-b597-17fcbe244b36,twenty.digital,resell,,,80,14,6,"Global Domains International, Inc. DBA DomainCostClub.com",23/01/2026 15:15,23/01/2027 15:15
 aafc7dbd-ae37-46e4-8ec1-fab0f9d66256,size.digital,resell,,,96,20,4,"Sav.com, LLC - 10",09/11/2025 15:15,09/11/2026 15:15
 b8e50ff7-be2d-484d-98a7-6f451a94c9cd,goods.digital,resell,,,64,26,5,IONOS SE,19/07/2024 17:00,19/07/2026 17:00
 011e6abb-ce6d-4da0-96f9-29ac1e6e7e1d,fighting.digital,premium,,,64,12,8,,,
@@ -2257,6 +2259,7 @@ ec99fdb4-779c-433b-8104-38f41b4a66f0,intricate.digital,premium,,,89,5,9,,,
 21b66744-6207-4a8f-90e2-c426eaf861d7,abdominal.digital,available,2.99,54.99,82,3,9,name.com,,
 5058b842-39bb-4d93-8aa5-2007377b9543,puttobed.digital,premium,,,,1,10,,,
 9842e7a8-3815-47ee-83b6-985d1775f81c,laid.digital,premium,,,66,7,4,,,
+2291accb-e4b8-418c-82c7-7120398269e8,identifier.digital,premium,,,74,5,10,,,
 07f265a3-3095-49b7-b26b-e1d8f6bb3322,schmalzy.digital,premium,,,42,1,8,,,
 25353ba9-45c8-4769-9a87-f9a0cf534a9e,pepsicola.digital,premium,,,82,6,10,,,
 5cc11828-c047-4c1a-aeb9-eaf3302ed62e,somebudy.digital,premium,,,58,1,8,,,
@@ -2284,7 +2287,7 @@ e05ba99b-2cd0-49b7-8622-7157f419dd2a,amyloid.digital,premium,,,68,3,7,,,
 9e2e812b-e3c8-4d05-be84-db466ad2a976,environmental.digital,resell,,,84,16,13,"Sav.com, LLC",14/09/2025 07:05,14/09/2026 07:05
 67522382-00b8-4bed-96e6-69d3876c2eed,ducttape.digital,premium,,,68,7,9,,,
 7a451353-2a9d-466b-968c-b944335cd606,alkahestic.digital,premium,,,46,1,10,,,
-d83f1449-ff8f-4a53-b300-469d16974ed9,humans.digital,resell,,,76,39,6,Netregistry Wholesale Pty Ltd,05/06/2024 17:00,05/06/2026 17:00
+d83f1449-ff8f-4a53-b300-469d16974ed9,humans.digital,resell,,,76,41,6,Netregistry Wholesale Pty Ltd,05/06/2024 17:00,05/06/2026 17:00
 c061e669-e04b-4d51-82ac-72c49078d76b,allusive.digital,premium,,,60,2,8,,,
 0b64bcf5-c71e-4fc4-a7d0-e64c84cfba64,nephew.digital,premium,,,66,7,6,,,
 266bc7bd-24f3-4d78-a120-8635da9e26f5,technicality.digital,premium,,,,3,12,,,
@@ -2309,7 +2312,7 @@ c1ec30aa-5951-4ca8-b7c4-ad4ccb2a8eae,youngatheart.digital,premium,,,,3,14,,,
 beef9b44-df52-4e73-a510-2424f578f5d1,intwominds.digital,premium,,,62,1,12,,,
 0bd0b09a-b23c-42b6-a356-c3058d2eb6c5,bringhome.digital,available,2.99,,76,4,10,name.com,,
 dc5936fe-22e7-48dc-b1c4-2a03687f49e2,coefficient.digital,resell,,,90,13,11,Porkbun LLC,08/12/2025 07:56,08/12/2026 07:56
-a27ea6df-a98e-49c8-9f08-2cdbe7143192,arabic.digital,premium,,,96,22,6,,,
+a27ea6df-a98e-49c8-9f08-2cdbe7143192,arabic.digital,premium,,,96,20,6,,,
 7c3250f7-3557-4da6-817c-1014e6500885,redtape.digital,premium,,,,5,8,,,
 94bf28d6-b918-4864-9c90-5eff74218830,francisca.digital,premium,,,72,3,9,,,
 db8b7c5a-16c7-411e-8a45-fe5503ced5eb,day.digital,resell,,,82,34,3,Porkbun LLC,28/03/2021 01:57,28/03/2027 01:57
@@ -2393,19 +2396,19 @@ feaea8e2-cd5c-4bc8-80cc-cb605c43cbb9,audible.digital,premium,,,112,98,7,,,
 3d2a0f85-b163-46b1-85e9-a3302878f54e,apelike.digital,premium,,,60,2,7,,,
 fdfafabf-eb58-4f34-8c1b-d0fc9d833f73,sensitive.digital,premium,,,84,10,9,,,
 3974f414-95e9-44aa-88c4-45d0580565c0,sup.digital,resell,,,84,33,3,Netregistry Wholesale Pty Ltd,20/09/2024 15:15,20/09/2026 15:15
-12ceca8d-520d-4c66-8eb2-255aaa90761f,acappella.digital,available,2.99,54.99,66,6,10,name.com,,
+12ceca8d-520d-4c66-8eb2-255aaa90761f,acappella.digital,available,2.99,54.99,66,7,10,name.com,,
 24d64287-ac14-4be5-bb04-571839d0d078,francesca.digital,premium,,,76,9,9,,,
 06c349b4-70d8-46ca-9286-b8522fdcedc6,briary.digital,premium,,,48,2,6,,,
 244d1815-686d-4f65-9599-c1583467c5e7,rod.digital,premium,,,64,21,3,,,
-679193d0-9a3b-4cb5-b167-62df15168918,amorous.digital,available,2.99,54.99,72,7,7,name.com,,
+679193d0-9a3b-4cb5-b167-62df15168918,amorous.digital,available,2.99,54.99,72,6,7,name.com,,
 a409eb64-bc94-4c71-979e-7b9726e0a929,gorgeous.digital,premium,,,76,15,8,,,
 a4475c35-f0a2-49c1-bb9f-9b88ab331615,burly.digital,premium,,,50,6,5,,,
 66c08bdd-f59f-44fd-b416-eb742c6e824b,anaplastic.digital,premium,,,46,1,10,,,
 142bd0b0-f402-42b8-8d50-72ab57e5cd5d,crossroads.digital,resell,,,68,31,10,"Sav.com, LLC - 22",28/02/2025 15:15,28/02/2027 15:15
-37b34165-9b02-4e1a-b90e-baa953324002,hanger.digital,premium,,,60,9,6,,,
+37b34165-9b02-4e1a-b90e-baa953324002,hanger.digital,premium,,,60,10,6,,,
 8b326ef0-9691-4dd1-ae3a-f2df10238065,lii.digital,premium,,,56,7,3,,,
 c522b007-f42b-405d-89b1-5feb0653a24f,anachronic.digital,premium,,,46,3,10,,,
-4096a45e-c8e1-4d9a-9680-186a13f9fa34,tempting.digital,available,2.99,54.99,88,6,8,name.com,,
+4096a45e-c8e1-4d9a-9680-186a13f9fa34,tempting.digital,available,2.99,54.99,88,5,8,name.com,,
 0e920fba-da0d-4765-b89f-26611804ce88,lip.digital,premium,,,72,15,3,,,
 4b4a0334-28c8-40f7-be76-bcdc9133dbf5,atoxic.digital,premium,,,38,1,6,,,
 af17a4cc-4ccc-454a-b79d-195b62650f66,gasstation.digital,premium,,,68,8,11,,,
@@ -2423,7 +2426,7 @@ af17a4cc-4ccc-454a-b79d-195b62650f66,gasstation.digital,premium,,,68,8,11,,,
 6e206943-20c4-4594-b6bb-945fa6862ce8,anomalous.digital,premium,,,58,11,9,,,
 3e54a32d-b3db-4430-af90-64e589c46fb9,version.digital,resell,,,94,16,7,"Sav.com, LLC - 38",21/07/2025 15:15,21/07/2026 15:15
 8602f6b7-142b-489c-acd0-2de27a8b3c1b,hardcurrency.digital,premium,,,72,1,13,,,
-7eed057c-7416-49c4-aeb5-98327b89394f,artificial.digital,resell,,,68,38,10,"NameCheap, Inc.",14/01/2026 15:16,14/01/2027 15:16
+7eed057c-7416-49c4-aeb5-98327b89394f,artificial.digital,resell,,,68,37,10,"NameCheap, Inc.",14/01/2026 15:16,14/01/2027 15:16
 2db003ca-ff16-4601-aacc-b5e483d865e7,unending.digital,premium,,,60,5,8,,,
 92d1712a-bc8f-4a9b-afc7-1c1bfab10746,pitted.digital,premium,,,56,2,6,,,
 50896c44-d98e-43ab-afd6-3732d1882579,pestilent.digital,premium,,,38,2,9,,,
@@ -2639,7 +2642,7 @@ ce4a299b-6b6b-4b4f-af7c-c2cd025f0da7,tiny.digital,resell,,,58,46,4,Unstoppable D
 4120d733-54c0-4cdd-b0cb-ada4ec195831,strawberryred.digital,premium,,,,1,14,,,
 1498cdc6-db9e-41d2-9444-7eb2943a8a41,hardatit.digital,premium,,,70,1,10,,,
 d593395b-b61a-4569-a086-940db63ca99e,playabout.digital,premium,,,,2,10,,,
-5b00d929-7ebb-4b2c-bb59-61b6c31ace95,warm.digital,resell,,,112,21,4,"Sav.com, LLC - 27",09/06/2025 15:15,09/06/2026 15:15
+5b00d929-7ebb-4b2c-bb59-61b6c31ace95,warm.digital,resell,,,112,20,4,"Sav.com, LLC - 27",09/06/2025 15:15,09/06/2026 15:15
 7852b691-b344-4ede-b89a-7289dc2d39ac,might.digital,resell,,,112,13,5,Dynadot Inc,20/10/2025 17:18,20/10/2026 17:18
 6b927d37-7b2d-488e-a213-b40abb51ab21,allowfor.digital,premium,,,70,0,9,,,
 0ef89478-362b-4084-83f1-01ca73d37ae8,acute.digital,resell,,,112,12,5,Dynadot Inc,26/05/2025 21:26,26/05/2026 21:26
@@ -2657,8 +2660,8 @@ e292ce94-a4ff-4d0c-b42f-aa886ad568f7,alimony.digital,premium,,,60,9,7,,,
 7158b23c-aab6-43de-b6f6-87b470856d67,mothahfucker.digital,premium,,,62,1,12,,,
 2bafe783-a57f-40c2-92a5-ca8049136516,quilting.digital,premium,,,76,6,8,,,
 79bb9007-9fa6-42b9-939c-a154abf8b6b4,overhang.digital,premium,,,70,4,8,,,
-bd3949b6-9e5e-47f9-af23-ae283cd4f256,zero.digital,resell,,,112,53,4,"Name.com, Inc.",16/01/2016 22:25,16/01/2027 22:25
-973fb7cf-1b40-4e36-a3be-e058c29317b9,illness.digital,premium,,,64,5,7,,,
+bd3949b6-9e5e-47f9-af23-ae283cd4f256,zero.digital,resell,,,112,54,4,"Name.com, Inc.",16/01/2016 22:25,16/01/2027 22:25
+973fb7cf-1b40-4e36-a3be-e058c29317b9,illness.digital,premium,,,64,6,7,,,
 0ae347ca-c132-4b3d-94c0-d2e3f01fad81,WestHaven.digital,premium,,,,4,10,,,
 ecd67025-c297-4543-8aa4-d73caae392c9,aneurismal.digital,premium,,,50,6,10,,,
 6ac14af9-33bc-43b3-ac8f-3ced11aa7380,dragout.digital,premium,,,60,1,8,,,
@@ -2783,7 +2786,6 @@ fa250cf1-8522-41c2-8d09-87f7da43efab,aguish.digital,premium,,,56,1,6,,,
 e260ea1e-52ac-4cff-91a9-a9af6a551323,closetohome.digital,premium,,,60,4,13,,,
 08f18705-bcdd-4b52-940b-4b1ffb1ef65a,touching.digital,premium,,,88,5,8,,,
 5c0da881-2095-40f3-8991-64985f8a17a6,bum.digital,premium,,,100,16,3,,,
-3ea0cfa1-7d57-40df-996a-688bf16e39f5,teen.digital,resell,,,104,19,4,"Sav.com, LLC - 33",20/02/2025 15:15,20/02/2027 15:15
 5911436c-326c-4feb-899f-3d0aeaef2816,xlii.digital,premium,,,56,5,4,,,
 4a45a292-c7ee-4bcf-8361-273b28dff0f2,aphaeretic.digital,premium,,,45,1,10,,,
 bf04b313-1f54-4425-8dbb-bad1ddd8b54c,seeingthat.digital,premium,,,54,1,11,,,
@@ -2800,10 +2802,10 @@ d9d46902-c380-4277-ad38-d469df325cc3,candybar.digital,premium,,,73,6,9,,,
 73cbe33a-5d75-4b3a-97e5-2719f9554ee0,holdopen.digital,premium,,,72,1,9,,,
 f81f65df-367b-4fed-b40a-7f9e3f6ee81d,allowable.digital,premium,,,82,1,9,,,
 81943d85-9c22-4f12-bd2c-633d68668f04,naturestudent.digital,premium,,,,1,14,,,
-7dcc299b-fc77-4c43-a5f3-032c0e2a8aef,ageing.digital,available,2.99,54.99,86,6,6,name.com,,
+7dcc299b-fc77-4c43-a5f3-032c0e2a8aef,ageing.digital,available,2.99,54.99,86,5,6,name.com,,
 e3f424d9-5b39-4fb8-bb52-5d2ac7d05a8f,kissmyass.digital,premium,,,58,4,11,,,
 4beb9c82-2e64-4dd4-a1f1-b5db5c9e1660,attender.digital,premium,,,38,3,8,,,
-646f56f8-7478-41ec-8b30-f6b3415cdc13,annoying.digital,premium,,,72,10,8,,,
+646f56f8-7478-41ec-8b30-f6b3415cdc13,annoying.digital,premium,,,72,9,8,,,
 e7694ade-8b0e-4858-98ce-07d8295edf2a,grubby.digital,premium,,,62,3,6,,,
 9db47954-f71c-4b80-b40c-a971966b54bc,glittery.digital,premium,,,64,3,8,,,
 3fb78306-edcb-4248-b332-52987bb52959,tenth.digital,available,2.99,54.99,116,9,5,name.com,,
@@ -2831,7 +2833,7 @@ c3b0c406-b987-49e4-b502-dc908dfb25ba,Germanchamomile.digital,premium,,,76,1,16,,
 03fc9c52-b6fd-469f-b6ff-282473a5f673,Bflat.digital,premium,,,68,4,6,,,
 a0f24414-c53d-45df-b6a6-cb6084c91580,believable.digital,premium,,,54,3,10,,,
 19260740-0c40-4b17-8c63-78a20af5d18d,plus.digital,resell,,,116,38,4,"Spaceship, Inc.",26/09/2023 15:15,26/09/2026 15:15
-c1e37f40-a7f1-4728-9140-26a6b9538bd6,three.digital,resell,,,88,28,5,Unstoppable Domains Inc,04/10/2023 15:15,04/10/2026 15:15
+c1e37f40-a7f1-4728-9140-26a6b9538bd6,three.digital,resell,,,88,27,5,Unstoppable Domains Inc,04/10/2023 15:15,04/10/2026 15:15
 8d2d5da8-047b-4ceb-a692-7d9e6bfe1ec7,iron.digital,resell,,,84,31,4,"Sav.com, LLC",16/08/2019 16:40,16/08/2026 16:40
 3f655c0b-f717-4378-8f32-4def9ec063e3,fiftytwo.digital,premium,,,56,6,9,,,
 4599cca9-01d5-43ef-81f1-893b3a6b4a53,pulled.digital,premium,,,,4,6,,,
@@ -2859,7 +2861,7 @@ f47dfa4f-9d8f-4bb4-b279-03dc30224fd4,alarming.digital,premium,,,46,3,8,,,
 8c5c6c46-3e83-42b5-8b08-7844a9542210,lapse.digital,premium,,,88,8,5,,,
 05d858cd-6834-41e9-a7c5-05b24be95d99,colors.digital,resell,,,82,26,6,"Sav.com, LLC - 28",27/03/2026 15:15,27/03/2027 15:15
 0b1207c7-be5e-4c0d-8008-53919c2994dc,ringed.digital,premium,,,60,3,6,,,
-cdd6ae1e-fc23-460a-82df-ed7c447e82f1,alphameric.digital,available,2.99,54.99,62,2,10,name.com,,
+cdd6ae1e-fc23-460a-82df-ed7c447e82f1,alphameric.digital,available,2.99,54.99,62,1,10,name.com,,
 6201f4f5-846e-4191-a8fe-b74104e0d5cf,endup.digital,premium,,,72,3,6,,,
 fd2cbebb-8ee3-4d4e-af54-abc5f0847b75,araceous.digital,premium,,,46,1,8,,,
 7e45a27f-8a91-43b2-b236-b6bdf817a257,graywolf.digital,premium,,,70,6,9,,,
@@ -2893,7 +2895,7 @@ d2748e3c-08d5-466c-9a5d-6e2c789f4e5f,futile.digital,premium,,,60,6,6,,,
 62062433-3d0f-465c-b0ed-f266633ccf5e,stygian.digital,premium,,,68,5,7,,,
 00b74c73-29d2-43b7-a70d-90603fea72c9,AmericanEnglish.digital,premium,,,76,5,16,,,
 5ec69a12-3aca-4010-8f0b-a9a686b1e18f,inthecan.digital,premium,,,46,2,10,,,
-8a29e30d-0e62-472b-ac96-6a91469663a6,recognised.digital,available,2.99,54.99,78,4,10,name.com,,
+8a29e30d-0e62-472b-ac96-6a91469663a6,recognised.digital,available,2.99,54.99,78,3,10,name.com,,
 ffe5796e-0464-421b-bb67-acace21bbed5,requested.digital,premium,,,64,5,9,,,
 cc8cbd9c-d315-46a8-9b6b-df9e6ffc07aa,yawn.digital,premium,,,62,15,4,,,
 76681f44-0047-403b-bfa2-714342a85194,ancillary.digital,premium,,,76,7,9,,,
@@ -2970,7 +2972,7 @@ dfc0625e-bc28-459b-a43e-e2ba1fd590af,briefing.digital,premium,,,66,8,8,,,
 19ec3c18-369c-42dd-8ea4-b281d36d2167,aboral.digital,premium,,,54,2,6,,,
 061c3ab2-ace1-452e-87f4-3b66e1db48d1,eightytwo.digital,premium,,,52,4,10,,,
 6178eac2-911d-48e7-a549-e8133642b367,thisminute.digital,premium,,,,2,11,,,
-bbaf99da-ced3-441b-8e87-a77f05887447,headline.digital,resell,,,92,15,8,"Sav.com, LLC",28/02/2026 17:12,28/02/2027 17:12
+bbaf99da-ced3-441b-8e87-a77f05887447,headline.digital,resell,,,92,14,8,"Sav.com, LLC",28/02/2026 17:12,28/02/2027 17:12
 ec90151f-5fb8-443e-ba0e-85dd6e3dd8a1,avertable.digital,premium,,,52,1,9,,,
 c4906aa6-18d8-42f2-b4a2-f478e435b2a2,commonguineapig.digital,premium,,,52,1,17,,,
 341d29db-5e50-4e77-81ef-78252b7b42b6,letterspatent.digital,premium,,,65,1,14,,,
@@ -3053,7 +3055,7 @@ b844e027-7d9b-41da-bdf5-46ce87667d74,foul.digital,premium,,,96,6,4,,,
 6255fb41-241d-4b1a-8a33-433a2b7d6e6b,xxviii.digital,premium,,,56,1,6,,,
 13455a82-9dfa-4303-802f-1a7ed3357d47,mothahfuckah.digital,premium,,,62,1,12,,,
 b28aa809-10e5-48d3-8efe-eb8021533e84,adorable.digital,available,2.99,54.99,78,10,8,name.com,,
-214c643d-1829-4a57-bc24-fabddf452674,admired.digital,available,2.99,54.99,70,7,7,name.com,,
+214c643d-1829-4a57-bc24-fabddf452674,admired.digital,available,2.99,54.99,70,6,7,name.com,,
 6ad84952-f17c-4acf-8031-e1aea69a5ee0,sneeze.digital,premium,,,86,7,6,,,
 d6419bfe-d90f-4c11-a0aa-cef8e342daba,gardencentre.digital,premium,,,74,3,13,,,
 af22584b-e091-4756-a3a7-66d25e5f670e,cotton.digital,resell,,,72,22,6,"Sav.com, LLC - 33",16/09/2025 15:15,16/09/2026 15:15
@@ -3161,7 +3163,7 @@ b3658a85-370e-4a99-a213-2f2defdb0158,energizing.digital,premium,,,76,4,10,,,
 3c51d0d6-bc57-4256-b0ca-8b639bd72c0e,scheme.digital,resell,,,66,14,6,"Sav.com, LLC - 43",11/03/2025 15:15,11/03/2027 15:15
 bcb38598-fa8a-413d-b67d-fb35473403e4,april.digital,premium,,,74,14,5,,,
 9554c9e1-401a-41d0-8765-79ccef33c982,pizzapie.digital,premium,,,82,4,9,,,
-f042711a-f356-4199-98dd-84ea642c1b5a,extra.digital,resell,,,102,28,5,"Sav.com, LLC",02/01/2019 13:43,02/01/2027 13:43
+f042711a-f356-4199-98dd-84ea642c1b5a,extra.digital,resell,,,102,27,5,"Sav.com, LLC",02/01/2019 13:43,02/01/2027 13:43
 ae4f50dc-bf9c-4813-a9e3-489080a35a70,omega.digital,premium,,,78,20,5,,,
 4df4426e-e2d9-4894-a515-8d59dfc69aea,recumbent.digital,premium,,,70,2,9,,,
 5e77a164-0db2-4c9d-bf66-050c95f9b0be,bronze.digital,resell,,,68,16,6,"Sav.com, LLC",22/09/2025 20:35,22/09/2026 20:35
@@ -3195,7 +3197,7 @@ abe9487e-aeb5-4559-8c81-19d0bf3a91ef,appealing.digital,premium,,,78,3,9,,,
 4b0f6671-0b61-4580-b470-5655d0843737,kilogramme.digital,premium,,,66,2,10,,,
 e3f2577d-2cf6-45e3-adf6-fd1cf9d4ad9d,cxxx.digital,premium,,,60,3,4,,,
 d0bd3786-c3e4-4917-ba95-ce1ef7730504,iPhone.digital,premium,,,90,29,6,,,
-db223a2b-20dc-4cf1-bb55-6bd7f689afad,hotshot.digital,resell,,,112,15,7,"Sav.com, LLC",24/11/2025 17:01,24/11/2026 17:01
+db223a2b-20dc-4cf1-bb55-6bd7f689afad,hotshot.digital,resell,,,112,14,7,"Sav.com, LLC",24/11/2025 17:01,24/11/2026 17:01
 16051fb0-9edd-4482-b14e-edfe8f149131,apophyseal.digital,premium,,,43,1,10,,,
 2ae053cb-f546-4a3c-b051-8cffae837384,earshaped.digital,premium,,,58,1,10,,,
 42a093ef-eca5-4d97-9d89-29f7be8dee9d,wind.digital,resell,,,76,24,4,"Sav.com, LLC - 1",28/05/2025 15:15,28/05/2026 15:15
@@ -3205,7 +3207,7 @@ db223a2b-20dc-4cf1-bb55-6bd7f689afad,hotshot.digital,resell,,,112,15,7,"Sav.com,
 6080521b-5cbf-4b01-a775-5bd0f0b4f984,accurate.digital,premium,82.5,82.5,78,20,8,name.com,,
 8d2b79db-133f-4aca-a21e-5ce659d05d2a,airdry.digital,premium,,,64,5,7,,,
 8ba6337c-7ca6-40de-9bff-885715466f8a,algerian.digital,premium,,,72,3,8,,,
-b5f0143c-2e07-4c79-ace9-115b452f7014,tomhanks.digital,premium,,,76,4,9,,,
+b5f0143c-2e07-4c79-ace9-115b452f7014,tomhanks.digital,premium,,,76,5,9,,,
 c7a82cb3-82c1-4738-820c-781f685c51c2,employment.digital,resell,,,74,16,10,"Sav.com, LLC - 6",24/01/2026 15:15,24/01/2027 15:15
 a0723e1c-58f7-4e6e-9a33-802305bffc43,readfor.digital,premium,,,,1,8,,,
 f783ad20-9711-497e-8cc8-3426410e9630,agelong.digital,premium,,,58,1,7,,,
@@ -3258,7 +3260,7 @@ cea81a62-25ec-4ad7-b6d7-cfdaff121c53,childsexualabuse.digital,premium,,,52,1,18,
 214693d3-b59f-4811-be7b-a1af5279d290,adopted.digital,premium,,,66,5,7,,,
 f14dbbc2-84a8-4114-9798-aff314b6f6c0,adpressed.digital,premium,,,54,1,9,,,
 d4e39b5b-1f71-4a02-9a50-a47956c29156,Ava.digital,resell,,,76,36,3,"Sav.com, LLC - 9",14/04/2025 15:15,14/04/2026 15:15
-d70c5984-2d50-46a0-ae86-539fff16116e,aggressive.digital,available,2.99,54.99,84,9,10,name.com,,
+d70c5984-2d50-46a0-ae86-539fff16116e,aggressive.digital,available,2.99,54.99,84,8,10,name.com,,
 0bb65c52-ed59-402e-b072-aac72e6a1b2a,closeorder.digital,premium,,,62,1,11,,,
 1dd92ac4-3ffc-44a2-a619-af9344c24baa,hockeyplayer.digital,premium,,,82,2,13,,,
 691d9658-37ed-4664-919f-7c45c80f5d94,GermanReich.digital,premium,,,52,1,12,,,
@@ -3324,7 +3326,7 @@ ae0c49e8-c105-4eeb-b013-70b331fb0ff3,boomorbust.digital,premium,,,78,2,12,,,
 197fffc8-93d1-4bb4-81ad-aadc312fc8d4,replacement.digital,premium,,,66,6,11,,,
 27091858-0e64-4123-b2a5-2d63499ffa68,caracas.digital,premium,,,66,9,7,,,
 ce44bb78-da50-4a8b-a8d6-caf6a048320c,alkalic.digital,premium,,,50,1,7,,,
-a59a04b5-dbaa-49ec-8848-1c97dbc496c3,oyster.digital,resell,,,64,18,6,"Sav.com, LLC - 45",22/02/2025 15:15,22/02/2026 15:15
+a59a04b5-dbaa-49ec-8848-1c97dbc496c3,oyster.digital,resell,,,64,22,6,"Sav.com, LLC - 35",15/03/2026 15:15,15/03/2027 15:15
 7b82096a-40cb-4198-ae43-aadea700956d,asoneman.digital,premium,,,44,1,10,,,
 352c8454-ae69-41a3-9305-bc94fcf3fc96,albinotic.digital,premium,,,52,1,9,,,
 b8d40210-5705-484f-a3e2-41f6560c39a2,Media.digital,resell,,,78,37,5,Dynadot Inc,17/06/2015 16:00,17/06/2026 16:00
@@ -3469,7 +3471,7 @@ a1b68448-fe93-4b5f-bde5-2bf687ead84f,cxv.digital,premium,,,60,4,3,,,
 5788f628-10fb-4c30-aa99-45050666bc26,fate.digital,premium,,,60,27,4,,,
 6de08ef7-5249-4c36-ad72-75304cff9b75,coral.digital,resell,,,68,34,5,"Sav.com, LLC - 12",09/01/2026 15:15,09/01/2027 15:15
 13ab8007-cdee-4116-9238-39d4a29fcd89,intears.digital,premium,,,44,1,8,,,
-4e6d3f53-2c9f-4dd0-be3d-71d134343d4a,provoke.digital,resell,,,68,11,7,"Sav.com, LLC",28/02/2026 20:21,28/02/2027 20:21
+4e6d3f53-2c9f-4dd0-be3d-71d134343d4a,provoke.digital,resell,,,68,10,7,"Sav.com, LLC",28/02/2026 20:21,28/02/2027 20:21
 62f1d762-5bc7-463b-a476-e29d696bc43c,tyrannic.digital,premium,,,48,1,8,,,
 c1e2d06d-96fa-457e-8fb5-8ed56fe886b4,beady.digital,premium,,,50,3,5,,,
 58e0df87-6a35-475d-9efb-e5ba47a4f387,chiaseed.digital,premium,,,74,3,9,,,
@@ -3678,7 +3680,7 @@ db783ad6-f2dd-411d-a046-2c474f216bc6,getoff.digital,premium,,,76,5,7,,,
 b1a57c61-4226-4850-a7c2-6be390635e5b,cryout.digital,premium,,,72,3,7,,,
 c57468fd-ea20-4a76-87c4-0b1755c16880,baric.digital,premium,,,42,3,5,,,
 b89c546c-8388-4e64-ac17-cf429b5e7672,earn.digital,resell,,,66,29,4,Dynadot Inc,10/07/2025 17:00,10/07/2026 17:00
-ac1f9dec-592f-41e8-bb82-b84debc89bae,twentieth.digital,available,2.99,54.99,92,3,9,name.com,,
+ac1f9dec-592f-41e8-bb82-b84debc89bae,twentieth.digital,available,2.99,54.99,92,2,9,name.com,,
 54cac9b6-439e-41bb-b39b-7dfc315297a2,gobegging.digital,premium,,,62,1,10,,,
 8f4f91a6-7c3a-4c6d-8c93-936948b8cf0a,rearward.digital,premium,,,68,1,8,,,
 690bc245-e351-4562-ab9f-d1f2263b8246,abkhazian.digital,premium,,,78,1,9,,,
@@ -3693,7 +3695,7 @@ e5c9dd32-fa14-4fb0-9a62-68bd2e70f41e,aloof.digital,premium,,,66,5,5,,,
 ad8b9dca-1a64-4124-a1b5-4d74ebd387b3,triplet.digital,premium,,,50,8,7,,,
 bfb3739d-4b76-4fc0-8f69-a0bcbb4fc7e8,flightpath.digital,premium,,,68,10,11,,,
 773aadd3-da78-4c5b-a80c-758bd89f21aa,braless.digital,premium,,,36,4,7,,,
-c201046b-99e7-464d-896b-3bcb573fa11b,phrase.digital,premium,,,94,10,6,,,
+c201046b-99e7-464d-896b-3bcb573fa11b,phrase.digital,resell,,,94,10,6,Dynadot Inc,05/04/2026 18:21,05/04/2027 18:21
 a4444be0-2154-4238-a77c-a95ccdf9d4a3,balking.digital,premium,,,72,1,7,,,
 2fab2d08-0743-4703-bbd2-83cded860ea7,china.digital,premium,,,84,5,5,,,
 213e5137-e8fc-4192-b2a4-81c24eea1422,artglass.digital,premium,,,66,5,9,,,
@@ -3803,7 +3805,7 @@ c5bf9d18-2d22-48b8-a3e7-c46712bb4e92,kleenex.digital,premium,,,89,6,7,,,
 59fb08b0-1b3f-4452-b395-7dccb7006f48,abysmal.digital,premium,,,52,4,7,,,
 ba741600-060f-4026-a82e-cfd21d734c89,cat.digital,premium,,,92,29,3,,,
 e7f927fa-2a42-454b-9e3b-7a26f8adf66c,behaviouralscience.digital,premium,,,70,3,19,,,
-2322cd7e-83fc-406d-839f-8bb1d5805c81,whatsoever.digital,premium,,,60,5,10,,,
+2322cd7e-83fc-406d-839f-8bb1d5805c81,whatsoever.digital,premium,,,60,4,10,,,
 f81bc1e1-2094-4821-9457-7f8d18bea9b4,ashy.digital,premium,,,60,10,4,,,
 25d20336-b33f-4a5d-ba14-ff0c29456690,anappleaday.digital,premium,,,56,3,14,,,
 041ab9dd-9c52-40a1-9dcc-ef311379c9cb,asthenic.digital,premium,,,52,1,8,,,
@@ -3834,7 +3836,7 @@ bac2c841-fbdb-4582-a6e8-68605909fa5c,arillate.digital,premium,,,46,1,8,,,
 b7b94d26-3fa3-4302-a024-c26b7563d43e,buns.digital,premium,,,46,7,4,,,
 5a6c9252-846b-4642-b204-e62ab0bd3cf5,foreman.digital,premium,,,62,13,7,,,
 a7e80580-fef9-4325-9cf5-69a7038e5d9d,pulloff.digital,premium,,,,1,8,,,
-acaf36bd-0111-4ef4-adec-1c5f6d99f880,apart.digital,resell,,,78,17,5,"Sav.com, LLC",14/07/2025 18:38,14/07/2026 18:38
+acaf36bd-0111-4ef4-adec-1c5f6d99f880,apart.digital,resell,,,78,16,5,"Sav.com, LLC",14/07/2025 18:38,14/07/2026 18:38
 c3df0eb0-ab37-4585-bd28-616fcddaac2e,adapted.digital,available,2.99,54.99,74,9,7,name.com,,
 93573ec5-67fb-4e41-966a-63d996bc9470,bedlinen.digital,premium,,,74,2,9,,,
 8f641050-82fc-4554-a248-5f03b57ed40c,BigFour.digital,premium,,,64,2,8,,,
@@ -3856,7 +3858,7 @@ dbfd0e05-d2e1-401e-9417-a2e927578905,WhiteSox.digital,premium,,,66,7,9,,,
 5af4003c-d171-4191-bf6b-98df0c5b17a4,miracle.digital,resell,,,76,35,7,Netregistry Wholesale Pty Ltd,15/09/2024 17:00,15/09/2026 17:00
 c0327499-85e2-4c8c-8d4b-98a9cf208dbf,alcoholic.digital,premium,,,72,7,9,,,
 eec821c2-0c24-410f-a67b-a30322bf0f32,alleviated.digital,premium,,,66,1,10,,,
-48dce77d-2c21-45b3-b875-6b7fb0c3ee19,thirteen.digital,premium,,,84,13,8,,,
+48dce77d-2c21-45b3-b875-6b7fb0c3ee19,thirteen.digital,premium,,,84,12,8,,,
 8cb7cbfa-b094-4059-a1e1-f0d19618160d,whatitis.digital,premium,,,,3,10,,,
 a84bdd8a-94f7-48ef-be9a-ed1300f05f52,families.digital,premium,,,54,10,8,,,
 069091b5-708c-42ab-9df3-fe815960df95,IwishImaybeshot.digital,premium,,,48,1,20,,,
@@ -3952,7 +3954,7 @@ d48dc6e6-00d7-4060-b42b-df2fc9d9fdd6,silverring.digital,premium,,,,2,11,,,
 8f068ebe-b864-42db-9654-f1c0a9afc01d,getreligion.digital,premium,,,73,1,12,,,
 03bdcdab-5457-4364-8452-8bfd3c379f0d,bomb.digital,resell,,,66,19,4,"Sav.com, LLC - 30",19/07/2025 15:15,19/07/2026 15:15
 b0836405-facb-41f7-9b1f-b1ad768e52a4,whereabouts.digital,premium,,,,6,11,,,
-4e027f8f-111c-43be-bcd8-79ce8113f11a,agreeable.digital,available,2.99,54.99,92,7,9,name.com,,
+4e027f8f-111c-43be-bcd8-79ce8113f11a,agreeable.digital,available,2.99,54.99,92,6,9,name.com,,
 33c06744-515e-4a0f-bd3b-2efb48949d0e,howareyougoing.digital,premium,,,56,1,17,,,
 bfd5b0df-5ed9-482a-8475-3797ebe35b1f,luckout.digital,premium,,,78,1,8,,,
 f3406e7d-57f7-4b6e-998e-e7e25e17aee6,pack.digital,resell,,,100,32,4,Netregistry Wholesale Pty Ltd,08/06/2025 15:15,08/06/2027 15:15
@@ -3987,7 +3989,7 @@ b24e39a7-1c41-466a-bf4c-cdf76a716462,heptad.digital,premium,,,58,2,6,,,
 77f92f27-d245-431b-978b-82751ab66ee8,allseasontire.digital,premium,,,76,1,15,,,
 194e0046-a34f-47e8-a53a-12c2252cc8c7,cxlv.digital,premium,,,60,2,4,,,
 073dadd2-618f-48d9-82ad-881d82cf2812,Englishmedium.digital,premium,,,58,1,14,,,
-72466409-d897-4fbe-8833-7f8d75975643,choice.digital,resell,,,74,32,6,Unstoppable Domains Inc,05/12/2023 15:15,05/12/2026 15:15
+72466409-d897-4fbe-8833-7f8d75975643,choice.digital,resell,,,74,31,6,Unstoppable Domains Inc,05/12/2023 15:15,05/12/2026 15:15
 d819491e-7133-4694-b315-37a1b08e1c79,clinically.digital,premium,,,56,9,10,,,
 c20b04f6-25d4-4ad5-baea-188473d47287,date.digital,resell,,,78,22,4,"Sav.com, LLC",13/10/2023 07:15,13/10/2026 07:15
 fafd4ea0-d4c8-47d0-912d-7967b29a4206,asymptotic.digital,premium,,,38,4,10,,,
@@ -4050,7 +4052,7 @@ f652da85-9c10-4b1d-91dc-625e7bfead0a,sail.digital,resell,,,72,31,4,"Sav.com, LLC
 a0177044-3f9d-415e-9342-4d6055a5b5a8,marijuana.digital,premium,,,67,30,9,,,
 eb229988-5532-4c88-b865-4ed0ee3a6c41,mitigatory.digital,premium,,,66,1,10,,,
 3a5cea11-7703-41b6-858d-d8215dcda7d1,makethemostof.digital,premium,,,76,1,16,,,
-50712c63-eded-49e8-8409-496f9c5b5c82,oversight.digital,resell,,,84,14,9,"Sav.com, LLC",10/08/2025 08:34,10/08/2026 08:34
+50712c63-eded-49e8-8409-496f9c5b5c82,oversight.digital,resell,,,84,15,9,"Sav.com, LLC",10/08/2025 08:34,10/08/2026 08:34
 a8ea137e-bdb8-4b91-acae-1f71e286fe49,WordofAllah.digital,premium,,,,1,13,,,
 0429152b-7bc3-498a-9f41-d38c87fbd11e,apocrine.digital,premium,,,46,1,8,,,
 473ef2ab-e6fb-4cd7-b51e-2c7bbf62646a,ass.digital,premium,,,46,29,3,,,
@@ -4062,7 +4064,6 @@ c58851a5-c780-422d-ba55-58bd02b3129a,late.digital,resell,,,76,16,4,"Sav.com, LLC
 9371fb31-c00d-473d-ba7f-efd3d30c8d7e,dendroidal.digital,premium,,,52,1,10,,,
 bd44a6e4-6b73-43bb-914d-99864018d929,howshouldIknow.digital,premium,,,52,1,17,,,
 70761540-b883-4783-aecc-59b047fd9226,vacuumcleaner.digital,premium,,,76,5,14,,,
-7976b82f-9092-44f0-a54a-c17f41b0e644,hedge.digital,resell,,,68,21,5,"Sav.com, LLC - 27",11/05/2025 15:15,11/05/2026 15:15
 65f4d812-b29d-4f7e-b023-19272101c7d3,inthis.digital,premium,,,60,4,7,,,
 eb791006-4f63-4d78-b066-29f2fc4215f8,pharmacist.digital,premium,,,74,13,10,,,
 034e8a9b-f59c-414e-9087-61a0860490c4,luminous.digital,resell,,,64,24,8,"Sav.com, LLC - 28",01/08/2024 15:15,01/08/2026 15:15
@@ -4075,6 +4076,7 @@ f99c1c32-8306-4ad5-83ba-66adb4f68bfb,whose.digital,premium,,,76,14,5,,,
 71092dd4-ae7e-4843-b35f-8b4041ef1fb6,vexing.digital,premium,,,66,4,6,,,
 59c9baa4-7096-4de6-9c3f-66bce7806f98,victorian.digital,premium,,,81,9,9,,,
 b77c43b1-f86b-4a00-af9d-74b128ea0965,Crayola.digital,premium,,,80,10,7,,,
+92369016-1798-4d2a-829f-2ef8d9c27df1,windsor.digital,resell,,,66,23,7,"Sav.com, LLC - 26",27/03/2025 15:15,27/03/2027 15:15
 f0501b88-84f7-46b1-9ec2-4c8b2922763e,sixtyone.digital,premium,,,58,5,9,,,
 aea8109e-359f-472c-b558-199c4e5b84fc,ameboid.digital,premium,,,74,1,7,,,
 89e7791a-4eae-4d79-ad25-60ce7c9e225d,pussy.digital,resell,,,50,37,5,"GoDaddy.com, LLC",17/05/2016 02:22,17/05/2026 02:22
@@ -4111,7 +4113,7 @@ b672f6c5-e3dd-4cf4-a7c2-9cf4af3366f1,octonary.digital,premium,,,68,1,8,,,
 25b69b60-84e0-4b53-9b77-545786d70fd2,plasticsurgeon.digital,premium,,,76,7,15,,,
 1bf648ea-ed1e-460e-8725-173b97beb898,bayesian.digital,premium,,,60,8,8,,,
 8a4e7c74-7005-4f72-8537-4cab304cb19b,convince.digital,premium,,,79,7,8,,,
-342d43ab-9ae9-442d-bb7b-df5ba04eff6b,thou.digital,available,2.99,54.99,60,9,4,name.com,,
+342d43ab-9ae9-442d-bb7b-df5ba04eff6b,thou.digital,available,2.99,54.99,60,8,4,name.com,,
 5d5d2250-5a01-492e-b901-2f086a9a11cb,unexpected.digital,premium,,,88,10,10,,,
 a58d218d-8b14-4dae-a945-9616da269543,extempore.digital,premium,,,86,3,9,,,
 abff56ce-6462-4d85-bde1-8e5d40c25240,amoeban.digital,premium,,,52,1,7,,,
@@ -4134,7 +4136,7 @@ a3ca5572-61fc-4a9f-b685-c298a3ed6ce3,appellate.digital,premium,,,50,5,9,,,
 945ec709-c6a5-42b8-8d28-9d43f08b0088,takeastand.digital,premium,,,,3,12,,,
 f0e7ea46-6a23-40b4-8863-41820098cadd,assistant.digital,resell,,,74,30,9,"Spaceship, Inc.",21/01/2024 15:15,21/01/2027 15:15
 ab656530-0fc7-4306-8b30-092cea7f5b65,acceptive.digital,premium,,,60,1,9,,,
-1a90750c-396d-470a-9b8d-5fb560566a7b,astounded.digital,premium,,,68,3,9,,,
+1a90750c-396d-470a-9b8d-5fb560566a7b,astounded.digital,premium,,,68,2,9,,,
 477fea40-1f2a-4bef-b3bb-4b338c5576da,kindly.digital,resell,,,84,18,6,Porkbun LLC,25/06/2021 16:42,25/06/2026 16:42
 a49b1d40-bcc4-4f35-9171-5893c0c4604f,playoff.digital,premium,,,72,7,8,,,
 343ff17d-254b-42db-bcdd-8ad85b71499f,hate.digital,resell,,,86,21,4,"Sav.com, LLC - 20",14/08/2025 15:15,14/08/2026 15:15
@@ -4236,7 +4238,7 @@ a67d7a71-20f6-4cee-8687-57bc0db4bd96,crowded.digital,available,2.99,54.99,60,8,7
 c1fd157c-3d11-4da5-8b11-f2ab2a10ccad,wellcovered.digital,premium,,,70,1,12,,,
 92adeac2-efa5-48c0-9ab3-b68bc1a23823,lxxii.digital,premium,,,52,1,5,,,
 730bbebd-2980-4b2f-af7c-a25a9618e43f,amnic.digital,premium,,,50,4,5,,,
-aaeef543-2b1b-41a2-82cb-0db69c795298,alltime.digital,available,2.99,54.99,72,13,8,name.com,,
+aaeef543-2b1b-41a2-82cb-0db69c795298,alltime.digital,available,2.99,54.99,72,12,8,name.com,,
 e7db4715-3b5f-46ef-b688-2110510a8806,acrogenous.digital,premium,,,46,1,10,,,
 251987f9-6485-4d76-a9e0-00f62435e48f,briefly.digital,resell,,,65,22,7,"Sav.com, LLC",13/03/2026 22:47,13/03/2027 22:47
 8e12b759-c961-446b-a918-4ce68955cf5b,half.digital,resell,,,152,18,4,"Sav.com, LLC - 8",08/05/2025 15:15,08/05/2026 15:15
@@ -4322,7 +4324,7 @@ e2f48fec-2d76-4277-a31e-a1874bab6eca,lecture.digital,premium,,,96,11,7,,,
 a4b5f263-b248-4902-8d20-66c3a5a691aa,eBay.digital,premium,,,88,34,4,,,
 d6fb03d3-a167-4331-b382-6b17340217ea,latter.digital,premium,,,72,6,6,,,
 2f39c76a-5ff4-4001-850c-7cb760e04510,DalaiLama.digital,premium,,,80,2,10,,,
-e06cb771-ebcb-4f7b-a27f-603ec009110c,xvi.digital,premium,82.5,82.5,66,8,3,name.com,,
+e06cb771-ebcb-4f7b-a27f-603ec009110c,xvi.digital,premium,82.5,82.5,66,7,3,name.com,,
 c4eed831-75ac-4abb-8c78-c9483cdf21ec,respectfully.digital,premium,,,62,4,12,,,
 25e21a71-f8d1-4f40-813e-62444014c1a0,whoknew.digital,premium,,,,4,8,,,
 f6b37e76-ce25-4d2e-a713-10d14813e5bd,aphetic.digital,premium,,,49,1,7,,,
@@ -4340,13 +4342,13 @@ fe3c4ed5-8742-407f-a2e0-feaba45b1080,hopedfor.digital,premium,,,51,1,9,,,
 4405786c-71d7-42c8-9337-d40268d7e7ca,lavaliermicrophone.digital,premium,,,76,1,19,,,
 64741751-49db-46e4-b752-bccdd136d14b,dozen.digital,resell,,,82,12,5,"Sav.com, LLC",23/02/2026 20:10,23/02/2027 20:10
 153c53fb-ca7d-499a-8e29-e8d37e73aede,telephonecall.digital,premium,,,66,1,14,,,
-787e1d7e-7776-4ae3-9ac7-4fbe40b5258f,zest.digital,resell,,,101,31,4,"Sav.com, LLC - 6",26/04/2025 15:15,26/04/2026 15:15
 73db5e3e-f5f2-492b-851c-26b6fac708d0,adductive.digital,premium,,,54,1,9,,,
 769549fd-4984-4561-8c5a-c1582db93cfb,bloodsample.digital,premium,,,70,1,12,,,
 e50a84bd-06d1-4b8c-b65c-9683bdea7585,lxi.digital,premium,,,52,5,3,,,
+fa05903f-90db-4b5a-bf78-89846c17e883,shrimp.digital,resell,,,70,20,6,"Sav.com, LLC - 12",23/03/2025 15:15,23/03/2027 15:15
 6d6081e8-1dfb-4f1a-a38e-22eaeb6e09f4,bedimmed.digital,premium,,,40,1,8,,,
 ad34117d-38f7-48b1-a7e2-d2c8d70cd5b9,motherfukkah.digital,premium,,,62,1,12,,,
-eab9af52-4f07-4e96-8b61-85e7b68935ce,improvise.digital,available,2.99,54.99,76,6,9,name.com,,
+eab9af52-4f07-4e96-8b61-85e7b68935ce,improvise.digital,available,2.99,54.99,76,5,9,name.com,,
 c9e0afc7-74e0-4817-89ac-4b4ee6e3ec6d,wintertime.digital,premium,,,,3,11,,,
 b46cf201-8617-48cc-91ea-13f2b64aaff9,bilious.digital,premium,,,40,2,7,,,
 9bba0b0b-e0e7-463b-bb46-470124408f8f,thisone.digital,premium,,,,9,8,,,
@@ -4418,7 +4420,7 @@ f9830374-b49d-4f73-bc47-8a79d8aaf210,amnionic.digital,premium,,,46,1,8,,,
 449bb86a-2afb-43de-903f-3a145d06933a,subsidiary.digital,premium,,,90,3,10,,,
 30cba8b0-0cf4-45f0-bb7b-81eec22bd51b,gotothetoilet.digital,premium,,,60,1,16,,,
 f9409efa-d0ec-45d9-9180-3bfed02b3e21,bankrupt.digital,premium,,,82,7,8,,,
-7dfc3cc1-1b3f-4d79-b534-fd18042c3e27,thousand.digital,resell,,,84,11,8,"GoDaddy.com, LLC",01/07/2025 23:26,01/07/2026 23:26
+7dfc3cc1-1b3f-4d79-b534-fd18042c3e27,thousand.digital,resell,,,84,10,8,"GoDaddy.com, LLC",01/07/2025 23:26,01/07/2026 23:26
 dc6f8044-f852-449d-ad74-d68d5b55cbe3,athenian.digital,premium,,,54,5,8,,,
 5c6f4ab6-2625-4007-8d13-4155f1e4ab3e,antic.digital,premium,,,92,8,5,,,
 753535c1-e14e-41d6-90d9-d03e06291aab,atall.digital,premium,,,66,4,6,,,
@@ -4461,7 +4463,7 @@ a90cbf3c-8c35-48b8-b063-f9182f8477ea,makeitbig.digital,premium,,,58,2,11,,,
 8cf8e986-9983-4163-ab5a-a9ebf270d4aa,bats.digital,premium,,,54,11,4,,,
 1b708a45-d598-4d3c-855c-46921e70e407,whichever.digital,premium,,,60,3,9,,,
 7c493774-2367-48a6-86b6-e7da95e1602f,nipping.digital,premium,,,56,1,7,,,
-71b90c2a-a284-4029-905e-0553d806d738,prenatal.digital,resell,,,88,8,8,"Sav.com, LLC",09/09/2025 20:06,09/09/2026 20:06
+71b90c2a-a284-4029-905e-0553d806d738,prenatal.digital,resell,,,88,7,8,"Sav.com, LLC",09/09/2025 20:06,09/09/2026 20:06
 f7f06bc2-992b-48dc-8b46-6ee8c16d4ff3,serveup.digital,premium,,,74,5,8,,,
 6f8f5c23-f517-4922-a879-10a53bd1f1dc,aversive.digital,premium,,,56,1,8,,,
 43851e95-f3e5-4934-b7e2-4fb0fb04fc28,caper.digital,premium,,,92,9,5,,,
@@ -4529,7 +4531,7 @@ cc7b8a5a-68da-4b0f-b906-c4717337f06c,cheerily.digital,premium,,,68,2,8,,,
 1d6485d0-b5ef-4586-9b66-e79ed120415a,laptop.digital,premium,,,90,18,6,,,
 14bcf1fb-ea24-4bd0-ba46-5e21622599af,pustulate.digital,premium,,,56,1,9,,,
 5e2a6f3e-9741-4825-aab6-a5ee37d3e471,tossacoin.digital,premium,,,,2,11,,,
-6bd240b1-1de8-4b59-84be-e27e6d61511b,sterile.digital,premium,,,68,8,7,,,
+6bd240b1-1de8-4b59-84be-e27e6d61511b,sterile.digital,premium,,,68,7,7,,,
 b80b540a-4da4-4452-9cd2-a15e2afa3a1b,adenoidal.digital,premium,,,52,2,9,,,
 c2d2b9ab-2330-4973-9815-71f4c7b90d96,amaurotic.digital,premium,,,46,1,9,,,
 f009ccb3-b25f-4983-97a5-4b319b98cc47,Nickelodeon.digital,premium,,,86,9,11,,,
@@ -4729,7 +4731,7 @@ e03f592e-170a-4ae0-a191-b8447b59c080,inshort.digital,premium,,,62,4,8,,,
 cd1615b0-655e-499a-a1ea-09cf28024ab2,earth.digital,resell,,,62,43,5,Porkbun LLC,17/06/2015 16:01,17/06/2026 16:01
 0e6c8003-6f98-43e6-9c6d-6fee70098c31,against.digital,premium,,,60,10,7,,,
 9ed919a1-4fe1-46aa-936a-d24a403f6c5d,activity.digital,resell,,,78,18,8,"Sav.com, LLC - 32",28/05/2025 15:15,28/05/2026 15:15
-2981183e-bcf4-4ff1-a5c3-609f596d7fc8,stunning.digital,premium,,,94,14,8,,,
+2981183e-bcf4-4ff1-a5c3-609f596d7fc8,stunning.digital,premium,,,94,13,8,,,
 34c12994-86b4-450a-abd8-9b184c370443,spacious.digital,premium,,,67,8,8,,,
 c85b492f-ad96-45d0-9f10-3e65a4c62820,candidacy.digital,premium,,,73,3,9,,,
 aeb471ba-3632-4ee2-9697-9b459040d7c2,sniff.digital,premium,,,108,13,5,,,
@@ -4866,7 +4868,7 @@ c04c4c24-0406-4cc2-974d-abc3a07e0fab,informally.digital,premium,,,58,2,10,,,
 b4030910-de3f-469b-899a-e907c2d111c0,inthelightof.digital,premium,,,56,1,15,,,
 3a999763-7737-4a21-82cf-19cd16de4cde,hand.digital,resell,,,76,27,4,"Sav.com, LLC - 2",14/03/2025 15:15,14/03/2027 15:15
 a3dd914e-c7ac-481b-b447-36195bce3c0b,ageold.digital,premium,,,62,1,7,,,
-7a5ffb8e-11fc-4d52-930b-72e25df0aacc,hatred.digital,premium,,,60,6,6,,,
+7a5ffb8e-11fc-4d52-930b-72e25df0aacc,hatred.digital,premium,,,60,7,6,,,
 e3c4553f-f245-4b86-85e3-873c5f0a4936,blanksheet.digital,premium,,,76,2,11,,,
 17cad8ce-5144-4a1e-8136-1b0b291f371a,namedafter.digital,premium,,,,1,11,,,
 5428f169-619f-455d-a3d2-eaaeb26634ee,WestIndies.digital,premium,,,,4,11,,,
@@ -4889,8 +4891,8 @@ d8128e86-2f12-43a8-bd29-c729bf17d348,analytical.digital,premium,,,50,8,10,,,
 81593fd3-6900-4e05-ab12-2ff0897b22c9,blossom.digital,resell,,,76,31,7,Netregistry Wholesale Pty Ltd,02/12/2024 17:00,02/12/2026 17:00
 c5fbf597-7b1a-4385-9bb9-8390ea0e1da2,passcode.digital,premium,,,74,5,8,,,
 cae75119-b29f-4497-9e47-6d4100157fcd,Katy.digital,resell,,,84,15,4,"Sav.com, LLC - 45",21/08/2025 15:15,21/08/2026 15:15
-909dbfe1-ee44-4ec7-83ea-d59406afae44,twentysix.digital,available,2.99,54.99,78,10,10,name.com,,
-2c42f185-c51e-4208-9bcc-03142d7c10af,eternal.digital,resell,,,92,40,7,Netregistry Wholesale Pty Ltd,03/09/2025 15:15,03/09/2027 15:15
+909dbfe1-ee44-4ec7-83ea-d59406afae44,twentysix.digital,available,2.99,54.99,78,9,10,name.com,,
+2c42f185-c51e-4208-9bcc-03142d7c10af,eternal.digital,resell,,,92,39,7,Netregistry Wholesale Pty Ltd,03/09/2025 15:15,03/09/2027 15:15
 c8d186c5-40f8-4a37-8f79-97329c19d5b8,xlvi.digital,premium,,,56,3,4,,,
 7e42df9e-a5ca-4dff-8763-842c094569c8,stock.digital,resell,,,68,40,5,"GoDaddy.com, LLC",27/08/2024 02:04,27/08/2026 02:04
 e108bcf1-1de7-4643-9831-7a18b5fce301,chase.digital,premium,,,66,22,5,,,
@@ -4927,7 +4929,7 @@ c99e9642-0c8f-4d8f-ab2e-f7da1a1ad85b,fucksome.digital,premium,,,58,1,8,,,
 c64bca3f-26ca-4d48-ba36-8ed82718fc4f,nothankyou.digital,premium,,,,3,12,,,
 c8dd88d0-88c3-4bac-ac8d-4afdae150390,nature.digital,resell,,,82,37,6,"Spaceship, Inc.",15/07/2022 13:15,15/07/2026 13:15
 cd32a7af-86ad-4b75-8630-975ba50a267d,acrid.digital,premium,,,47,2,5,,,
-e55a58d6-2d15-444d-9182-c89bf37b7cab,option.digital,resell,,,104,20,6,"Sav.com, LLC - 1",18/06/2025 15:15,18/06/2026 15:15
+e55a58d6-2d15-444d-9182-c89bf37b7cab,option.digital,resell,,,104,21,6,"Sav.com, LLC - 1",18/06/2025 15:15,18/06/2026 15:15
 9fa7510b-896a-4917-a015-c177d24af5f9,activation.digital,resell,,,62,16,10,"Sav.com, LLC - 6",04/10/2024 17:00,04/10/2025 17:00
 17423783-920b-463d-a8c6-447f0e2e1b0e,howdoyedo.digital,premium,,,48,1,12,,,
 863f2d4e-8330-494c-8ef0-17b3dc07f426,debase.digital,premium,,,60,4,6,,,
@@ -5020,7 +5022,7 @@ e90207fd-13d3-461d-87ce-16ec8e325859,worsening.digital,premium,,,58,2,9,,,
 ced3288b-70b3-4802-adfe-1f566c84030d,airless.digital,premium,,,52,5,7,,,
 665ccf84-c514-4bb1-a934-30914a890787,riled.digital,premium,,,44,2,5,,,
 798b0a0d-9e6c-4e39-bdbb-f6eebb807373,ColonelSanders.digital,premium,,,72,1,15,,,
-dc86129f-5177-439f-8f6a-65dcc69cacd2,amateur.digital,premium,82.5,82.5,84,21,7,name.com,,
+dc86129f-5177-439f-8f6a-65dcc69cacd2,amateur.digital,premium,82.5,82.5,84,20,7,name.com,,
 ac8fa586-93d3-4164-b0df-43a684c95539,should.digital,premium,,,98,10,6,,,
 e450ccd5-c560-4ef9-97be-e92d22a4baa7,ohoh.digital,premium,,,72,6,5,,,
 ff169d12-bdb3-4363-968e-8e48a5481d67,cxx.digital,premium,,,60,9,3,,,
@@ -5058,7 +5060,7 @@ f847668d-c959-4855-8d21-c42ca6c65b94,committed.digital,premium,,,75,10,9,,,
 91e5ed8d-02e1-4583-957b-cd2112bb680d,investmentbanking.digital,premium,,,70,6,18,,,
 951b79dd-7e0d-442a-9b94-0e2a8f94b989,explorer.digital,resell,,,74,29,8,Netregistry Wholesale Pty Ltd,14/07/2025 15:15,14/07/2027 15:15
 0cf9d4d9-4fc4-4160-88c1-2780062f6e1e,seven.digital,resell,,,58,35,5,Porkbun LLC,31/03/2021 14:59,31/03/2026 14:59
-497ac755-dac2-4a78-8f5e-c41846d33727,fullscale.digital,available,2.99,54.99,72,8,10,name.com,,
+497ac755-dac2-4a78-8f5e-c41846d33727,fullscale.digital,available,2.99,54.99,72,7,10,name.com,,
 d64fc718-0727-4a7f-8148-32e5846dcfcb,daytime.digital,premium,,,92,8,7,,,
 2ba9e5e9-e36d-41fd-904c-91b56e3f8d8f,inregardto.digital,premium,,,50,1,12,,,
 0ddc0a11-5292-410b-95f4-f068bbe12ad3,tug.digital,premium,,,88,12,3,,,
@@ -5078,7 +5080,7 @@ b17fa818-03d0-491d-aeef-633103ed1c5e,oilpainting.digital,premium,,,,5,12,,,
 26e8f400-759f-4998-bfd3-1ba7221e63db,groundless.digital,premium,,,37,3,10,,,
 5550b22a-d1a5-4bf6-9028-1bc4f46f074c,swift.digital,premium,,,68,20,5,,,
 f67e2787-b419-4dc6-8cab-2967079eef64,days.digital,resell,,,92,23,4,"Sav.com, LLC - 29",05/01/2026 15:15,05/01/2027 15:15
-ef7bb2f6-b3e4-456b-9147-466b42b227c1,activist.digital,resell,,,88,13,8,"Sav.com, LLC - 27",15/08/2025 15:15,15/08/2026 15:15
+ef7bb2f6-b3e4-456b-9147-466b42b227c1,activist.digital,resell,,,88,15,8,"Sav.com, LLC - 27",15/08/2025 15:15,15/08/2026 15:15
 07829cd9-de75-4f2a-9720-1ef82c142818,glinting.digital,premium,,,64,1,8,,,
 395eee81-bf54-4424-8e34-445f29f9a371,began.digital,premium,,,60,3,5,,,
 a05130bb-48ce-48fa-84f3-dd2b2eda6939,offcolor.digital,premium,,,44,2,9,,,
@@ -5089,7 +5091,7 @@ bd192882-e4e8-41cd-bb95-fc14daba9b5a,balsamy.digital,premium,,,56,1,7,,,
 2389894c-1943-43d5-bd4f-b5cd77f70c69,frog.digital,premium,,,86,37,4,,,
 ec44b443-b23c-487a-8cda-c290fa1fec17,addressed.digital,premium,,,58,3,9,,,
 b6944711-1fe1-4e4d-af8c-03ff6b51f59f,commonman.digital,premium,,,72,4,10,,,
-2fce6a3e-ab4c-4204-b30f-ab6a77a8b932,older.digital,available,2.99,54.99,66,11,5,name.com,,
+2fce6a3e-ab4c-4204-b30f-ab6a77a8b932,older.digital,available,2.99,54.99,66,10,5,name.com,,
 0486ffe9-40cd-43f6-85bc-d2fdb4e0be38,written.digital,premium,,,74,11,7,,,
 42ba0878-08ba-45eb-a3ab-df974fe51639,autoicous.digital,premium,,,48,2,9,,,
 aa8a950f-dd45-4407-9fd3-9fdc51180900,getthewordout.digital,premium,,,73,2,16,,,
@@ -5102,18 +5104,18 @@ c202fefa-cc49-4718-ac40-562ad8793040,commonmarket.digital,premium,,,64,2,13,,,
 f182b3a3-3c2e-4faf-b7c4-d1e8e68230de,youre.digital,premium,,,62,16,5,,,
 a626cb85-42b2-47f2-a3b7-0ed779741dce,foto.digital,resell,,,76,24,4,"Spaceship, Inc.",09/10/2021 13:15,09/10/2026 13:15
 93f02ab4-f0f3-44af-90b3-16190b475e64,slanting.digital,premium,,,62,2,8,,,
-cf6bb4a0-4a92-4bcd-bb3c-2a520ea358f6,animating.digital,premium,,,72,4,9,,,
+cf6bb4a0-4a92-4bcd-bb3c-2a520ea358f6,animating.digital,premium,,,72,3,9,,,
 6bb784d1-b185-45f7-bd36-34ceae1651fe,cunning.digital,available,2.99,54.99,60,7,7,name.com,,
 4e486ccc-6170-4a19-ba23-3f12accd5f7e,disc.digital,resell,,,72,23,4,"Sav.com, LLC - 36",07/12/2025 15:15,07/12/2026 15:15
 0371bc33-493c-4fd2-897b-adf76d4646e4,medicalreport.digital,premium,,,64,2,14,,,
 1ca79381-dca8-4f01-95cc-895e687c0731,beakless.digital,premium,,,36,1,8,,,
 a45353ee-596f-4e7f-bd19-23d7b4ad6aca,session.digital,resell,,,72,25,7,"Sav.com, LLC - 11",16/09/2025 17:00,16/09/2026 17:00
 968991cd-ff7e-4131-8fcf-8548f5984d53,mushy.digital,premium,,,54,7,5,,,
-84e4225b-a8d0-427f-a518-ddcb5c90e4d2,grouping.digital,premium,,,84,4,8,,,
+84e4225b-a8d0-427f-a518-ddcb5c90e4d2,grouping.digital,premium,,,84,5,8,,,
 23dab29f-c573-4294-86e8-8f094433da06,resultant.digital,premium,,,76,3,9,,,
 8f1c6839-c45c-4ff2-8767-35e9c7444b7f,insurancecarrier.digital,premium,,,64,2,17,,,
 f288277e-4903-4d11-88ce-cdca49e46039,giveafig.digital,premium,,,66,1,10,,,
-9da71bf6-a829-4a64-8b8c-cf56a94c3ff5,nuts.digital,resell,,,64,22,4,"Sav.com, LLC",06/01/2026 17:00,06/01/2027 17:00
+9da71bf6-a829-4a64-8b8c-cf56a94c3ff5,nuts.digital,resell,,,64,21,4,"Sav.com, LLC",06/01/2026 17:00,06/01/2027 17:00
 f4fda9f8-4ebe-4d68-9cbc-7c83b692dd8e,dateofbirth.digital,premium,,,70,2,13,,,
 e24041aa-0a0e-4b6f-8575-8e8d03e9d3ad,core.digital,resell,,,68,50,4,"GoDaddy.com, LLC",21/02/2017 13:09,21/02/2027 13:09
 d2162d44-8740-4c8e-b781-c2d777a48df8,amylaceous.digital,premium,,,46,1,10,,,
@@ -5126,12 +5128,12 @@ c6ad2d4b-eded-4d1e-9ba7-dba68a751559,underestimate.digital,premium,,,86,3,13,,,
 364ce76e-ce03-4a74-a19a-d997bea1c659,utmost.digital,premium,,,92,8,6,,,
 5cc614ef-7daa-43c7-9ecd-8103229a106b,checkinto.digital,premium,,,70,2,10,,,
 407541f6-8df1-4d60-b15c-03c4753d1bb1,antiphonal.digital,premium,,,64,1,10,,,
-26ad9265-de4d-4d8a-be0f-9b36541d4b76,vacation.digital,resell,,,70,27,8,"GoDaddy.com, LLC",10/11/2014 20:06,10/11/2026 20:06
-20cbdc3d-90ed-4ae4-be12-ca7abe10970f,grandchild.digital,premium,,,,4,10,,,
+26ad9265-de4d-4d8a-be0f-9b36541d4b76,vacation.digital,resell,,,70,26,8,"GoDaddy.com, LLC",10/11/2014 20:06,10/11/2026 20:06
+20cbdc3d-90ed-4ae4-be12-ca7abe10970f,grandchild.digital,premium,,,,3,10,,,
 5990aef3-3c58-4a90-b70d-ce0113031c23,baconexplosion.digital,premium,,,76,1,15,,,
 669266cc-9a80-4325-9191-86d70381b5a3,corrupted.digital,available,2.99,54.99,52,10,9,name.com,,
 51ba90c8-0ae3-437d-9aa7-bfd221b7c3f4,inthreedays.digital,premium,,,48,1,13,,,
-5546cfdc-4140-41d7-bcff-514bf3990c70,cordial.digital,available,2.99,54.99,98,13,7,name.com,,
+5546cfdc-4140-41d7-bcff-514bf3990c70,cordial.digital,available,2.99,54.99,98,12,7,name.com,,
 00ccf945-bdc8-4c2f-9116-76acc131b3a4,abulic.digital,premium,,,70,2,6,,,
 c095d3be-4f2f-40dd-89e4-2afc1be83983,speedofsound.digital,premium,,,,3,14,,,
 078aa087-c0a0-4cdf-8340-3041af4b6f2d,battered.digital,premium,,,46,3,8,,,
@@ -5158,7 +5160,7 @@ ca22e81e-d137-4bcd-bd4e-51fd30602729,exemplary.digital,available,2.99,54.99,92,6
 af8e07e1-973e-4c68-8a9c-9feb193a80da,wrongful.digital,premium,,,56,2,8,,,
 b30e9d8b-8da3-4047-a127-672ce23bac8b,infrontof.digital,premium,,,52,1,11,,,
 665c4ad8-51d9-4c96-bfa0-55da6fec1244,oilterminal.digital,premium,,,58,2,12,,,
-d46e661a-9ba4-4385-abcf-8797ab858a2d,trace.digital,resell,,,58,35,5,"Sav.com, LLC - 11",27/02/2025 15:15,27/02/2027 15:15
+d46e661a-9ba4-4385-abcf-8797ab858a2d,trace.digital,resell,,,58,36,5,"Sav.com, LLC - 11",27/02/2025 15:15,27/02/2027 15:15
 10c5e59b-2300-48eb-97b0-bff7d75498c7,perfected.digital,premium,,,70,5,9,,,
 bcded5c2-e26e-4f24-974c-d8c0b4f07343,shock.digital,resell,,,54,21,5,"Sav.com, LLC - 31",31/01/2026 15:15,31/01/2027 15:15
 0501dbd7-1ad3-4096-b1e9-025728ce53e7,plotted.digital,available,2.99,54.99,72,5,7,name.com,,
@@ -5206,7 +5208,6 @@ a73e5635-43ec-4689-a145-4ba42e9cb6ae,pat.digital,premium,,,78,29,3,,,
 d15ffa2c-a9ba-4231-98c5-32d5a50fc4fb,letterart.digital,premium,,,70,2,10,,,
 1b94f900-2d47-40c7-86fa-ebe3b1d365c0,soppy.digital,premium,,,48,3,5,,,
 b9f6d910-4933-4ca1-bdc0-13df47caf2b1,vocalcords.digital,premium,,,,1,11,,,
-cfdf4a67-ee0c-468b-b423-2c41c1f3998f,slope.digital,resell,,,110,14,5,"Sav.com, LLC - 34",15/04/2025 15:16,15/04/2026 15:16
 b9a14456-0787-4a33-b2f5-9bb3830d2223,jetace.digital,premium,,,62,1,7,,,
 d326fab0-e424-4113-ba82-d4a017d71638,difficult.digital,available,2.99,54.99,82,8,9,name.com,,
 75c98cc4-a72a-4fee-be3f-022b56454b9c,airtoair.digital,premium,,,58,2,10,,,
@@ -5216,6 +5217,7 @@ a107814a-3acb-47dc-a729-23f9cd34814e,backside.digital,premium,,,56,4,8,,,
 e8108113-6c28-47ab-a19c-6d70559316db,inthethickofit.digital,premium,,,62,1,18,,,
 727a7a68-70b1-4aac-90a6-e81de88dcf78,blinking.digital,premium,,,86,6,8,,,
 1dfdee20-550d-49a1-b029-e114dc1b02ce,uremic.digital,premium,,,56,1,6,,,
+f4db9b94-f4f3-4f4b-a717-9aa6b5ab9139,resort.digital,resell,,,98,22,6,"Sav.com, LLC - 13",29/03/2025 15:15,29/03/2027 15:15
 7542a53f-54d2-4a9b-bc8f-07146ad9b77d,xxvii.digital,premium,,,56,3,5,,,
 e3ae967d-192a-4466-a639-72741b1fb509,flak.digital,premium,,,52,8,4,,,
 29036c1b-a06d-44fa-b81d-e22dfddf242f,propagated.digital,premium,,,,2,10,,,
@@ -5284,7 +5286,6 @@ b00c09fa-c67a-4c7b-8bb7-50129fb7c55e,adjuratory.digital,premium,,,54,1,10,,,
 6d3738fa-cb18-4a2c-8ecd-ea95ce70832d,Frenchpie.digital,premium,,,58,2,10,,,
 83031f9d-7243-41a8-b478-c08b912222d0,youknowwhat.digital,premium,,,,2,13,,,
 22a14f63-b2fb-4442-a721-2b07f1786e7d,pill.digital,resell,,,60,17,4,"Sav.com, LLC - 34",02/09/2025 15:15,02/09/2026 15:15
-92d1f8e8-9f75-4cbc-b36b-e08b73d80c62,hell.digital,resell,,,56,29,4,"Sav.com, LLC - 24",07/02/2025 15:15,07/02/2027 15:15
 7864b62e-a885-4a8b-8fdc-072464f513fa,ruled.digital,premium,,,72,5,5,,,
 74c2cbfd-353b-404a-bb86-64cf0069ef0b,thenagain.digital,premium,,,56,4,10,,,
 2d26c1ee-670b-4320-84b8-427cd14638fd,encourage.digital,resell,,,82,11,9,"Spaceship, Inc.",19/06/2025 20:33,19/06/2026 20:33
@@ -5292,7 +5293,7 @@ b00c09fa-c67a-4c7b-8bb7-50129fb7c55e,adjuratory.digital,premium,,,54,1,10,,,
 d838ca2c-f2c3-4c18-a55a-48c1c3bec272,probably.digital,premium,,,64,14,8,,,
 9566dfba-5395-45b1-806e-35e879465472,arboresque.digital,premium,,,52,2,10,,,
 5d0d76a1-8d35-493e-996a-c71103db7b18,silverish.digital,premium,,,46,1,9,,,
-cdea1a7a-6c2c-4bce-8218-3374c9d86564,dressed.digital,premium,,,72,8,7,,,
+cdea1a7a-6c2c-4bce-8218-3374c9d86564,dressed.digital,premium,,,72,7,7,,,
 a4f67a2c-50fb-4ed9-bea8-38b0a966fa57,ablative.digital,premium,,,68,3,8,,,
 77d678a0-40c7-45c1-b9f5-130a149d83c0,appalled.digital,premium,,,52,1,8,,,
 387f39e2-c36f-4668-b23d-345bb2e2f7ab,closeto.digital,available,2.99,54.99,58,4,8,name.com,,
@@ -5485,7 +5486,6 @@ fb6b6af0-0cf4-41c2-8681-e106fc60bc14,hacking.digital,premium,,,56,29,7,,,
 27b4ae67-157e-4ec1-9c0e-db9facd0c145,cleaver.digital,premium,,,56,8,7,,,
 441ce264-5099-4abc-8d36-f6b7d61a938b,philanthropic.digital,premium,,,76,7,13,,,
 fe096d24-c618-4fc2-b65c-4d4e120d292d,cool.digital,resell,,,76,38,4,"Spaceship, Inc.",13/02/2023 18:12,13/02/2027 18:12
-9275549f-786d-489b-a861-c297b3e27d90,vacuum.digital,resell,,,90,17,6,"Sav.com, LLC - 10",03/02/2025 15:15,03/02/2027 15:15
 47e8081f-4af5-47f4-b232-b7e9f1ed9df7,accoutered.digital,premium,,,56,1,10,,,
 14162525-1f18-4c1c-9281-e6140af4936c,purgative.digital,premium,,,54,1,9,,,
 1b90d4b6-e4db-4753-88de-3c8e3d0060e8,optionally.digital,premium,,,61,2,10,,,
@@ -5527,7 +5527,7 @@ b3d536b3-92fb-42cb-9c5e-c600171c96a7,adjuvant.digital,premium,,,62,6,8,,,
 0d76d4f2-29f5-42dc-951d-964cecd79b4f,letterofthelaw.digital,premium,,,69,2,17,,,
 0a8d3eae-0335-44b3-b02e-7f388f300d69,unlike.digital,premium,,,108,7,6,,,
 26c26edb-5613-4c3b-bec8-f4f00fbda185,rear.digital,premium,,,118,8,4,,,
-3ddef541-f30f-4e66-ac85-5a021706b77d,policy.digital,resell,,,98,29,6,"Sav.com, LLC - 39",20/11/2025 15:15,20/11/2026 15:15
+3ddef541-f30f-4e66-ac85-5a021706b77d,policy.digital,resell,,,98,26,6,"Sav.com, LLC - 39",20/11/2025 15:15,20/11/2026 15:15
 04b5f0da-30b2-4b49-a18b-18ef5de2e6f4,gowith.digital,premium,,,74,6,7,,,
 9f41f034-5eaf-4f1b-919f-c4eda0705780,astigmatic.digital,premium,,,56,1,10,,,
 ccf5808c-4bba-4c71-a1c3-5720f23a63eb,accented.digital,premium,,,58,2,8,,,
@@ -5539,7 +5539,7 @@ c5243725-6c6e-4aee-aef9-0dc0a221ae4d,thereagain.digital,premium,,,,1,11,,,
 7e2a7cc0-9d22-4834-8321-a410ef9c6636,afghan.digital,premium,,,54,10,6,,,
 358724b8-f7c0-49a6-9066-c3cbb4b0c41b,child.digital,resell,,,92,21,5,"Sav.com, LLC - 40",19/06/2025 15:15,19/06/2026 15:15
 f065adbd-7f01-4568-a11b-903bb089755a,commercial.digital,premium,85.8,85.8,91,26,10,namecheap,,
-df2c98e7-3be4-466d-9eda-ff7425273572,forgiving.digital,available,2.99,54.99,96,6,9,name.com,,
+df2c98e7-3be4-466d-9eda-ff7425273572,forgiving.digital,available,2.99,54.99,96,5,9,name.com,,
 12c1f4a3-e6a6-496e-b449-63c46ca5276d,blueraspberry.digital,premium,,,74,1,14,,,
 a58ccca4-4028-4bb3-9fbd-32f54985f7f6,greatgrandson.digital,premium,,,72,1,14,,,
 ee91d9d8-92d4-4782-9eb3-d5d1810604ce,abusive.digital,premium,,,52,3,7,,,
@@ -5614,11 +5614,11 @@ e24aa4d9-3127-449b-bc39-a4f9f85d9e0f,chirping.digital,premium,,,72,3,8,,,
 88a7ad96-8c96-48c8-8020-9321f2cc57fd,stately.digital,premium,,,72,6,7,,,
 aae6dff2-2a7a-411a-b8b2-df2bea7a57d8,pretence.digital,premium,,,64,1,8,,,
 bf96c2c9-514f-4091-acbd-d0d6712140b8,rejoin.digital,premium,,,78,7,6,,,
-21b476dd-c1db-4541-99fe-e52c034610c9,horseback.digital,available,2.99,54.99,80,4,9,name.com,,
+21b476dd-c1db-4541-99fe-e52c034610c9,horseback.digital,available,2.99,54.99,80,3,9,name.com,,
 231173a5-c976-4475-9e75-b5a9a1ec26d5,these.digital,premium,,,58,12,5,,,
 67e4bf0e-3ecc-4ace-98ae-89cbb7083b04,passalong.digital,premium,,,75,3,10,,,
 b87bc956-bd1b-4eba-94a9-8777c6fa2c03,wondered.digital,premium,,,66,3,8,,,
-8871cb42-2d1c-40aa-ac12-ba5558137fa9,deceased.digital,premium,,,64,7,8,,,
+8871cb42-2d1c-40aa-ac12-ba5558137fa9,deceased.digital,premium,,,64,5,8,,,
 b9b75717-0fae-4f3f-8416-90dfca2796bf,bawdry.digital,premium,,,50,1,6,,,
 37422652-58fb-4b77-adce-dc5e13530c26,lens.digital,premium,,,62,21,4,,,
 cf1d8380-96f1-4e57-8cf3-94a408805ac9,conventionally.digital,premium,,,54,1,14,,,
@@ -5671,7 +5671,7 @@ a8476f08-19fc-46b1-9a09-3e79b9b808e3,endowment.digital,premium,,,70,7,9,,,
 176aee35-0089-4278-8f22-51dab20d316e,workings.digital,premium,,,72,4,8,,,
 9ffabfe9-c36b-44ba-8b7b-0fcf5a11d8a8,last.digital,resell,,,76,35,4,"Sav.com, LLC - 47",10/12/2025 15:16,10/12/2026 15:16
 9d3a25e6-0bbb-4423-b61f-d9939009ca3a,instant.digital,resell,,,108,37,7,"TurnCommerce, Inc. DBA NameBright.com",26/11/2022 15:15,26/11/2027 15:15
-1c2e772b-a2d3-4c62-ab0c-be3ded965b31,pain.digital,resell,,,72,29,4,"Sav.com, LLC - 43",27/01/2026 15:16,27/01/2027 15:16
+1c2e772b-a2d3-4c62-ab0c-be3ded965b31,pain.digital,resell,,,72,28,4,"Sav.com, LLC - 43",27/01/2026 15:16,27/01/2027 15:16
 2f467d77-25a2-4756-ad4e-a093bdb46d27,arborical.digital,premium,,,52,1,9,,,
 7a622011-c013-4be4-bfbb-cdb223e6efce,concentrated.digital,premium,,,62,6,12,,,
 13bcedf3-569e-4dce-8953-3afa58c449d2,soupy.digital,premium,,,48,5,5,,,
@@ -5695,9 +5695,9 @@ a12a915a-75a5-4d08-b49e-8ab7ccbed2c4,deadofnight.digital,premium,,,56,2,13,,,
 8f889928-d592-48e3-b494-f12a6dcdefa6,foodcoma.digital,premium,,,64,3,9,,,
 5cd7d98d-213d-48e8-b7e6-811295c47804,bridget.digital,premium,,,86,11,7,,,
 f740eacf-96ff-4693-9579-20304853fb92,morning.digital,resell,,,76,25,7,"Sav.com, LLC - 16",14/02/2026 15:15,14/02/2027 15:15
-6e4355e4-59ae-4c06-8248-5b56ea10ee85,taco.digital,resell,,,76,36,4,Netregistry Wholesale Pty Ltd,21/11/2024 15:15,21/11/2026 15:15
-9ec2d46b-5702-435a-8dfe-cfde3463b92c,animated.digital,premium,,,76,13,8,,,
-a101155c-d3ba-4d00-a6fe-8bda4fd449c7,oldtimer.digital,premium,,,70,15,9,,,
+6e4355e4-59ae-4c06-8248-5b56ea10ee85,taco.digital,resell,,,76,35,4,Netregistry Wholesale Pty Ltd,21/11/2024 15:15,21/11/2026 15:15
+9ec2d46b-5702-435a-8dfe-cfde3463b92c,animated.digital,premium,,,76,11,8,,,
+a101155c-d3ba-4d00-a6fe-8bda4fd449c7,oldtimer.digital,premium,,,70,14,9,,,
 c202fdd3-b991-4b88-90c0-f6a6d04b025c,primeminister.digital,premium,,,70,5,14,,,
 f22e722f-3f85-4908-871b-db6126df072f,takeaknee.digital,premium,,,,2,11,,,
 70cc55b8-147c-46f0-a7be-54b817dfd054,totality.digital,premium,,,62,16,8,,,
@@ -5745,8 +5745,8 @@ c9f0933d-9a85-4cd4-b803-95aea819d6d5,Maidens.digital,premium,,,80,3,7,,,
 d68aedf2-deeb-41ec-b01a-c57cc4612dd3,standon.digital,premium,,,,3,8,,,
 3a718533-5d05-4306-b2f3-ad1abdbcbff3,data.digital,resell,,,70,56,4,"Spaceship, Inc.",23/08/2023 15:15,23/08/2026 15:15
 58351551-4fc5-4aa9-a3ea-ba7642d9859f,pup.digital,premium,,,78,23,3,,,
-17e5d8cb-3c74-45b0-a56c-5837c2bb5380,enliven.digital,premium,,,82,13,7,,,
-8fd3bade-79ca-4772-b3ce-7d880236ed98,flat.digital,resell,,,116,27,4,Netregistry Wholesale Pty Ltd,05/12/2024 15:16,05/12/2026 15:16
+17e5d8cb-3c74-45b0-a56c-5837c2bb5380,enliven.digital,premium,,,82,12,7,,,
+8fd3bade-79ca-4772-b3ce-7d880236ed98,flat.digital,resell,,,116,26,4,Netregistry Wholesale Pty Ltd,05/12/2024 15:16,05/12/2026 15:16
 5848c62b-6fab-446a-9755-4b7a19df5067,still.digital,resell,,,76,33,5,"Sav.com, LLC - 32",22/12/2025 15:15,22/12/2026 15:15
 7c1266fc-2cd0-4f92-bef3-5a614f7fb961,money.digital,resell,,,80,45,5,1API GmbH,21/02/2018 08:04,21/02/2027 08:04
 13af0d51-493d-41c3-bc52-0763f362ec87,meandthee.digital,premium,,,44,2,11,,,
@@ -5808,7 +5808,7 @@ b8ba9d47-1c94-4d47-9a7f-070792865ed6,allegoric.digital,premium,,,60,1,9,,,
 17f4ecdf-34c5-4148-9cc7-0b37e1482702,dorightby.digital,premium,,,74,1,11,,,
 c15c8e39-05df-4704-b335-11eccfc8d948,beauteous.digital,premium,,,48,3,9,,,
 468d2983-5c5f-4c7a-bf13-7ccfd1d7bd07,cleverly.digital,premium,,,69,7,8,,,
-7d4bbd75-4085-430e-8ab6-79440dd9dd84,passon.digital,available,2.99,54.99,72,8,7,name.com,,
+7d4bbd75-4085-430e-8ab6-79440dd9dd84,passon.digital,available,2.99,54.99,72,7,7,name.com,,
 f12a0b9c-0e9f-4f2d-bede-7c0eb2ba66c4,understandable.digital,premium,,,74,4,14,,,
 2cedd22d-e1a6-4982-8774-d3099e33d010,aweless.digital,premium,,,56,2,7,,,
 337e8115-bbdf-4c34-b53f-ec7a350d9730,shoot.digital,premium,,,116,19,5,,,
@@ -5852,7 +5852,7 @@ f1c36988-6983-4faa-9175-3ffdba3a14c5,mincepie.digital,premium,,,76,1,9,,,
 78e16ced-0086-4695-b1c3-7b56219b5eab,wearoff.digital,premium,,,,1,8,,,
 6cd0dd6e-0a53-4d86-9d86-94e5ae7ac0b9,withoutfail.digital,premium,,,74,2,12,,,
 42dfcea2-b1ea-4ced-a714-e74da568a347,autoimmune.digital,premium,,,48,5,10,,,
-35c81fca-41e4-40a9-b18b-0709ee8c6cf2,alluring.digital,available,2.99,54.99,88,6,8,name.com,,
+35c81fca-41e4-40a9-b18b-0709ee8c6cf2,alluring.digital,available,2.99,54.99,88,5,8,name.com,,
 495f2278-4ba7-430a-af53-9b15b90b11e5,writedown.digital,premium,,,,3,10,,,
 3d90d875-9fbf-4100-9981-97c0b9dac044,azygos.digital,premium,,,50,3,6,,,
 bb1f4459-99f0-470a-a2db-3e87b801a1b6,ifalle.digital,premium,,,58,1,7,,,
@@ -6008,7 +6008,7 @@ e7cf4563-f803-4ae7-9061-85262325bbb6,holder.digital,resell,,,58,16,6,IONOS SE,03
 26f8fdef-567f-4c63-a682-d076cee4502e,alabama.digital,premium,,,90,21,7,,,
 aaeaa843-1098-4887-9307-af1d83d90bf3,manytime.digital,premium,,,58,1,9,,,
 0c5bbd77-ea1a-4d5e-a575-82fb3e1b1a08,plague.digital,premium,,,84,10,6,,,
-5d0b3158-8711-44d7-9f0f-33c1b6619d7b,expert.digital,resell,,,104,32,6,"Spaceship, Inc.",08/09/2021 17:00,08/09/2026 17:00
+5d0b3158-8711-44d7-9f0f-33c1b6619d7b,expert.digital,resell,,,104,31,6,"Spaceship, Inc.",08/09/2021 17:00,08/09/2026 17:00
 ddc10429-7a8e-476c-86d4-b3454f22dcda,coordinate.digital,resell,,,108,18,10,"Sav.com, LLC",28/03/2026 16:59,28/03/2027 16:59
 be12505a-7cef-4cd8-8d87-7338a4ed8572,annoy.digital,premium,,,82,5,5,,,
 d5407751-fbcd-4f83-94a3-32877e3f1bd4,powerful.digital,resell,,,82,29,8,"Sav.com, LLC - 11",27/12/2024 15:15,27/12/2026 15:15
@@ -6032,7 +6032,7 @@ c47874ad-1fc6-4dea-a74a-aa09689c05c2,allnighter.digital,premium,,,68,3,11,,,
 7379430f-ce0a-4a8e-9115-66d4b68b3fc9,surgicalmask.digital,premium,,,70,2,13,,,
 45f456ee-7bc9-4d4e-9e9e-7057c93fb4a3,blanket.digital,premium,,,100,13,7,,,
 d6f00119-6a36-4efa-ab93-b909fd0966a7,Sony.digital,premium,,,96,12,4,,,
-e8dc4907-8708-46c5-b313-887ba777d511,heatup.digital,premium,,,76,5,7,,,
+e8dc4907-8708-46c5-b313-887ba777d511,heatup.digital,premium,,,76,6,7,,,
 3d707618-aea5-482a-b96e-e0cd1c89cd78,autistic.digital,premium,,,66,13,8,,,
 3732090a-df9e-42b1-a56d-f2849cc4a294,closer.digital,resell,,,78,23,6,"Sav.com, LLC - 7",07/09/2025 17:00,07/09/2026 17:00
 1747eec0-6223-497f-8ed5-9d085e3313fb,briefcase.digital,resell,,,74,10,9,"Sav.com, LLC",23/02/2026 16:59,23/02/2027 16:59
@@ -6043,7 +6043,7 @@ fb9d504c-1158-42bf-b5d0-ed380dc519c1,bankable.digital,premium,,,64,8,8,,,
 ebc7f154-b758-449b-8999-49b834906afb,popcornmovie.digital,premium,,,81,1,13,,,
 51b8c5d5-0bdb-4260-a87b-317a5b8792f5,Instagrammable.digital,premium,,,76,2,14,,,
 611ae7f1-baaa-4c1d-8b04-eacec1111dc1,ninetyone.digital,premium,,,52,6,10,,,
-586eaf98-58fb-4f1a-a1df-d3a4eb6e2f92,stunned.digital,premium,,,66,5,7,,,
+586eaf98-58fb-4f1a-a1df-d3a4eb6e2f92,stunned.digital,premium,,,66,4,7,,,
 8aef9bc0-569e-411f-b563-68fe26207e76,took.digital,premium,,,,7,4,,,
 38baa0e1-497d-4211-8c32-ec4d12276b2f,newage.digital,resell,,,,19,7,"Global Domains International, Inc. DBA DomainCostClub.com",07/11/2025 15:15,07/11/2026 15:15
 d6001194-5091-4fac-a4b0-30b6faba609a,dances.digital,premium,,,66,5,6,,,
@@ -6079,7 +6079,7 @@ b84d7ffd-f905-4b8f-8907-8b2b7cf59bc7,ammoniac.digital,premium,,,64,2,8,,,
 c81425ca-2641-4a92-8bde-8efc3d3b33fb,legislative.digital,premium,,,80,6,11,,,
 3ef744b4-dc28-4fd6-9be9-55b9307f3fee,giveitupfor.digital,premium,,,50,1,14,,,
 93a8a84c-3b37-46b8-955c-c9be80d32dad,toobad.digital,premium,,,,2,7,,,
-391500d0-cc0d-4ecf-b7cc-e82a2c976de7,whatever.digital,resell,,,116,29,8,"Sav.com, LLC - 8",20/08/2025 15:15,20/08/2026 15:15
+391500d0-cc0d-4ecf-b7cc-e82a2c976de7,whatever.digital,resell,,,116,28,8,"Sav.com, LLC - 8",20/08/2025 15:15,20/08/2026 15:15
 0741a8f8-de7f-4ab7-ac26-bc56bdc2d00f,allergy.digital,premium,,,72,15,7,,,
 1b00a092-7f5b-4d75-b161-ab1949a5277e,diskspace.digital,premium,,,70,3,10,,,
 28483596-9efa-4830-8a26-99629af8179e,childbenefit.digital,premium,,,64,2,13,,,
@@ -6116,6 +6116,7 @@ d4771f11-6825-406d-b6f3-dbef2e35ffe5,paul.digital,resell,,,70,44,4,"Sav.com, LLC
 bc048933-5b48-4c0f-807b-37780a6067f6,behind.digital,resell,2.99,,78,12,6,"Sav.com, LLC",02/03/2026 19:29,02/03/2027 19:29
 fa8e4a9f-9e0d-4607-bc2a-ba72a3a5dbbc,sumbody.digital,premium,,,62,2,7,,,
 c3173c8c-32f1-4c8d-abd5-25d9e7bfc9f9,WWWpage.digital,premium,,,76,1,8,,,
+87ed4aab-0d85-47bf-ace5-d5bb0f5307a5,allied.digital,resell,,,74,22,6,"Sav.com, LLC - 14",08/04/2025 15:15,08/04/2027 15:15
 ee12d783-54ef-4967-9e9b-1b2b80bdf897,preventive.digital,available,2.99,54.99,84,7,10,name.com,,
 160c5abc-823f-4a39-94d8-229763af2db2,ripening.digital,premium,,,64,2,8,,,
 f718fb23-988e-40e6-8550-8d3d48600225,whatittakes.digital,premium,,,,3,13,,,
@@ -6220,14 +6221,14 @@ cd3d3684-3b59-495a-8fe7-676a345610f5,tiein.digital,premium,,,54,3,6,,,
 a0cf3046-33c8-4f6b-b0fe-e0be50009281,shout.digital,resell,,,92,19,5,"Global Domains International, Inc. DBA DomainCostClub.com",28/01/2026 15:15,28/01/2027 15:15
 ee36afa2-f358-4ed1-8487-4a342bb3446e,night.digital,resell,,,78,32,5,Dynadot Inc,03/07/2025 17:00,03/07/2026 17:00
 e58884e1-313a-438c-b5e3-937eaee19358,axiom.digital,resell,,,79,41,5,Epik LLC,24/02/2021 11:05,24/02/2027 11:05
-1c85fee0-4ba9-4d27-b19e-0e7c33ad65d8,arrogant.digital,premium,,,56,6,8,,,
+1c85fee0-4ba9-4d27-b19e-0e7c33ad65d8,arrogant.digital,premium,,,56,5,8,,,
 65a19492-522e-4408-90f5-e5b173418c33,goout.digital,premium,,,72,8,6,,,
 ebc3bbab-8bfd-4209-bc74-8a9b90527801,rubber.digital,resell,,,105,18,6,"Sav.com, LLC - 2",03/02/2026 15:15,03/02/2027 15:15
 b4502764-dd52-48a8-83ec-bd6b3d8e9e8e,ammino.digital,premium,,,50,1,6,,,
 144dfd25-6a2b-4700-b8cb-02626a9b433f,keepsecret.digital,premium,,,44,2,11,,,
 42e1430a-81fd-4481-90d9-ccd492b07931,kgb.digital,resell,,,74,15,3,"Sav.com, LLC - 7",04/01/2026 15:15,04/01/2027 15:15
 6fc42047-6560-41dd-a304-baa83717abb7,uraemic.digital,premium,,,56,0,7,,,
-28ee52af-bdb9-44ad-b25e-917a04d1e311,slave.digital,premium,,,66,23,5,,,
+28ee52af-bdb9-44ad-b25e-917a04d1e311,slave.digital,premium,,,66,22,5,,,
 685ddb27-0df5-470e-90b8-26292f703ab4,weakest.digital,premium,,,,2,7,,,
 ad4a160c-51a3-492a-a9d8-336976ecd241,sellbydate.digital,premium,,,64,2,12,,,
 985fa607-7733-47c6-ba53-f13018bc50c0,saintlike.digital,premium,,,66,2,9,,,
@@ -6341,7 +6342,7 @@ cddab7fa-2287-4034-8e52-08a517be05a5,oppose.digital,premium,,,68,5,6,,,
 90d2b702-8e87-42ee-bedf-a2b17e7799aa,halfass.digital,premium,,,56,2,8,,,
 f9368388-c266-496e-8c67-f77407c06bb8,letterspatents.digital,premium,,,65,1,15,,,
 e60e5145-479b-49ac-853c-c0e68f2d07e1,critically.digital,premium,,,60,3,10,,,
-cc1d2b39-11b5-4129-9d59-89c31e2fef7e,haven.digital,resell,,,68,43,5,Porkbun LLC,12/10/2020 18:06,12/10/2026 18:06
+cc1d2b39-11b5-4129-9d59-89c31e2fef7e,haven.digital,resell,,,68,42,5,Porkbun LLC,12/10/2020 18:06,12/10/2026 18:06
 5ec69ea7-cde3-47db-b28b-60889e2221b3,destroyed.digital,available,2.99,54.99,52,4,9,name.com,,
 caf5a059-1e12-4da7-b850-cbcc396b4139,deepdishpizza.digital,premium,,,80,1,15,,,
 bd6ab55b-d9ed-4bf2-ae2b-dc8005d7a0a9,altricial.digital,premium,,,68,1,9,,,
@@ -6419,7 +6420,7 @@ f2072e2c-41cc-4526-9016-7a9ca7863bf7,lay.digital,premium,,,62,17,3,,,
 8c039d52-2ae0-4291-8d78-6c2bf1253957,fork.digital,resell,,,94,24,4,"Sav.com, LLC - 10",28/02/2026 15:15,28/02/2027 15:15
 c169660c-375f-4fbc-97a4-0de2a2125c5c,median.digital,resell,,,100,12,6,"Sav.com, LLC - 38",13/03/2026 15:16,13/03/2027 15:16
 a3e0f3a4-98f4-4912-aec5-5bf2275cbe3c,share.digital,resell,,,72,49,5,Unstoppable Domains Inc,23/12/2021 13:15,23/12/2026 13:15
-25345da1-b980-49aa-a64d-972ab2564a0d,grandjury.digital,premium,,,66,4,10,,,
+25345da1-b980-49aa-a64d-972ab2564a0d,grandjury.digital,premium,,,66,3,10,,,
 e63e0752-18b0-4cd9-84c0-387dd5cfe587,televisionprogram.digital,premium,,,70,1,18,,,
 1fa22e1f-478a-403e-9dba-c7d5c0510356,wishful.digital,premium,,,48,5,7,,,
 5b853a60-4d95-461a-a658-eeae904a556a,camper.digital,premium,,,69,12,6,,,
@@ -6429,7 +6430,7 @@ e63e0752-18b0-4cd9-84c0-387dd5cfe587,televisionprogram.digital,premium,,,70,1,18
 4323159a-3454-465a-bf3f-bd77898d19ce,ohmyGod.digital,premium,,,80,9,9,,,
 d3ebd4ec-6f25-4926-a3f0-4cdd853b5faa,fantastic.digital,premium,,,88,97,9,,,
 bcb46384-b9ee-4970-bf0a-44bdf9cd509b,sapphire.digital,premium,,,92,98,8,,,
-62e77adf-5bd5-4834-88c4-b1676d6da191,endearing.digital,available,2.99,54.99,90,3,9,name.com,,
+62e77adf-5bd5-4834-88c4-b1676d6da191,endearing.digital,available,2.99,54.99,90,2,9,name.com,,
 41c153c1-fefb-4a7b-b721-72b930b05435,intended.digital,premium,,,84,6,8,,,
 e06d69ef-f761-471f-851f-26098d958a0e,neckdeep.digital,premium,,,,1,9,,,
 c7e1931d-fa0c-4534-b4e7-0c9f8458614f,tornado.digital,resell,,,88,23,7,IONOS SE,19/08/2023 15:15,19/08/2026 15:15
@@ -6437,13 +6438,13 @@ caa8ca4c-7d9b-4852-820a-ca02b226c425,turnout.digital,premium,,,,6,8,,,
 f928604e-7fe2-4019-9356-2ec84651db3e,behavioral.digital,premium,,,50,8,10,,,
 a2a66c51-1409-47f1-b42e-74245c669d71,cathartic.digital,premium,,,72,6,9,,,
 fdca8f04-5bd8-4dd3-b338-06e81c313efe,sequent.digital,premium,,,80,7,7,,,
-79c8944b-1c35-4e75-a009-8cea639c1125,clear.digital,premium,,,90,50,5,,,
+79c8944b-1c35-4e75-a009-8cea639c1125,clear.digital,premium,,,90,49,5,,,
 74e21058-3840-4139-81a8-3da9ea5c29c6,rubyred.digital,premium,,,,4,8,,,
 c334b141-4ce2-41e5-8f57-9ca895c59581,azonic.digital,premium,,,56,4,6,,,
 efb41276-1593-49b5-ba51-1f3175c79afa,worsened.digital,premium,,,54,1,8,,,
 c8946be1-2b91-4068-8426-78cf39882aa6,stratified.digital,premium,,,45,4,10,,,
 125332d6-0a07-4a11-90de-f5bf1d193ef6,strongpersonality.digital,premium,,,76,1,18,,,
-7b55a9d4-5838-4781-86c1-414b2b157469,goon.digital,resell,,,80,36,5,"Sav.com, LLC - 9",31/01/2026 15:15,31/01/2027 15:15
+7b55a9d4-5838-4781-86c1-414b2b157469,goon.digital,resell,,,80,35,5,"Sav.com, LLC - 9",31/01/2026 15:15,31/01/2027 15:15
 321e0ee2-8e6d-468f-84ea-71ad40e5f972,mousearound.digital,premium,,,,1,12,,,
 501b9b11-f9f6-4cf0-abfa-65571698da7a,awing.digital,premium,,,58,3,5,,,
 426628dd-971a-43f6-8846-7ea59d367a4c,outofhand.digital,premium,,,,5,11,,,
@@ -6620,7 +6621,7 @@ b95077cf-de68-421d-91eb-6a124f015749,barbate.digital,premium,,,52,1,7,,,
 41fd2a32-ba0d-449e-9bca-9c58970e4aea,hesitation.digital,premium,,,62,2,10,,,
 185606aa-20fa-40ad-8fed-1ada8f87b698,clinic.digital,premium,,,70,21,6,,,
 67f599d1-ef26-4cb1-aab2-fd16652619e2,evaporate.digital,premium,,,68,5,9,,,
-87aa3221-4fdf-448a-a3a7-ead9a7332f6a,ago.digital,premium,82.5,82.5,66,20,3,name.com,,
+87aa3221-4fdf-448a-a3a7-ead9a7332f6a,ago.digital,premium,82.5,82.5,66,18,3,name.com,,
 111f1a1b-ca32-4d01-b0ef-44813c5e3330,technologies.digital,resell,,,,12,12,"Sav.com, LLC - 45",02/11/2025 15:15,02/11/2026 15:15
 c0be135b-0709-49e3-b578-7124e920607f,trimdown.digital,premium,,,69,1,9,,,
 7ef76a6b-b4dc-4575-b215-88ffe57df253,cloth.digital,premium,,,74,12,5,,,
@@ -6673,8 +6674,7 @@ c9d9bd29-3e9e-4b35-9cdc-2c2ecfd1bdb9,patriotism.digital,premium,,,76,3,10,,,
 bd1719ed-64ca-462e-91fc-316da0f44cc2,tyrannical.digital,premium,,,48,3,10,,,
 6af9e8bf-1a31-4145-9570-f3b3e8e0cc94,riceflour.digital,premium,,,,2,10,,,
 5cfd9c6a-448b-49b6-982f-30d214caf403,wrecked.digital,premium,,,60,6,7,,,
-e8b2403e-9e4a-429f-a3e1-a4c8f4d99e30,whizz.digital,resell,2.99,54.99,98,11,5,"Sav.com, LLC",04/02/2026 13:20,04/02/2027 13:20
-e1d054d0-1414-4250-9ad1-a95f131b6c63,capable.digital,resell,,,80,17,7,"Spaceship, Inc.",10/05/2025 10:26,10/05/2026 10:26
+e8b2403e-9e4a-429f-a3e1-a4c8f4d99e30,whizz.digital,resell,2.99,54.99,98,10,5,"Sav.com, LLC",04/02/2026 13:20,04/02/2027 13:20
 6ef64c6c-ce1c-49bd-a0e3-a7f55ba42719,coloured.digital,premium,,,68,5,8,,,
 6ece186a-6dd8-48e1-b686-5bb2b643cf8e,makegood.digital,premium,,,82,10,9,,,
 dc6f70aa-143c-45e7-b33c-3bc8d8553c17,andantino.digital,premium,,,60,3,9,,,
@@ -6688,7 +6688,7 @@ ed3065da-46cc-4c05-8de7-72f800fd69c8,gardensalad.digital,premium,,,76,1,12,,,
 64bcf7ee-b7bc-4147-b84f-b7f9d2f55d00,civilwar.digital,premium,,,60,7,9,,,
 5463d224-a621-4c17-a601-dc7d31888e90,enthralled.digital,premium,,,54,1,10,,,
 84a2d785-58d4-46d2-beb3-1124f9da9f35,torrid.digital,premium,,,60,5,6,,,
-4b4d56a6-77fd-4379-9916-82a19eea6e50,teenager.digital,available,2.99,54.99,66,7,8,name.com,,
+4b4d56a6-77fd-4379-9916-82a19eea6e50,teenager.digital,available,2.99,54.99,66,8,8,name.com,,
 227d2efb-e97d-46ec-9d1c-1f920e551691,assuring.digital,premium,,,44,2,8,,,
 2e145648-84dd-43a3-b2de-90db04aa5a2c,nightsky.digital,premium,,,72,12,9,,,
 c6de98b3-a490-41f6-b4f7-0c39999a1adc,generalizeddisease.digital,premium,,,34,1,19,,,
@@ -6725,7 +6725,7 @@ be3b6c18-dac2-4308-bcc7-860b6308a66b,fivestar.digital,resell,,,114,24,9,"Sav.com
 0e29d865-045d-435f-b69c-950108dfd028,capitol.digital,resell,,,64,16,7,"Sav.com, LLC - 43",29/07/2025 15:15,29/07/2026 15:15
 42b7a03e-bd12-4815-bd21-43f0c0774971,assaultive.digital,premium,,,52,1,10,,,
 9798d428-3f7f-41c4-917d-9ccce1a7f995,twothirds.digital,premium,,,,3,10,,,
-ab85f0b3-e63c-4265-ab0a-b41000043780,before.digital,resell,,,84,18,6,Mesh Digital Limited,01/06/2025 19:32,01/06/2026 19:32
+ab85f0b3-e63c-4265-ab0a-b41000043780,before.digital,resell,,,84,19,6,Mesh Digital Limited,01/06/2025 19:32,01/06/2026 19:32
 45822a7d-8ac4-4294-beb2-192dacb62218,lxiii.digital,premium,,,52,2,5,,,
 ebf5a470-91b8-48d1-b9fc-664509685464,supplied.digital,premium,,,,4,8,,,
 168d209e-3404-49c7-bccb-79cb2587c5c2,arduous.digital,premium,,,60,3,7,,,
@@ -6835,7 +6835,7 @@ a1f90c6c-d366-498f-ba9a-c8cb9ad0c12a,asking.digital,premium,,,86,12,6,,,
 d147882e-11e7-4c76-abea-39b305b429b8,anagogical.digital,premium,,,46,1,10,,,
 940f01cc-6f0f-4402-b3f6-b75b10ce78b4,lady.digital,resell,,,92,18,4,"Spaceship, Inc.",04/09/2021 17:00,04/09/2026 17:00
 bde94fa3-263c-44a4-a6b0-0b32610dd7ee,environmentally.digital,premium,,,60,2,15,,,
-79523eef-b16e-40fa-86fd-6d8e10e72fd6,false.digital,premium,,,64,15,5,,,
+79523eef-b16e-40fa-86fd-6d8e10e72fd6,false.digital,premium,,,64,16,5,,,
 e78b6632-c35b-4550-a5e0-c22fde0293ae,burger.digital,resell,,,84,28,6,"Sav.com, LLC - 3",30/05/2025 15:15,30/05/2026 15:15
 fa7c82d6-d165-4690-bae2-241db7be1211,springfor.digital,premium,,,,1,10,,,
 71c1726c-0d7e-498f-aacd-643375276b21,NewGuinea.digital,premium,,,,2,10,,,
@@ -6929,7 +6929,7 @@ cbbdbc76-49a8-4e0d-8bf6-74aa460498b7,butthen.digital,premium,,,56,2,8,,,
 e33db78e-d996-46d3-b285-b6364aebc4e9,weary.digital,premium,,,64,6,5,,,
 47354316-0612-4862-a89a-cb46f6dbaf1c,tub.digital,premium,,,88,14,3,,,
 4cb10b30-554b-4282-8f87-38897a26563a,soaker.digital,premium,,,56,3,6,,,
-add028c7-70eb-4580-a78d-10f40d4b8196,antacid.digital,premium,,,88,4,7,,,
+add028c7-70eb-4580-a78d-10f40d4b8196,antacid.digital,premium,,,88,3,7,,,
 4350a8fa-83c3-4777-8b59-e12fef703d1b,acerbic.digital,premium,,,50,3,7,,,
 8cc42b9e-7648-4c3b-82e0-85e0c78626fa,bacillar.digital,premium,,,42,1,8,,,
 73b38ad1-b6c0-4d7a-9207-2c21794ef58c,shortly.digital,premium,,,67,10,7,,,
@@ -6984,7 +6984,7 @@ de618bbd-2482-4dee-bb9d-52957bf91ba5,rudimentary.digital,premium,,,78,3,11,,,
 2e569a75-0ac0-40cf-afa6-347f10831b38,barbeque.digital,premium,,,100,8,8,,,
 2d147f6b-2558-4e3d-bd9b-8079369a2d25,bluish.digital,premium,,,72,6,6,,,
 19411476-a22e-41d9-9a15-13a28ab48fe5,pop.digital,resell,,,82,43,3,"Sav.com, LLC",24/05/2021 17:14,24/05/2026 17:14
-4f4f7848-82ed-4e40-b331-1d616867813c,achievable.digital,available,2.99,54.99,74,5,10,name.com,,
+4f4f7848-82ed-4e40-b331-1d616867813c,achievable.digital,available,2.99,54.99,74,6,10,name.com,,
 65deb2d5-0bc7-424c-ad93-ff33bce7e928,time.digital,resell,,,128,45,4,"Sav.com, LLC",04/04/2020 02:02,04/04/2027 02:02
 9ca30c32-df00-47f0-aede-c99839241ab7,loop.digital,premium,,,72,25,4,,,
 8ce7d3a5-2675-42a9-92e1-69baf8616db0,bearsized.digital,premium,,,34,1,10,,,
