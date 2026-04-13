@@ -3,20 +3,20 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C009%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C006%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C008%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .digital one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .digital one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 7,006-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **7,008 domains** on the canonical page below.
 
-**Public extract:** 7,009 rows · **Live catalog:** 7,008 domains
+**Public extract:** 7,006 rows · **Live catalog:** 7,008 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/digital`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .DIGITAL one-word doma
 
 ### Files
 
-- `digital.csv` — public CSV extract (7,009 rows)
-- `digital.json` — public JSON extract (7,009 rows)
+- `digital.csv` — public CSV extract (7,006 rows)
+- `digital.json` — public JSON extract (7,006 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -65,10 +65,10 @@ print(df.head())
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | cock.digital       | available | $2.99     | —             | 58             | 27     | 4      | name.com          |
-| majority.digital   | resell    | $2.99     | —             | 80             | 12     | 8      | Sav.com, LLC      |
+| behind.digital     | resell    | $2.99     | —             | 78             | 13     | 6      | Sav.com, LLC      |
 | fast.digital       | premium   | $1,000    | $1,000        | 82             | 53     | 4      | name.com          |
 | mysterious.digital | available | $2.99     | $54.99        | 68             | 20     | 10     | name.com          |
-| behind.digital     | resell    | $2.99     | —             | 78             | 12     | 6      | Sav.com, LLC      |
+| majority.digital   | resell    | $2.99     | —             | 80             | 12     | 8      | Sav.com, LLC      |
 | electric.digital   | premium   | $42.90    | $42.90        | 86             | 34     | 8      | namecheap         |
 | easter.digital     | available | $2.99     | $54.99        | 110            | 19     | 6      | name.com          |
 | whizz.digital      | resell    | $2.99     | $54.99        | 98             | 10     | 5      | Sav.com, LLC      |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,009-row public sample | 7,008 live domains                               |
+| 7,006-row public sample | 7,008 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIGITAL One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIGITAL One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
