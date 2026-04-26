@@ -1,22 +1,22 @@
-# Available .DIGITAL One-Word Domains (7,007)
+# Available .DIGITAL One-Word Domains (9,040)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C008%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C007%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C040%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .digital one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .digital one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **9,040 domains** on the canonical page below.
 
-**Public extract:** 7,008 rows · **Live catalog:** 7,007 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,040 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/digital`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .DIGITAL one-word doma
 
 ### Files
 
-- `digital.csv` — public CSV extract (7,008 rows)
-- `digital.json` — public JSON extract (7,008 rows)
+- `digital.csv` — public CSV extract (1,000 rows)
+- `digital.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| cock.digital       | available | $2.99     | —             | 58             | 27     | 4      | name.com          |
-| behind.digital     | resell    | $2.99     | —             | 78             | 13     | 6      | Sav.com, LLC      |
-| fast.digital       | premium   | $1,000    | $1,000        | 82             | 52     | 4      | name.com          |
-| mysterious.digital | available | $2.99     | $54.99        | 68             | 20     | 10     | name.com          |
-| majority.digital   | resell    | $2.99     | —             | 80             | 12     | 8      | Sav.com, LLC      |
-| electric.digital   | premium   | $42.90    | $42.90        | 86             | 33     | 8      | namecheap         |
-| easter.digital     | available | $2.99     | $54.99        | 110            | 18     | 6      | name.com          |
-| whizz.digital      | resell    | $2.99     | $54.99        | 98             | 10     | 5      | Sav.com, LLC      |
-| second.digital     | premium   | $82.50    | $82.50        | 120            | 28     | 6      | name.com          |
-| abide.digital      | available | $53.98    | —             | 94             | 18     | 5      | namecheap         |
-| silver.digital     | resell    | —         | —             | 56             | 99     | 6      | Sav.com, LLC - 23 |
-| client.digital     | premium   | $42.90    | $85.80        | 70             | 28     | 6      | namecheap         |
-| hundred.digital    | available | $2.99     | $54.99        | 88             | 18     | 7      | name.com          |
-| asian.digital      | resell    | —         | —             | 82             | 98     | 5      | Sav.com, LLC      |
-| sad.digital        | premium   | $42.90    | $42.90        | 72             | 26     | 3      | namecheap         |
-| overnight.digital  | available | $2.99     | $54.99        | 112            | 17     | 9      | name.com          |
-| commons.digital    | resell    | —         | —             | 63             | 98     | 7      | Sav.com, LLC - 5  |
-| cut.digital        | premium   | $82.50    | $82.50        | 124            | 25     | 3      | name.com          |
-| disclosure.digital | available | $2.99     | —             | 71             | 16     | 10     | name.com          |
-| mesh.digital       | resell    | —         | —             | 92             | 79     | 4      | Spaceship, Inc.   |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| backyard.digital   | available | $2.99     | —             | 80             | 27     | 9      | name.com                      |
+| ask.digital        | resell    | —         | —             | 80             | 45     | 3      | Name.com, Inc.                |
+| SanDiego.digital   | premium   | $23.10    | $46.20        | 74             | 29     | 9      | namecheap                     |
+| stadia.digital     | available | $2.99     | —             | 66             | 22     | 6      | name.com                      |
+| scale.digital      | resell    | —         | —             | 78             | 42     | 5      | Porkbun LLC                   |
+| tips.digital       | premium   | $69.30    | $138.60       | 80             | 26     | 4      | namecheap                     |
+| knows.digital      | available | $2.99     | —             | 48             | 20     | 5      | name.com                      |
+| coins.digital      | resell    | —         | —             | 56             | 41     | 5      | Dynadot Inc                   |
+| has.digital        | premium   | $46.20    | $92.40        | 60             | 26     | 3      | namecheap                     |
+| jetlag.digital     | available | $2.99     | —             | 72             | 17     | 7      | name.com                      |
+| imagine.digital    | resell    | —         | —             | 82             | 40     | 7      | Porkbun LLC                   |
+| products.digital   | premium   | $140      | $280          | 60             | 23     | 8      | namecheap                     |
+| makes.digital      | available | $2.99     | —             | 66             | 17     | 5      | name.com                      |
+| lets.digital       | resell    | —         | —             | 77             | 39     | 4      | Netregistry Wholesale Pty Ltd |
+| teachers.digital   | premium   | $46.20    | $92.40        | 56             | 22     | 8      | namecheap                     |
+| takeout.digital    | available | $2.99     | —             | 75             | 16     | 8      | name.com                      |
+| form.digital       | resell    | —         | —             | 74             | 39     | 4      | Porkbun LLC                   |
+| apartments.digital | premium   | $140      | $280          | 60             | 21     | 10     | namecheap                     |
+| finds.digital      | available | $2.99     | —             | 62             | 16     | 5      | name.com                      |
+| about.digital      | resell    | —         | —             | 84             | 37     | 5      | Porkbun LLC                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,008-row public sample | 7,007 live domains                               |
+| 1,000-row public sample | 9,040 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIGITAL One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIGITAL One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
