@@ -309,7 +309,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1d7267de-36f7-4daf-9e15-a6df8f29b56c,requires.digital,available,2.99,,58,4,8,name.com,,
 1d74192c-6dbf-43be-9a46-0e6289e470e3,goupstairs.digital,available,2.99,,68,1,11,name.com,,
 1d974fe7-00c8-4338-a312-12d614936ee1,pony.digital,resell,,,76,30,4,"Sav.com, LLC - 14",05/05/2026 15:15,05/05/2027 15:15
-1de3fe86-ae7d-49e2-adb3-c76d1e7c7560,uncover.digital,resell,,,76,19,7,"Sav.com, LLC",28/02/2026 19:20,28/02/2027 19:20
+1de3fe86-ae7d-49e2-adb3-c76d1e7c7560,uncover.digital,resell,,,76,18,7,"Sav.com, LLC",28/02/2026 19:20,28/02/2027 19:20
 1dfc8527-36f6-431f-8566-a5d877c973b0,slampoetry.digital,available,2.99,,78,2,11,name.com,,
 1e132497-71f3-4acb-bded-606ea044ca71,keepin.digital,available,2.99,,72,6,7,name.com,,
 1e527664-8e3e-4fb9-8f2d-96adcc9616aa,midbreakfast.digital,available,2.99,,70,1,12,name.com,,
