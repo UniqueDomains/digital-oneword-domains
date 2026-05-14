@@ -47,7 +47,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 049ee356-d73a-4187-bbc7-9a20525092bb,crows.digital,available,2.99,,68,12,5,name.com,,
 04ad5b20-259c-4534-97b5-4ef170570e68,closets.digital,available,2.99,,56,10,7,name.com,,
 04c4068a-4394-4e40-928c-8a05debaa34d,remembrances.digital,available,2.99,,51,2,12,name.com,,
-04c4ae49-ef1a-4c2e-bc1a-e7a321b611d2,togetherwith.digital,available,2.99,,50,4,13,name.com,,
+04c4ae49-ef1a-4c2e-bc1a-e7a321b611d2,togetherwith.digital,available,2.99,,50,3,13,name.com,,
 04f23e9d-dfe9-408c-ada8-83274ee98104,suppresses.digital,available,2.99,,44,1,10,name.com,,
 04f28b32-e231-471c-84f7-71e6b111de6d,dusts.digital,available,2.99,,52,3,5,name.com,,
 050273a4-287f-49ca-a3ad-a09fa90d1223,porkroast.digital,available,2.99,,59,0,10,name.com,,
@@ -434,6 +434,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2ac1201b-de8c-4d5e-8825-6b7195879472,ventured.digital,available,2.99,,60,6,8,name.com,,
 2b195f0a-5022-4ce8-8474-9075eb570915,havenosympathy.digital,available,2.99,,54,1,16,name.com,,
 2b1dfdd4-d155-4cdf-9801-ca310fa40da0,demoted.digital,available,2.99,,46,1,7,name.com,,
+2b3b4725-fa2a-420f-8fd9-34d6ed55d57b,groups.digital,resell,,,58,21,6,"Sav.com, LLC - 45",24/04/2026 15:15,24/04/2027 15:15
 2b4f737e-97d6-4e13-85f7-468e5ec606d4,coffeesenna.digital,available,2.99,,80,1,12,name.com,,
 2b8911ba-ca83-47c1-8645-f203ee5c78cd,glances.digital,available,2.99,,52,5,7,name.com,,
 2b898cb6-1c95-42cf-991d-c87089b54685,filetypes.digital,available,2.99,,46,3,9,name.com,,
@@ -572,6 +573,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3988f6f6-a922-48e2-9a88-ff14e42de394,events.digital,resell,,,68,37,6,Dynadot Inc,16/02/2020 07:40,16/02/2027 07:40
 398a36b7-d206-4b8e-b615-c077257e47bf,keeppace.digital,available,2.99,,74,3,9,name.com,,
 398fe836-a351-4bbd-b7d0-c3409b02817b,Ipop.digital,available,53.98,,76,9,5,namecheap,,
+399c5c76-c9d3-40db-b1c6-ae3a2c929164,vaccination.digital,resell,,,74,9,11,"GoDaddy.com, LLC",07/05/2026 19:56,07/05/2027 19:56
 39a483cc-70d7-46ee-a0f5-cd41af7a9f90,holdingtheman.digital,available,2.99,,42,1,15,name.com,,
 39c22dd3-db78-436e-959b-fe56032aaa75,secondarycare.digital,available,2.99,,69,1,14,name.com,,
 39e120d4-7b73-42a0-a38a-956ddf4268b5,strapin.digital,available,2.99,,68,1,8,name.com,,
@@ -628,6 +630,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3e3a53b0-7935-4e37-96b6-e643b6d026a4,dowithout.digital,available,2.99,,68,1,10,name.com,,
 3e6b3dea-b53e-43c2-8f1b-5c2459b94280,sidewindow.digital,available,2.99,,44,1,11,name.com,,
 3e762792-74dc-412c-99a8-47487fb2e88b,Ihaveaquestion.digital,available,53.98,,50,2,17,namecheap,,
+3e921b1b-9b0a-4a6e-b0ab-da7be8ec2886,accounted.digital,premium,,,50,5,9,,,
 3e9a8aae-f30e-442f-a602-0988c32bc7a8,birches.digital,available,2.99,,57,4,7,name.com,,
 3eb562c0-00cf-4606-add0-86043573b8a6,approaches.digital,available,2.99,,70,3,10,name.com,,
 3eb90e8a-fb82-472a-9b9b-e574da2b0c75,slowcookers.digital,available,2.99,,55,2,12,name.com,,
@@ -996,6 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 652a120b-4844-4a67-94f7-e3a5fbb16a06,neighbours.digital,available,2.99,,53,7,10,name.com,,
 655c2c1b-3be5-47d3-9328-0328bf33864e,ask.digital,resell,,,80,45,3,"Name.com, Inc.",03/03/2017 14:31,03/03/2027 14:31
 656737fb-a7d7-48f7-8709-d60235b214dd,beawake.digital,available,2.99,,84,3,8,name.com,,
-65becf97-490e-4388-ab0a-dff26fc050fc,gusts.digital,available,2.99,,48,3,5,name.com,,
-65c8c5b7-86aa-4f48-bc96-dfb2d601b2db,gowalking.digital,available,2.99,,50,2,10,name.com,,
-65f1d35f-ef0f-4822-9f22-937ba2684d3f,Amazons.digital,available,2.99,,60,12,7,name.com,,
