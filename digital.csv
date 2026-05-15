@@ -898,6 +898,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 59b3d5c3-06c6-4eb1-8df5-c1604ff2c37d,backyard.digital,available,2.99,,80,27,9,name.com,,
 59f8bfcd-3f5b-472a-8f62-f73920f8c305,towels.digital,available,2.99,,68,9,6,name.com,,
 5a084ab3-31a4-4a3e-b35d-b37ec77f2a94,pops.digital,resell,,,74,24,4,"Sav.com, LLC - 25",06/12/2025 15:15,06/12/2026 15:15
+5a282744-e3d0-4e4e-860d-4d8ad340f4d3,cherryontop.digital,premium,,,78,9,13,,,
 5a468eab-5ec3-4fa6-b663-73d9fc76acd4,divineguidance.digital,available,2.99,,57,4,15,name.com,,
 5a4cdf22-031c-40fc-8e13-1c90c3125ad4,fillaway.digital,available,2.99,,70,1,9,name.com,,
 5a69996b-12e8-4d6c-9879-65b92ec0788a,blogs.digital,resell,,,52,21,5,"Sav.com, LLC - 10",18/02/2026 15:15,18/02/2027 15:15
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 64f38ea3-c00b-4a48-a44a-a4226f07a68a,stalled.digital,available,2.99,,48,3,7,name.com,,
 652a120b-4844-4a67-94f7-e3a5fbb16a06,neighbours.digital,available,2.99,,53,7,10,name.com,,
 655c2c1b-3be5-47d3-9328-0328bf33864e,ask.digital,resell,,,80,45,3,"Name.com, Inc.",03/03/2017 14:31,03/03/2027 14:31
-656737fb-a7d7-48f7-8709-d60235b214dd,beawake.digital,available,2.99,,84,3,8,name.com,,
