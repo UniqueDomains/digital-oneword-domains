@@ -1,10 +1,10 @@
-# Available .DIGITAL One-Word Domains (9,571)
+# Available .DIGITAL One-Word Domains (9,573)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C571%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C573%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .digital one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,571 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,573 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,571 domains · **Median ask:** $8.29 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 9,573 domains · **Median ask:** $7.39 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/digital`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/digital`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .DIGITAL one-word doma
 
 ### Files
 
-- `digital.csv` — public CSV extract (1,000 rows)
-- `digital.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `digital.csv`, public CSV extract (1,000 rows)
+- `digital.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| backyard.digital   | available | $2.99     | —             | 80             | 27     | 9      | name.com                                                  |
-| scale.digital      | resell    | —         | —             | 78             | 42     | 5      | Porkbun LLC                                               |
-| SanDiego.digital   | premium   | $23.10    | $46.20        | 74             | 29     | 9      | namecheap                                                 |
-| stadia.digital     | available | $2.99     | —             | 66             | 22     | 6      | name.com                                                  |
-| lets.digital       | resell    | —         | —             | 77             | 39     | 4      | Netregistry Wholesale Pty Ltd                             |
-| tips.digital       | premium   | $69.30    | $138.60       | 80             | 26     | 4      | namecheap                                                 |
-| knows.digital      | available | $2.99     | —             | 48             | 20     | 5      | name.com                                                  |
-| form.digital       | resell    | —         | —             | 74             | 39     | 4      | Porkbun LLC                                               |
-| has.digital        | premium   | $46.20    | $92.40        | 60             | 26     | 3      | namecheap                                                 |
-| finds.digital      | available | $2.99     | —             | 62             | 16     | 5      | name.com                                                  |
-| pivot.digital      | resell    | —         | —             | 74             | 38     | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| products.digital   | premium   | $140      | $280          | 60             | 23     | 8      | namecheap                                                 |
-| patches.digital    | available | $2.99     | —             | 53             | 16     | 7      | name.com                                                  |
-| events.digital     | resell    | —         | —             | 68             | 37     | 6      | Dynadot Inc                                               |
-| teachers.digital   | premium   | $46.20    | $92.40        | 56             | 22     | 8      | namecheap                                                 |
-| pins.digital       | available | $2.99     | —             | 68             | 15     | 4      | name.com                                                  |
-| about.digital      | resell    | —         | —             | 84             | 36     | 5      | Porkbun LLC                                               |
-| apartments.digital | premium   | $140      | $280          | 60             | 21     | 10     | namecheap                                                 |
-| meals.digital      | available | $2.99     | —             | 68             | 15     | 5      | name.com                                                  |
-| homes.digital      | resell    | —         | —             | 86             | 34     | 5      | GoDaddy.com, LLC                                          |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| bead.digital   | available | $2.99     | $41.49        | high           | low    | 4      | namesilo                      |
+| fail.digital   | resell    | $2.99     | —             | medium         | low    | 4      | Dynadot Inc                   |
+| die.digital    | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                     |
+| dull.digital   | available | $2.99     | $41.49        | medium         | low    | 4      | namesilo                      |
+| covert.digital | resell    | $2.99     | —             | medium         | low    | 6      | Dynadot Inc                   |
+| flu.digital    | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                     |
+| giza.digital   | available | $2.99     | —             | high           | low    | 4      | name.com                      |
+| DIY.digital    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC              |
+| gym.digital    | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                     |
+| halt.digital   | available | $2.99     | $54.99        | medium         | low    | 4      | name.com                      |
+| ive.digital    | resell    | —         | —             | medium         | low    | 3      | IONOS SE                      |
+| lan.digital    | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                     |
+| jail.digital   | available | $2.99     | —             | high           | low    | 4      | name.com                      |
+| joy.digital    | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                   |
+| owe.digital    | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                     |
+| slip.digital   | available | $2.99     | —             | high           | low    | 4      | name.com                      |
+| lol.digital    | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 33             |
+| saw.digital    | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                     |
+| ttyl.digital   | available | $2.99     | —             | low            | low    | 4      | name.com                      |
+| SSI.digital    | resell    | —         | —             | high           | low    | 3      | Netregistry Wholesale Pty Ltd |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 9,571 live domains                         |
+| 1,000-row public sample | 9,573 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is made up entirely of one-word .digital domains. The range includes plain-language terms such as landscape.digital and member.digital, alongside rarer words like bucolic.digital and recondite.digital. For founders, the best candidates are usually the names that are easy to say, easy to spell, and instantly legible in a digital-first context. For investors, quality is more about resale realism than headline price, since the median ask is 8.30 and no resale or spread signal is provided here. When comparing these domains, focus on clarity of meaning, audience fit, memorability, and whether the word becomes stronger or weaker when paired with .digital.
+This selection covers 9,573 one-word .digital domain names, from everyday terms like backyard and confetti to distinctive names like jetblack and surebet. With a median asking price near $7, these domains offer a low-cost entry point for comparing brandability, sector fit, and long-term renewal value before committing to a name.
 
-- Prioritize words that stay clear when paired with .digital
-- Favor easy spelling over obscure vocabulary
-- Check whether the word fits a digital-first use case
-- Treat unusual words as higher-regret branding bets
+- 9,573 one-word .digital domain names in this set
+- Median asking price near $7 across the selection
+- Covers wellness, finance, food, and pop culture themes
+- Single-word names built for memorability and clarity
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIGITAL One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIGITAL One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
