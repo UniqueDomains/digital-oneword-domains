@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .digital one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,501 domains · **Median ask:** $4.77 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/digital`
 **Best for:** founders, investors, studios
 
@@ -71,19 +71,19 @@ print(df.head())
 | covert.digital | resell    | $2.99     | —             | medium         | low    | 6      | Dynadot Inc                   |
 | flu.digital    | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                     |
 | bead.digital   | available | $2.99     | $41.49        | high           | low    | 4      | namesilo                      |
-| DIY.digital    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC              |
+| diy.digital    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC              |
 | gym.digital    | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                     |
 | daft.digital   | available | $2.98     | $53.98        | low            | low    | 4      | namecheap                     |
-| ive.digital    | resell    | —         | —             | medium         | low    | 3      | IONOS SE                      |
+| joy.digital    | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                   |
 | lan.digital    | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                     |
 | dull.digital   | available | $2.99     | $41.49        | medium         | low    | 4      | namesilo                      |
-| joy.digital    | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                   |
+| lol.digital    | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 33             |
 | owe.digital    | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                     |
 | giza.digital   | available | $2.99     | —             | high           | low    | 4      | name.com                      |
-| lol.digital    | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 33             |
+| ssi.digital    | resell    | —         | —             | high           | low    | 3      | Netregistry Wholesale Pty Ltd |
 | saw.digital    | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                     |
 | halt.digital   | available | $2.99     | $54.99        | medium         | low    | 4      | name.com                      |
-| SSI.digital    | resell    | —         | —             | high           | low    | 3      | Netregistry Wholesale Pty Ltd |
+| usa.digital    | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIGITAL One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIGITAL One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
