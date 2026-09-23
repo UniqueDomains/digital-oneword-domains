@@ -2,7 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 17b274a8-6e01-4940-9fb3-0afa1d2c2f53,sickabed.digital,available,2.98,53.98,low,low,9,namecheap,,,09/08/2026 07:12
 a7b2ac96-b154-4328-b9e0-7745d66da174,procrastinate.digital,available,2.99,,medium,low,13,name.com,,,
 3423607e-94ef-46af-a40b-60ae88a2fffc,agamous.digital,available,2.98,53.98,low,low,7,namecheap,,,
-acd137d2-2601-49ad-90e0-d48ab96dc43a,angelic.digital,available,2.99,41.49,high,low,7,namesilo,,,
+acd137d2-2601-49ad-90e0-d48ab96dc43a,angelic.digital,available,3.49,41.49,medium,low,7,namesilo,,,22/09/2026 04:25
 67a4c496-4c3d-40cb-b2a7-3df3e4074945,annulated.digital,available,2.98,53.98,low,low,9,namecheap,,,
 b07e53ff-bb90-470f-af50-097f425786e6,suspense.digital,available,2.99,,high,low,8,name.com,,,
 f4c14a5a-54c4-45ae-9706-82a19d2d1f5d,unbeatable.digital,available,2.99,,high,low,10,name.com,,,
@@ -26,7 +26,7 @@ af05ab1e-4c69-4668-8a08-2eee8781bdf0,whatisthat.digital,available,2.99,,low,low,
 fc06eab3-5abb-466d-ac27-487e0647451f,inkind.digital,available,2.98,53.98,low,low,7,namecheap,,,15/09/2026 04:38
 0a2b1991-fa92-44a6-a1cd-1346b47574a7,planetarium.digital,available,2.99,,medium,low,11,name.com,,,
 312405a5-e0e8-4c74-9b06-82dcdfcb5535,spiritual.digital,resell,,,medium,low,9,UM DOMAINS PTE. LTD,30/04/2026 15:15,30/04/2027 15:15,06/08/2026 05:42
-763aff60-ffbb-4f58-ba59-d096db9aac8e,answering.digital,available,2.99,,high,low,9,name.com,,,
+763aff60-ffbb-4f58-ba59-d096db9aac8e,answering.digital,available,3.49,41.49,medium,low,9,namesilo,,,22/09/2026 05:38
 9bf85201-e86c-4895-a233-038b2ef29a6b,willingness.digital,available,2.99,,medium,low,11,name.com,,,
 88ed2094-1808-42ae-8299-316fa399d3e9,setose.digital,available,2.98,53.98,low,low,6,namecheap,,,08/08/2026 17:39
 9e3eca95-a1e7-4e45-aef7-8a56cd01628c,perspective.digital,resell,,,high,low,11,"GoDaddy.com, LLC",14/01/2025 15:15,14/01/2027 15:15,
@@ -40,7 +40,6 @@ b437d1bf-fcd1-4a5e-b4f1-16360dff0b8e,unioncity.digital,available,2.99,,low,low,1
 2b87e8ec-05ae-4da5-9be0-8635a824dddc,autotypic.digital,available,2.98,53.98,low,low,9,namecheap,,,07/08/2026 21:18
 6f5845fb-6c2d-4d06-806e-9ebe7fe81017,irestmycase.digital,available,2.99,,medium,low,14,name.com,,,
 26e2e173-f48a-416f-a128-17e7f841a3bc,knowledgeable.digital,available,,,high,low,13,,,,
-2916631d-7d2f-409e-b5a4-3a52d1a35d02,selfless.digital,available,2.99,54.99,high,low,8,name.com,,,
 9e8196fe-407d-4c91-b730-6a5b8fec35c5,wordis.digital,available,2.99,,low,low,7,name.com,,,
 c80ad209-dce0-4f17-be45-25f9d3c05018,incompletesentence.digital,available,2.99,,medium,low,19,name.com,,,
 2d3009f4-497b-4df3-b45b-83864ca7be17,redmeat.digital,available,2.99,,low,low,8,name.com,,,
@@ -58,7 +57,7 @@ fd5a949c-5936-42fc-b232-d7cbe7265f12,heartburn.digital,available,2.99,,medium,lo
 67a4cec1-561d-43af-850a-6719226991fe,lager.digital,available,2.99,,high,low,5,name.com,,,
 b7a9cb78-3f80-407b-b323-e73807468a09,commission.digital,resell,,,high,low,10,"Sav.com, LLC",15/02/2026 22:29,15/02/2027 22:29,
 93309268-80cd-4231-80b7-47013c8aec9f,exclusively.digital,available,2.99,41.49,medium,low,11,namesilo,,,
-bacddb06-6ac6-46cc-8b66-496689987d3e,absolutely.digital,resell,,,high,low,10,"Sav.com, LLC",22/02/2026 19:28,22/02/2027 19:28,
+bacddb06-6ac6-46cc-8b66-496689987d3e,absolutely.digital,resell,,,medium,low,10,"Sav.com, LLC",22/02/2026 19:28,22/02/2027 19:28,
 9f194c4e-608b-4fc0-8efe-9006f60e898b,normallywhite.digital,available,2.99,,low,low,14,name.com,,,
 deb39a64-d5ea-4c1b-9be1-dd5769bf2758,disk.digital,premium,69.3,138.6,high,low,4,namecheap,,,
 5d4c4cfd-5181-4279-ac41-88d2bc27b797,dragrace.digital,available,2.99,41.49,high,low,9,namesilo,,,
@@ -73,12 +72,13 @@ cbc02aae-026c-4220-9241-c48f13cee8f9,peace.digital,resell,,,high,low,5,Unstoppab
 36e58a63-dde1-4a8a-9ff9-9c2602a55089,peeved.digital,available,2.98,53.98,low,low,6,namecheap,,,
 e4cca5a4-a2e5-45bc-a526-f719ab801e3f,awned.digital,available,2.98,53.98,low,low,5,namecheap,,,08/08/2026 01:16
 c9798a72-b277-45a9-9af4-8154d79257df,campaign.digital,resell,,,high,low,8,Porkbun LLC,12/02/2020 13:01,12/02/2027 13:01,
-156c49c1-7c64-461f-b131-2d15dc6e4d41,abovenamed.digital,available,2.99,41.49,medium,low,11,namesilo,,,
+156c49c1-7c64-461f-b131-2d15dc6e4d41,abovenamed.digital,available,2.99,41.49,low,low,11,namesilo,,,
 d8093e72-4757-4f67-9af9-34e4cd38e32f,carefor.digital,available,2.99,41.49,high,low,8,namesilo,,,
 3c756b90-1aaa-4f3d-9051-bc41d060da48,tide.digital,resell,,,high,low,4,"Sav.com, LLC - 28",17/04/2026 15:15,17/04/2027 15:15,
 b6c12e00-600a-41b2-bedd-f340149ef88c,oatmeal.digital,available,2.99,,high,low,7,name.com,,,
 b01f3b4d-34ee-410f-bc9e-cca8977458c3,standupto.digital,available,2.99,,low,low,11,name.com,,,
 ea24adb6-4bca-4631-82ba-86ee1f48aa08,goodbooks.digital,available,2.99,41.49,high,low,10,namesilo,,,
+21ed5ec9-65a9-46b4-8308-ae17de3fab6c,leap.digital,resell,,,medium,low,4,"GoDaddy.com, LLC",23/05/2016 10:27,23/05/2027 10:27,23/09/2026 01:39
 7789dad1-d4cc-4f1c-b89e-302f2214b40a,stuffy.digital,available,2.98,53.98,low,low,6,namecheap,,,
 88f5f6c0-4922-4d7a-8dd9-33ad4541f426,ametropic.digital,available,2.98,53.98,low,low,9,namecheap,,,
 f0b3489b-a951-486c-8444-b56dbd44ce61,ihaveatemperature.digital,available,2.99,,medium,low,20,name.com,,,
@@ -88,18 +88,17 @@ f17c66a8-479f-4f10-95df-f063f6414eba,weeks.digital,available,2.99,,low,low,5,nam
 016bea8f-cc8f-4685-8a4f-0972d5c7dc3c,bless.digital,resell,,,high,low,5,"Sav.com, LLC - 21",22/04/2026 15:15,22/04/2027 15:15,
 f15d89ae-1a4a-45a0-9b2a-9b1767daf418,sufficient.digital,available,2.99,,high,low,10,name.com,,,
 f86a95bc-bc46-40d4-93dc-3b88d227f17e,naturewriter.digital,available,2.99,,low,low,13,name.com,,,
-ba21d022-f6bf-4b02-9057-dd7d5f38a0ff,acids.digital,available,2.99,41.49,medium,low,5,namesilo,,,
+ba21d022-f6bf-4b02-9057-dd7d5f38a0ff,acids.digital,available,2.99,41.49,low,low,5,namesilo,,,
 127b1627-c040-4fc5-bb4f-33e68d4d0515,malealpha.digital,available,2.99,,medium,low,10,name.com,,,
 aca55cd1-75e8-46cf-b5db-a5d599570726,inquestion.digital,available,2.99,,medium,low,11,name.com,,,
 3ff55424-d83d-4495-9f85-d856f733c48d,oddoneout.digital,available,2.99,,low,low,11,name.com,,,
 298780fd-2b58-46d7-ae6c-8a4608e8719f,aborigine.digital,available,2.98,53.98,low,low,9,namecheap,,,
 4eec624b-60cf-4b57-a6a0-6a53d9e1772a,equivalent.digital,available,2.99,,high,low,10,name.com,,,
 da8c61c2-24b8-413d-8244-16755e94e90d,buddy.digital,resell,,,medium,low,5,Netregistry Wholesale Pty Ltd,11/05/2025 15:15,11/05/2027 15:15,
-5b0729a1-c3a0-4682-a554-953eda26136f,blonde.digital,available,2.99,41.49,high,low,6,namesilo,,,
 d477686a-e633-459c-982d-ad4a6a9370d0,bringin.digital,available,2.99,41.49,high,low,8,namesilo,,,
 0d8a5730-a7f4-42ab-a15d-8fcf76cb3600,coffeemoney.digital,available,2.99,41.49,high,low,12,namesilo,,,
 1318c77c-74c2-4701-9b16-17f46cc56fbb,unfortunately.digital,available,2.99,,medium,low,13,name.com,,,
-fe3ae026-4a04-4ac0-abaa-1e17bb99b352,absent.digital,available,2.99,54.99,high,low,6,name.com,,,
+fe3ae026-4a04-4ac0-abaa-1e17bb99b352,absent.digital,available,2.98,53.98,low,low,6,namecheap,,,21/09/2026 14:37
 f2fa0ff5-c6c2-4ff3-ac1a-323421af9ef8,bearinmind.digital,available,2.99,,high,low,12,name.com,,,
 4bba4b79-ee7e-4bb2-85d1-9025b8f39d58,pubmed.digital,available,2.99,,high,low,6,name.com,,,
 cef64edc-fae0-4da8-8a10-9ff14b87e733,stewart.digital,premium,69.3,138.6,medium,low,7,namecheap,,,
@@ -130,7 +129,7 @@ fcba40fd-f6d2-4c2d-85a6-6b075ed29184,abducent.digital,available,2.98,53.98,low,l
 5f51bd65-dd32-4144-a3b1-24a1b7858876,useless.digital,available,,,medium,low,7,,,,
 8e489a94-3f6c-4355-8f40-e28d567e6c85,jail.digital,available,2.99,,high,low,4,name.com,,,
 d4a45dbd-ad80-48c2-8d7c-54e1cd54a2e7,anorectal.digital,available,2.98,53.98,low,low,9,namecheap,,,
-c11f4630-f95f-4642-a89c-df02de8022f1,abouttime.digital,available,2.99,,medium,low,10,name.com,,,
+c11f4630-f95f-4642-a89c-df02de8022f1,abouttime.digital,available,2.99,,low,low,10,name.com,,,
 41c86e9a-2426-4b9f-bc37-895bacb8a801,reminder.digital,resell,,,medium,low,8,"GoDaddy.com, LLC",19/10/2022 15:04,19/10/2026 15:04,
 ebf20def-5264-4797-816e-4fb851d55a7d,adequately.digital,available,2.99,41.49,medium,low,10,namesilo,,,
 27f4de13-5c8a-490c-8fcc-b70ce7c68a71,involving.digital,available,2.99,,medium,low,9,name.com,,,
@@ -148,7 +147,7 @@ acfc8a20-ede0-40b3-bd69-ffa51db6467e,carnal.digital,available,,,medium,low,6,,,,
 66b728fd-bc1c-4c42-bb14-f4437197379e,emailstorm.digital,available,2.99,41.49,medium,low,11,namesilo,,,
 2614eeb0-a530-4203-9f50-53cdda2a1d6f,anywhere.digital,resell,,,high,low,8,"Sav.com, LLC - 20",30/03/2026 15:15,30/03/2027 15:15,
 52fd98c1-3161-46f0-8e21-54ff20f8ddc3,gaslighter.digital,available,2.99,41.49,medium,low,11,namesilo,,,
-ac6da162-31ad-4bc8-9931-2dbac393578f,bootleg.digital,available,2.99,41.49,high,low,7,namesilo,,,
+ac6da162-31ad-4bc8-9931-2dbac393578f,bootleg.digital,available,2.98,53.98,low,low,7,namecheap,,,22/09/2026 21:19
 dd99fdf3-8a81-413d-b8a9-1d4ba4bc0ee2,wealth.digital,resell,,,high,low,6,"Sav.com, LLC",19/06/2018 12:44,19/06/2026 12:44,
 6c2098c4-8475-411c-8255-ecaca9b091f2,unemployment.digital,available,2.99,,medium,low,12,name.com,,,
 51cd48b9-78a5-4dfb-a81a-0fd6032cf80e,lxxx.digital,available,2.98,53.98,low,low,4,namecheap,,,
@@ -159,11 +158,12 @@ dd99fdf3-8a81-413d-b8a9-1d4ba4bc0ee2,wealth.digital,resell,,,high,low,6,"Sav.com
 18871445-2fa6-415d-9c41-1aa3509579b5,intheraw.digital,available,3.49,41.49,low,low,10,namesilo,,,16/09/2026 08:01
 351632c2-a12f-471f-bb75-478b9dab1a79,shavingoil.digital,available,2.99,,low,low,11,name.com,,,
 f825b342-b1a7-46ba-b1c4-ddd56b93a456,allelic.digital,available,2.98,53.98,low,low,7,namecheap,,,
-48499a4f-329b-4c05-bb36-db0891ebe33b,nail.digital,resell,,,medium,low,4,"Sav.com, LLC - 40",02/02/2026 15:15,02/02/2027 15:15,
+48499a4f-329b-4c05-bb36-db0891ebe33b,nail.digital,resell,,,low,low,4,"Sav.com, LLC - 40",02/02/2026 15:15,02/02/2027 15:15,21/09/2026 16:04
 375734d2-ccdd-4bf1-82a9-ecc0f597751c,pauliii.digital,available,2.99,,medium,low,8,name.com,,,
 adb6dbea-16fd-481f-b9f7-eff0c3efeabc,handdown.digital,available,2.98,53.98,low,low,9,namecheap,,,20/08/2026 23:08
-5c4a2242-7690-4870-98c7-e65b32cc2a1a,fuzzy.digital,resell,,,high,low,5,"Sav.com, LLC - 32",27/11/2025 15:15,27/11/2026 15:15,
+5c4a2242-7690-4870-98c7-e65b32cc2a1a,fuzzy.digital,resell,,,low,low,5,"Sav.com, LLC - 32",27/11/2025 15:15,27/11/2026 15:15,22/09/2026 23:28
 bb5029e8-fde7-44c4-860e-f0edaaa7306e,jewnose.digital,available,2.99,,medium,low,8,name.com,,,
+1db0e155-994f-4377-830c-540fc5ae5f18,after.digital,resell,,,medium,low,5,"GoDaddy.com, LLC",18/08/2026 17:00,18/08/2028 17:00,21/09/2026 22:16
 930c5b7c-3c82-4553-a73e-0521e05f0955,analgetic.digital,available,2.98,53.98,low,low,9,namecheap,,,
 81ae4f98-96a8-4997-bb61-2b6015c7942c,cannot.digital,available,2.99,41.49,high,low,6,namesilo,,,
 3fae3443-eec1-4372-8171-13033a360fc1,sneezing.digital,available,2.99,,medium,low,8,name.com,,,
@@ -176,7 +176,7 @@ ef247262-ff13-4e02-8409-7104f1b42aab,overlook.digital,available,2.99,,high,low,8
 b57b9774-78fd-4281-a480-fe5da1889862,superuser.digital,available,2.99,,high,low,9,name.com,,,
 da26b9d9-f71f-4094-a01b-4b7b78ab2249,reversible.digital,available,2.99,,high,low,10,name.com,,,
 7f359346-bee9-4bf9-9760-86cbf8c9d47a,pattycase.digital,available,2.99,,medium,low,10,name.com,,,
-22a7a286-bcb4-4b5a-9576-f47a3a8e4d7c,acidreflux.digital,available,2.99,41.49,medium,low,11,namesilo,,,
+22a7a286-bcb4-4b5a-9576-f47a3a8e4d7c,acidreflux.digital,available,2.99,41.49,low,low,11,namesilo,,,
 89df1a62-3c6c-4d29-ab84-2c43d1c37058,anomic.digital,available,2.98,53.98,low,low,6,namecheap,,,
 fbcfd01c-f888-440a-85d4-0386c9afb5af,stvincent.digital,available,2.99,,medium,low,11,name.com,,,
 2c0d6ba9-82c6-44dd-bdd8-04802f31f864,allopathic.digital,available,2.98,53.98,low,low,10,namecheap,,,
@@ -184,7 +184,6 @@ fbcfd01c-f888-440a-85d4-0386c9afb5af,stvincent.digital,available,2.99,,medium,lo
 72f402f6-6f3b-4fc2-941e-4ff4c925c396,wording.digital,available,2.99,,high,low,7,name.com,,,
 1a5bc8cf-61a5-40ba-a82f-a0aa8b19ebdf,covert.digital,resell,2.99,,medium,low,6,Dynadot Inc,31/03/2026 10:35,31/03/2027 10:35,
 fffa1336-d353-4d78-bad2-bcc34a78b897,nowhile.digital,available,2.99,,low,low,8,name.com,,,
-8c3cb45e-72c7-4265-a173-297f1b8ea0b8,serious.digital,resell,,,high,low,7,"Sav.com, LLC - 31",02/08/2024 15:15,02/08/2026 15:15,
 0e800448-3ac6-452d-a538-95c65c793913,checkin.digital,resell,,,medium,low,8,"GoDaddy.com, LLC",06/10/2024 17:00,06/10/2026 17:00,
 357e3a71-a5e0-4191-b9d6-512c02d5e501,yubacity.digital,available,2.99,,low,low,9,name.com,,,
 c6cd0841-7aa9-4013-af84-eb0932f608f5,political.digital,resell,,,high,low,9,"Sav.com, LLC - 41",20/10/2025 15:15,20/10/2026 15:15,
@@ -213,19 +212,19 @@ e65f4c2e-51ba-4c45-8d01-c34ba08b42ff,amnesiac.digital,available,2.98,53.98,low,l
 50cf6313-0a91-4c7d-817f-5bac1fc15e22,desk.digital,resell,,,medium,low,4,"Spaceship, Inc.",21/02/2023 15:15,21/02/2027 15:15,08/09/2026 08:30
 aa42a90a-7b4c-4267-aa62-1343c72f2466,voiceless.digital,available,2.98,53.98,low,low,9,namecheap,,,05/08/2026 23:23
 39c98486-f20d-4ad9-a836-6db1275eaa18,timer.digital,premium,23.1,46.2,high,low,5,namecheap,,,
-dbd3a4a1-a7d9-4658-af9a-ba5f98b4c7fc,beatup.digital,available,2.99,41.49,medium,low,7,namesilo,,,
+dbd3a4a1-a7d9-4658-af9a-ba5f98b4c7fc,beatup.digital,available,2.98,53.98,low,low,7,namecheap,,,22/09/2026 18:16
 8c096f7d-3218-47b6-b072-80019dc3a9cb,moneymarketfund.digital,available,2.99,,high,low,17,name.com,,,
 f26d2d66-5e48-4683-a9e8-c16ff6357f18,swollen.digital,available,2.99,54.99,medium,low,7,name.com,,,
 1a836535-833d-4072-9e68-f56cfeef6c16,orangutan.digital,available,2.99,,high,low,9,name.com,,,
 29f37ff3-9c41-4646-b9f9-ad3f4814c52b,verify.digital,resell,,,high,medium,6,"NameCheap, Inc.",22/09/2025 15:15,22/09/2026 15:15,
+7e775e23-6225-4b88-b366-2c1ea541aeee,abstract.digital,resell,,,medium,low,8,"Global Domains International, Inc. DBA DomainCostClub.com",16/05/2026 15:15,16/05/2027 15:15,21/09/2026 15:10
 050fde4f-62a0-4cad-bab9-ec670063b3f7,myspace.digital,available,,,high,low,7,,,,
 bbfa7161-a680-4596-961f-bff1466827c3,crackers.digital,available,2.98,53.98,low,low,8,namecheap,,,06/08/2026 20:45
 778db295-7ef7-4d6b-ba35-07995a2d1a0a,clxxv.digital,available,2.98,53.98,low,low,5,namecheap,,,
-5912565c-811c-48b2-aa50-d414a0cd83d6,alkaline.digital,available,2.99,54.99,high,low,8,name.com,,,
 d6f1767f-7dde-427c-b579-24f15d3b94f5,sensing.digital,available,2.99,,medium,low,7,name.com,,,
 47ab557b-e687-4c4e-9b18-30d061b4467c,delicious.digital,resell,,,high,low,9,"Sav.com, LLC - 10",11/02/2026 15:15,11/02/2027 15:15,
 cee72d32-84b5-4c6a-a7c8-6fc614189110,prosecution.digital,available,2.99,,low,low,11,name.com,,,
-f1afb2f1-4e3a-4570-9d87-7d09a16d08c6,oval.digital,resell,,,medium,low,4,"Sav.com, LLC - 48",19/08/2025 15:15,19/08/2026 15:15,
+f1afb2f1-4e3a-4570-9d87-7d09a16d08c6,oval.digital,resell,,,medium,low,4,"Sav.com, LLC - 48",19/08/2025 15:15,19/08/2027 15:15,21/09/2026 02:49
 d71c79ac-d570-413a-9f76-78ffd288c2a8,inthehopethat.digital,available,2.99,,medium,low,16,name.com,,,
 c5224a92-6716-4614-835f-d6a5328e585f,disadvantage.digital,available,2.99,41.49,high,low,12,namesilo,,,
 ccd2187f-7617-42b0-baf4-791d213d237a,minutes.digital,resell,,,high,low,7,"Spaceship, Inc.",04/03/2026 20:26,04/03/2027 20:26,
@@ -238,7 +237,7 @@ ae467269-7829-4f3b-b637-3e9d530d3037,manykinded.digital,available,2.99,,medium,l
 1a1ec156-a4d3-456a-b59f-d2b8499466ae,closeofplay.digital,available,2.99,41.49,high,low,13,namesilo,,,
 ea8869dd-557c-4f0e-9c63-dcb9c677d4fe,atthewheel.digital,available,2.99,41.49,medium,low,12,namesilo,,,
 f4d0e79e-cbfe-45d9-a346-8227e19fb6fe,carrying.digital,available,2.99,41.49,high,low,8,namesilo,,,
-98bcacff-5a21-4aac-92c9-7395f22bd09b,aboriginal.digital,available,1.99,50.99,high,low,10,name.com,,,
+98bcacff-5a21-4aac-92c9-7395f22bd09b,aboriginal.digital,available,1.99,50.99,low,low,10,name.com,,,
 79bcd186-8cd2-4b26-9cdb-6261ea320073,farthest.digital,available,2.99,41.49,medium,low,8,namesilo,,,
 2afb3407-48f8-4161-bf87-e5cdd552a3a6,clearly.digital,resell,,,high,low,7,"Sav.com, LLC",09/03/2026 19:47,09/03/2027 19:47,
 5eea5c2b-010c-40ed-8b9d-bf2a74d15b95,xxiv.digital,available,2.98,53.98,low,low,4,namecheap,,,
@@ -266,7 +265,7 @@ cc88d992-f59b-4928-8c85-80baed27511d,cornering.digital,available,2.99,41.49,medi
 0081b064-b092-49f6-a331-656601c5fccf,augean.digital,available,2.98,53.98,low,low,6,namecheap,,,07/08/2026 16:54
 8682c6c1-76c8-49ab-aaca-aece926aeacb,thanksfornothing.digital,available,2.99,,medium,low,18,name.com,,,
 85eb11d1-6732-414c-a384-8d171ae58747,daft.digital,available,2.98,53.98,low,low,4,namecheap,,,06/08/2026 20:50
-e950d168-cb58-44f2-a662-92209684c5b2,sexy.digital,premium,140,280,high,low,4,namecheap,,,
+e950d168-cb58-44f2-a662-92209684c5b2,sexy.digital,premium,130,260,medium,low,4,namecheap,,,22/09/2026 07:13
 57d8f109-99a0-467c-a24a-234b1fdb0694,battleful.digital,available,2.98,53.98,low,low,9,namecheap,,,09/08/2026 01:39
 59efb9ae-d8e9-4de2-a25f-72de18e180dc,sushibar.digital,available,2.99,,high,low,9,name.com,,,
 ac75440e-997b-49d8-b3b7-2c9dd05b5fc8,eonian.digital,available,2.98,53.98,low,low,6,namecheap,,,
@@ -295,13 +294,13 @@ d2ec73a2-f2c6-46be-92d6-051cf926b196,seeming.digital,available,2.99,,high,low,7,
 e502104b-c3e3-407c-986d-ebcf1b0715bc,situated.digital,available,2.99,,medium,low,8,name.com,,,
 8a16e6c7-bf67-4a02-9015-fda3007680ee,rubbingoil.digital,available,2.99,,low,low,11,name.com,,,
 c8f7d68c-8e12-4033-a69f-bbeedab13e4b,aufait.digital,available,2.98,53.98,low,low,7,namecheap,,,
-ec4cd854-be12-4a6b-9c72-a840df6e5899,fond.digital,resell,,,high,low,4,"Sav.com, LLC - 21",14/03/2026 15:16,14/03/2027 15:16,
+ec4cd854-be12-4a6b-9c72-a840df6e5899,fond.digital,resell,,,medium,low,4,"Sav.com, LLC - 21",14/03/2026 15:16,14/03/2027 15:16,21/09/2026 21:45
 32121420-252e-4fe1-914b-4589feec437e,conveyable.digital,available,2.98,53.98,low,low,10,namecheap,,,07/08/2026 06:24
 484d4493-f387-4292-be80-0a7198d9957c,givesomeoneabreak.digital,available,2.99,41.49,high,low,20,namesilo,,,
 8f315bd5-3bf9-4d55-911f-c8fc48f1d725,nutritive.digital,available,2.98,53.98,medium,low,9,namecheap,,,08/09/2026 09:04
-c9395c28-651a-4ec8-bce4-d4e678b93912,because.digital,resell,,,high,low,7,"Sav.com, LLC - 2",30/08/2025 15:15,30/08/2026 15:15,
+c9395c28-651a-4ec8-bce4-d4e678b93912,because.digital,resell,,,high,low,7,"Sav.com, LLC - 2",30/08/2025 15:15,30/08/2027 15:15,22/09/2026 22:39
 9b745c7b-db1c-4c36-8820-6d233a9c9066,westeuropean.digital,available,2.99,,low,low,13,name.com,,,
-d0e1f2e5-15b2-480c-99bb-c29dd44fd043,bold.digital,resell,,,high,low,4,"Sav.com, LLC",09/12/2019 12:55,09/12/2026 12:55,
+d0e1f2e5-15b2-480c-99bb-c29dd44fd043,bold.digital,resell,,,low,low,4,"Sav.com, LLC",09/12/2019 12:55,09/12/2026 12:55,22/09/2026 23:09
 dfbdbb4b-45b1-4fd2-8cdd-a371003ee127,cultivable.digital,available,2.98,53.98,low,low,10,namecheap,,,06/08/2026 11:20
 045a7fa3-dffe-46a5-bf00-4ca296e23ced,reported.digital,available,2.99,,medium,low,8,name.com,,,
 1f0ee3a2-b08e-4f8d-91c2-9bfddc107821,tasting.digital,available,2.99,,high,low,7,name.com,,,
@@ -335,7 +334,7 @@ f2a05ae3-b60c-4620-a8bf-4a1b4e82d9ad,dissonant.digital,available,2.98,53.98,low,
 cfe8a2b1-e44a-4229-8e7d-5958aebea3c4,costs.digital,available,2.99,41.49,high,low,5,namesilo,,,
 419ad1a0-2bca-48a2-ba40-b178f3bcfdc1,pencil.digital,resell,,,high,low,6,"Sav.com, LLC - 29",23/01/2026 15:15,23/01/2027 15:15,
 4dacfe46-7724-4754-aabf-bc035256183c,getinto.digital,available,2.99,41.49,high,low,8,namesilo,,,
-14fcbf8c-5f95-4aa0-8a20-dc7b2ca49a0a,booted.digital,available,2.99,41.49,medium,low,6,namesilo,,,
+14fcbf8c-5f95-4aa0-8a20-dc7b2ca49a0a,booted.digital,available,3.49,41.49,low,low,6,namesilo,,,22/09/2026 23:43
 ccf5bcc4-8e9a-43f6-a542-5371697e6928,yesandno.digital,available,2.99,,low,low,10,name.com,,,
 96e83512-ff7f-4f5c-9717-087acde32f53,oarblade.digital,available,2.99,,medium,low,9,name.com,,,
 4237ac26-546b-461f-882e-84e668a86115,missionaccomplished.digital,available,2.99,,medium,low,20,name.com,,,
@@ -348,7 +347,7 @@ bab0eb07-7f1a-4a25-9a04-af19b06eeedd,acuate.digital,available,2.98,53.98,low,low
 818c6d68-b38b-4166-9dc2-a0cc1d243b6b,sloping.digital,available,2.98,53.98,low,low,7,namecheap,,,08/09/2026 05:27
 bbf57e51-1fbb-448b-8e83-f85e93997027,inlaw.digital,available,2.99,,high,low,6,name.com,,,
 1a0d3619-9b83-40bc-966d-a175f550b5a9,ague.digital,available,2.98,53.98,low,low,4,namecheap,,,
-2b4b224d-70d5-4cf5-9dc2-5248f36dcd66,fellowman.digital,available,2.99,41.49,medium,low,10,namesilo,,,
+2b4b224d-70d5-4cf5-9dc2-5248f36dcd66,fellowman.digital,available,3.49,41.49,low,low,10,namesilo,,,21/09/2026 03:03
 cb8a52dd-eeb9-436e-b3cf-7be1466d63f4,sagittate.digital,available,2.98,53.98,low,low,9,namecheap,,,06/08/2026 22:13
 da7d5f88-bbfc-4713-b698-59f52685d1b1,signlanguage.digital,available,2.99,,medium,low,13,name.com,,,
 b66eeb60-1567-4717-91aa-4750ae14f822,adnate.digital,available,2.98,53.98,low,low,6,namecheap,,,
@@ -382,7 +381,7 @@ f9a5e041-1d45-479b-ab55-ead8377bc66d,treeofsorrow.digital,available,2.99,,low,lo
 e3dd2e24-fda6-4e0a-b49b-0c3a1d1063f3,flooded.digital,available,2.98,53.98,low,low,7,namecheap,,,08/08/2026 00:23
 22a29bc8-64bc-4eb6-adb6-415e90ad77a1,matrixgroup.digital,available,2.99,,medium,low,12,name.com,,,
 ef0a1bf6-1f10-479b-b018-04241b5c38fa,aerial.digital,resell,,,medium,low,6,"Sav.com, LLC - 24",16/01/2026 15:15,16/01/2027 15:15,
-f7063b34-70e4-4048-bb91-4a0e3759715c,network.digital,resell,,,low,low,7,"Sav.com, LLC",08/11/2019 09:34,08/11/2026 09:34,19/09/2026 04:36
+f7063b34-70e4-4048-bb91-4a0e3759715c,network.digital,resell,,,low,low,7,"Sav.com, LLC",08/11/2019 09:34,08/11/2026 09:34,23/09/2026 02:58
 f5ea2b20-deef-4523-95f3-4476d7819f98,aplanatic.digital,available,2.98,53.98,low,low,9,namecheap,,,06/08/2026 00:29
 dd07e273-709f-4f1e-98aa-ff69eb3230e6,contracted.digital,available,2.99,54.99,medium,low,10,name.com,,,
 3647278a-911d-4ab0-87b5-9d07dab88101,ohmygosh.digital,available,2.99,,high,low,8,name.com,,,
@@ -402,7 +401,7 @@ bfa61ba0-cda4-4102-b33f-d70713085086,thumping.digital,available,2.98,53.98,low,l
 5e0b80b7-7ed3-4417-9d99-01e30ea02772,prose.digital,resell,,,medium,low,5,"Sav.com, LLC",13/03/2026 22:47,13/03/2027 22:47,
 0c929f48-4932-41df-baca-f7a66bc969bd,bitter.digital,available,,,high,low,6,,,,
 7e852a37-7e83-489c-951b-c1f75ed9a83f,allylic.digital,available,2.98,53.98,low,low,7,namecheap,,,
-5a42b59b-03e2-45ad-ba72-6c77b43b4091,skilful.digital,available,2.99,54.99,high,low,7,name.com,,,
+5a42b59b-03e2-45ad-ba72-6c77b43b4091,skilful.digital,available,2.98,53.98,medium,low,7,namecheap,,,21/09/2026 17:29
 2e69f5c7-cb01-425d-b3d0-24b54cdf3356,chore.digital,available,2.99,41.49,high,low,5,namesilo,,,
 e25ab5e2-ebe1-4d19-9e5e-cdfaa5ed4a5f,dustyrose.digital,available,2.99,41.49,low,low,10,namesilo,,,
 f2dd7c40-a000-4fa1-9b41-2d8758317e76,gym.digital,premium,69.3,138.6,high,low,3,namecheap,,,
@@ -436,7 +435,7 @@ da6fd63d-d0d4-4dfc-bf40-ff11b18c7364,lxviii.digital,available,2.98,53.98,low,low
 32649c1c-676d-4f57-9730-e1535a8301b3,deepdown.digital,available,2.99,41.49,medium,low,9,namesilo,,,
 a7499fce-2e9a-4a2f-9d75-d17c6050823e,befuddled.digital,available,2.98,53.98,low,low,9,namecheap,,,07/08/2026 11:41
 940fd26d-37ce-4f46-84bf-68fa56c26696,antennary.digital,available,2.98,53.98,low,low,9,namecheap,,,
-a00cd0ea-7710-4f1b-81d1-c3f7ab2752d9,backwards.digital,available,2.99,41.49,high,low,9,namesilo,,,
+a00cd0ea-7710-4f1b-81d1-c3f7ab2752d9,backwards.digital,available,3.49,41.49,low,low,9,namesilo,,,22/09/2026 15:55
 b06f6b16-7cf3-4374-baad-e8a4bc21e6a8,atonic.digital,available,2.98,53.98,low,low,6,namecheap,,,07/08/2026 13:54
 ab3a0cc0-440f-49e0-8212-b07468da4cc8,sounded.digital,available,2.99,,low,low,7,name.com,,,
 9d325755-556e-45c3-97e5-fb3f5d87ac58,goodafternoon.digital,available,2.99,41.49,medium,low,14,namesilo,,,
@@ -461,7 +460,7 @@ d1fc7f05-5fd1-4b97-8345-12812b3b5b13,theory.digital,resell,,,high,low,6,Porkbun 
 aa1e0eea-1921-44be-aee9-94e3961900c0,electronic.digital,premium,78.54,78.54,medium,low,10,namesilo,,,19/09/2026 14:31
 03397991-ccbe-4698-b1f0-478a6ee26d82,thehardway.digital,available,2.99,,low,low,12,name.com,,,
 9edb3e26-28e8-45b6-89ce-56749f7f0275,hotticket.digital,available,2.99,,high,low,10,name.com,,,
-50287056-b6e1-4869-92c0-a948b88dd540,asteroid.digital,resell,,,medium,low,8,"Sav.com, LLC - 7",29/05/2025 15:16,29/05/2026 15:16,
+50287056-b6e1-4869-92c0-a948b88dd540,asteroid.digital,resell,,,low,low,8,"Sav.com, LLC - 30",30/08/2026 15:15,30/08/2027 15:15,22/09/2026 10:17
 74c05ed8-ba5c-4567-a8c2-38e1c667061a,manymoonsago.digital,available,2.99,,medium,low,14,name.com,,,
 8e849cd8-62ae-4ecd-b48b-9a682030d266,squat.digital,available,2.99,,high,low,5,name.com,,,
 8b21ff71-7e2b-4dd6-8cf3-484f8bf98fb5,retiring.digital,available,2.99,,high,low,8,name.com,,,
@@ -475,25 +474,25 @@ ab6ea64e-bfc2-411c-80aa-b0303295e1ad,haveonemoretime.digital,available,2.99,,med
 2833d545-876d-4d0b-85a0-0621cef789b6,unitedkingdom.digital,available,,,low,low,14,,,,
 447a5850-b68c-405d-9aa9-ccd4a1aebac1,mills.digital,resell,,,medium,low,5,"Sav.com, LLC",17/06/2025 17:00,17/06/2026 17:00,
 463654d7-25e4-42bb-8419-ef591289dfec,afghani.digital,available,2.98,53.98,low,low,7,namecheap,,,
-5baabe4f-3fd8-45c7-a330-768d7af9cf5b,bored.digital,resell,,,medium,low,5,"Sav.com, LLC - 2",04/01/2026 15:15,04/01/2027 15:15,
+5baabe4f-3fd8-45c7-a330-768d7af9cf5b,bored.digital,resell,,,low,low,5,"Sav.com, LLC - 2",04/01/2026 15:15,04/01/2027 15:15,23/09/2026 00:16
 203902a1-b9aa-41bc-8bbc-b4965090cd95,allocable.digital,available,2.98,53.98,low,low,9,namecheap,,,
 5960ae7e-7328-418d-9c05-a1a6f5a97b55,somesing.digital,available,2.99,,medium,low,8,name.com,,,
 79390f58-eb85-498d-84dd-a257fc5a6797,scummy.digital,available,2.98,53.98,low,low,6,namecheap,,,
 a8ba156c-7b5b-4308-b949-1c46278eead2,keepscore.digital,available,2.99,,high,low,10,name.com,,,
 59f142e1-7c47-4d84-b20d-e840547d6b3a,showed.digital,available,2.99,,low,low,6,name.com,,,
+1fbe3ea1-20c8-466c-8ce7-4682c8580729,boss.digital,resell,,,medium,low,4,,,,23/09/2026 00:45
 1ea995f8-ebf9-4d2d-a59d-0c271fa29491,rowingboat.digital,available,2.99,,high,low,11,name.com,,,
 907cd80e-1f61-47e9-bdf3-9c0a21147c00,folder.digital,resell,,,high,low,6,"Sav.com, LLC - 49",01/02/2026 15:15,01/02/2027 15:15,
 89694519-5321-46e6-bdb4-86e52d35f16c,opportunityroom.digital,available,2.99,,high,low,16,name.com,,,
-482cf2b1-f095-41e7-bb0f-0be368918009,recognized.digital,available,2.99,54.99,high,low,10,name.com,,,
+482cf2b1-f095-41e7-bb0f-0be368918009,recognized.digital,available,3.49,41.49,medium,low,10,namesilo,,,21/09/2026 15:28
 239b86ab-d708-4868-b74e-892c5717c28f,tel.digital,premium,560,1120,medium,low,3,namecheap,,,
 6eb4ec19-fbc0-4e2a-9c15-502d944ff06c,hairwax.digital,available,2.99,,high,low,8,name.com,,,
 66d74ee3-a967-49e9-a52d-e786d75fb653,scratched.digital,available,2.99,,medium,low,9,name.com,,,
 30a66ff4-4165-4f7f-b205-f8774d3e48f0,rhiannon.digital,available,2.99,,high,low,8,name.com,,,
 9b8408f5-cf5e-4fff-bcc5-4be8e043db2a,bucolic.digital,available,2.98,53.98,low,low,7,namecheap,,,06/08/2026 14:14
-8772c54b-03e6-4906-84fc-d3c9a22aa7c8,blocked.digital,available,2.99,41.49,medium,low,7,namesilo,,,
+8772c54b-03e6-4906-84fc-d3c9a22aa7c8,blocked.digital,available,3.49,41.49,low,low,7,namesilo,,,22/09/2026 22:08
 1dbb715b-81eb-45e0-9983-6fa758ce55a7,nowornever.digital,available,2.99,,low,low,12,name.com,,,
 3c04b112-1b1c-44ff-8743-480c0adf9452,streetfighter.digital,available,,,low,low,14,,,,
-8270ee83-8709-4c0e-8fad-9771aaaaf89a,fran.digital,resell,,,medium,low,4,"Sav.com, LLC - 48",02/08/2025 15:15,02/08/2026 15:15,
 ad7fa6fd-0778-46a3-a2b6-d853a6f1911d,keeping.digital,available,2.99,,high,low,7,name.com,,,
 2bb800ac-bcdb-418d-8fbf-6db578456b71,greenparty.digital,available,2.99,,medium,low,11,name.com,,,
 2369ccfb-412e-42fb-8b76-3cde0d207190,againstallodds.digital,available,2.99,41.49,high,low,16,namesilo,,,
@@ -513,11 +512,11 @@ ee7e460f-0783-4203-acdd-6a41dc5d57cb,generalpopulation.digital,available,2.99,41
 1a7760a7-3280-4bd5-ade8-d9af037f9621,mosque.digital,available,2.99,,high,low,6,name.com,,,
 4548e361-56e1-4220-bb9f-aa30fc9b2a91,nineteenth.digital,available,2.98,53.98,low,low,10,namecheap,,,
 0cf009a0-83e8-4457-a658-18cdf623cb87,guestchair.digital,available,2.99,41.49,medium,low,11,namesilo,,,
-e99ddc8a-1008-4528-a5c7-b0df337fbf9b,blind.digital,resell,,,medium,low,5,"Sav.com, LLC - 45",24/08/2025 15:15,24/08/2026 15:15,
+e99ddc8a-1008-4528-a5c7-b0df337fbf9b,blind.digital,resell,,,low,low,5,"Sav.com, LLC - 45",24/08/2025 15:15,24/08/2027 15:15,22/09/2026 21:56
 cc54f7c0-fb93-46c4-b395-662f0ce961e6,knowing.digital,available,2.99,,high,low,7,name.com,,,
-04093e57-410c-4dbf-a76a-9219686d7088,tahoe.digital,resell,,,medium,low,5,"Sav.com, LLC - 4",10/08/2025 15:15,10/08/2026 15:15,
+04093e57-410c-4dbf-a76a-9219686d7088,tahoe.digital,resell,,,medium,low,5,"Sav.com, LLC - 4",10/08/2025 15:15,10/08/2027 15:15,20/09/2026 17:16
 460359c1-1fe6-4bf5-80b4-cae52346a942,blueberrypie.digital,available,2.99,,medium,low,13,name.com,,,
-53f17fc5-12ac-4658-88a1-3b5a8035683a,esthetic.digital,available,2.99,54.99,high,low,8,name.com,,,
+53f17fc5-12ac-4658-88a1-3b5a8035683a,esthetic.digital,available,2.98,53.98,medium,low,8,namecheap,,,21/09/2026 21:16
 2ef1130e-bad6-4d2a-bf16-77c19fd80e17,headteacher.digital,available,2.99,,high,low,12,name.com,,,
 17e08ec2-654b-4098-966b-9cd9f8f05d4a,departmentstore.digital,available,2.99,41.49,high,low,16,namesilo,,,
 f780a403-6e77-4932-bf31-81a6e3bd3f5c,triad.digital,resell,,,medium,low,5,"Sav.com, LLC - 2",04/03/2025 15:16,04/03/2026 15:16,
@@ -539,18 +538,17 @@ a4fe4aac-9b34-4412-9d8d-7bf4bf7fbede,baghdad.digital,available,2.99,41.49,medium
 eebcc5f7-2138-4cd4-8a47-8839c0b16b0c,banausic.digital,available,2.98,53.98,low,low,8,namecheap,,,08/08/2026 11:29
 53ef6f69-fb3c-4268-9c74-0ff8f8c2275d,washing.digital,available,2.99,,high,low,7,name.com,,,
 f4466b1a-2739-4c80-832d-b0faf2b9f6d1,christalmighty.digital,available,2.99,41.49,high,low,15,namesilo,,,
-80f4c3c7-ed3b-4d07-91fe-f197c0daf579,engrossed.digital,available,2.99,54.99,high,low,9,name.com,,,
+80f4c3c7-ed3b-4d07-91fe-f197c0daf579,engrossed.digital,available,2.98,53.98,medium,low,9,namecheap,,,21/09/2026 15:00
 6e75cb21-310f-4495-90ea-33535a039987,advective.digital,available,2.98,53.98,low,low,9,namecheap,,,
 9c506b05-545a-4ba7-9ba3-d1082314cc1a,accentual.digital,available,2.98,53.98,low,low,9,namecheap,,,
-4986c43a-76c0-4c75-8164-19e547ada429,dull.digital,available,2.99,41.49,medium,low,4,namesilo,,,
 9ec2225a-6243-4e23-b1cf-c43744b7b0e0,injure.digital,available,2.99,,medium,low,6,name.com,,,
 6868e09a-5aa0-4d48-801c-c9ed05ccc943,roast.digital,resell,,,high,low,5,"Sav.com, LLC - 22",24/09/2025 15:15,24/09/2026 15:15,
 a2218bd8-0534-4acb-859b-76b0756c18d8,armada.digital,resell,,,medium,low,6,"Global Domains International, Inc. DBA DomainCostClub.com",29/10/2025 15:15,29/10/2026 15:15,
 af114aad-2093-453a-a52d-f006a4f5f84a,befouled.digital,available,2.98,53.98,low,low,8,namecheap,,,09/08/2026 08:57
 29cb741d-81ba-4246-bb74-87b602700cbc,musiccenter.digital,available,2.99,,high,low,12,name.com,,,
 781f7f01-02c0-4616-87f9-58dbcf0dcdd5,conflicted.digital,available,2.99,41.49,medium,low,10,namesilo,,,
-292a6692-2909-424d-b493-d9c0c0e991ad,investment.digital,resell,,,medium,low,10,"Spaceship, Inc.",28/11/2021 13:15,28/11/2027 13:15,19/09/2026 04:38
-3268a085-1435-4e8c-8a97-021dd0e3eb86,prenuptial.digital,available,2.99,,high,low,10,name.com,,,
+292a6692-2909-424d-b493-d9c0c0e991ad,investment.digital,resell,,,medium,low,10,"Spaceship, Inc.",28/11/2021 13:15,28/11/2027 13:15,23/09/2026 02:53
+3268a085-1435-4e8c-8a97-021dd0e3eb86,prenuptial.digital,available,3.49,41.49,medium,low,10,namesilo,,,22/09/2026 06:05
 370e8832-fbfc-4f8b-a0f9-8f3375a0817d,reasonably.digital,available,2.99,,medium,low,10,name.com,,,
 15325fe1-ec0f-4f41-882c-03172043a986,aldermanic.digital,available,2.98,53.98,low,low,10,namecheap,,,
 a279d9bb-236e-4db1-a5dc-dc4ba092dfd4,springshower.digital,available,2.99,,low,low,13,name.com,,,
@@ -572,18 +570,17 @@ c0ec203e-792c-4bee-b5bf-2f3cbad7f045,bacon.digital,resell,,,medium,low,5,"Sav.co
 78b620e9-fc27-423c-b1ec-f05bc8485785,testing.digital,resell,,,high,low,7,Netregistry Wholesale Pty Ltd,08/06/2025 15:15,08/06/2027 15:15,
 60e53c03-b66b-4f84-ad2c-1556e50cae12,allophonic.digital,available,2.98,53.98,low,low,10,namecheap,,,
 1f748cf4-f37e-4a6c-8fa8-3e774660e44f,muhfuggah.digital,available,2.99,,medium,low,9,name.com,,,
-cf0e1f63-dbe1-48bd-8d95-298a8f9a3e36,aboveabit.digital,available,2.99,41.49,medium,low,11,namesilo,,,
+cf0e1f63-dbe1-48bd-8d95-298a8f9a3e36,aboveabit.digital,available,2.99,41.49,low,low,11,namesilo,,,
 67ed94b8-ad55-4369-9de0-822c4a7b81b7,normality.digital,available,2.99,,high,low,9,name.com,,,
 c6f23da9-5a9d-4a44-9e68-50ac8ea45f19,seattle.digital,premium,23.1,46.2,high,low,7,namecheap,,,
 14d3150c-0438-4430-b64c-de41101b3cb3,unitedstates.digital,available,,,low,low,13,,,,
 f6b9841d-2529-4a4c-8cac-3ff667b2fdb3,affinity.digital,available,,,high,low,8,,,,
 52dd02d3-1e0b-47b8-8f91-19ab5a53d6a0,bewell.digital,resell,,,high,low,7,"Sav.com, LLC - 42",05/02/2026 15:15,05/02/2027 15:15,
 a93eda08-a9d1-4c5b-845a-a476eb259645,creaky.digital,available,2.98,53.98,low,low,6,namecheap,,,06/08/2026 22:59
-74f13f93-12fe-4584-80f3-7eb8b7c7e02f,xiii.digital,available,2.99,54.99,medium,low,4,name.com,,,
+74f13f93-12fe-4584-80f3-7eb8b7c7e02f,xiii.digital,available,3.49,41.49,low,low,4,namesilo,,,21/09/2026 11:34
 2fb88419-105f-470a-a961-e8acaa9d91e5,mouthy.digital,available,2.99,,low,low,6,name.com,,,
 c79d060c-f00a-476e-a2de-49927f8a5699,advocate.digital,resell,,,high,low,8,"Sav.com, LLC - 9",24/12/2025 15:15,24/12/2026 15:15,
 4036a546-8ed0-4b37-b902-b14d43460737,proud.digital,resell,,,high,low,5,"Sav.com, LLC - 6",25/04/2026 15:16,25/04/2027 15:16,
-a64862f2-d370-4757-a785-d6395ee4291c,meaning.digital,resell,,,high,low,7,Dynadot Inc,26/08/2025 17:00,26/08/2026 17:00,
 5d5c2701-6e2d-471a-80db-48f8925edb6d,acyclic.digital,available,2.98,53.98,low,low,7,namecheap,,,
 6f04c797-79e7-4767-9ad6-537856cf76c1,assumed.digital,available,2.98,53.98,low,low,7,namecheap,,,07/08/2026 07:45
 6847c69b-6ed3-40c6-b5fd-14ee77580de5,tortured.digital,available,2.98,53.98,low,low,8,namecheap,,,
@@ -593,6 +590,7 @@ e0aa9559-25d9-4beb-ac97-85aecd8613d4,apodeictic.digital,available,2.98,53.98,low
 3dbaa40b-b1bd-4ef8-ac94-6ba2fde09fb4,machinescrew.digital,available,2.99,,high,low,13,name.com,,,
 047aea32-32ea-4349-a617-881cd6775697,czechoslovakia.digital,available,2.99,41.49,medium,low,14,namesilo,,,
 0b72ecb8-0460-46bc-9227-f4d3b6200dd5,aslongas.digital,available,2.99,41.49,medium,low,10,namesilo,,,
+c48d3ad8-8fec-430e-9a92-29d4141bb6e3,amethyst.digital,resell,,,low,low,8,"Sav.com, LLC - 37",16/05/2026 15:15,16/05/2027 15:15,22/09/2026 04:15
 527e3269-b030-4488-a828-6f06454da449,archosaur.digital,available,2.98,53.98,low,low,9,namecheap,,,06/08/2026 15:57
 d4a6e5b1-eddf-464e-8cd4-05e79186c76b,andorran.digital,available,2.98,53.98,low,low,8,namecheap,,,
 3f5f30f2-49dc-4296-9de1-4030f87d3b39,kingdom.digital,available,,,high,low,7,,,,
@@ -623,7 +621,7 @@ c5e92b14-4225-466f-b982-8247fefd069f,boxers.digital,available,2.99,,high,low,6,n
 35f3799f-a00b-4084-87cf-db24d6e2aded,whitesauce.digital,available,2.99,,low,low,11,name.com,,,
 c097fc90-cf0a-4264-9d72-b42770f390c2,octet.digital,available,2.98,53.98,low,low,5,namecheap,,,
 2bb3ca45-0810-45e2-939e-f747a5d6ca62,bucket.digital,resell,,,medium,low,6,"Sav.com, LLC - 23",06/06/2025 15:15,06/06/2026 15:15,
-092b6e59-bfdf-4791-ba30-e8d54392ee70,indian.digital,premium,69.3,138.6,high,low,6,namecheap,,,
+092b6e59-bfdf-4791-ba30-e8d54392ee70,indian.digital,premium,118.8,118.8,low,low,6,namesilo,,,22/09/2026 04:13
 67e0a6c2-59c9-4879-b12e-808867e2b2ec,curse.digital,available,2.99,54.99,high,low,5,name.com,,,
 7c0906b0-c864-48c1-aebf-3a0b494bcfd7,laura.digital,resell,,,high,low,5,"GoDaddy.com, LLC",07/07/2015 07:56,07/07/2027 07:56,17/09/2026 20:19
 088462d1-80e4-49ba-a852-b6dfd2d1920b,xliv.digital,available,2.98,53.98,low,low,4,namecheap,,,
@@ -635,7 +633,7 @@ f38fbf05-98c4-4f52-a147-c458fc8915f4,giddy.digital,available,2.98,53.98,low,low,
 20edb8c9-83d0-4991-8169-6505d625f36c,entranceexamination.digital,available,2.99,41.49,medium,low,20,namesilo,,,
 16082b9d-26bf-4c3a-a8dd-9f253525e2bf,choir.digital,available,2.99,41.49,high,low,5,namesilo,,,
 abc8dfed-1158-4a52-b94b-d4c9eae5ab84,bantering.digital,available,2.98,53.98,low,low,9,namecheap,,,08/08/2026 14:34
-b4f27424-593a-445e-8e62-f4280a17e613,bestknown.digital,available,2.99,41.49,high,low,10,namesilo,,,
+b4f27424-593a-445e-8e62-f4280a17e613,bestknown.digital,available,2.98,53.98,medium,low,10,namecheap,,,22/09/2026 19:54
 acb5e3ae-89c6-4631-a063-403f9b951248,roadsign.digital,available,2.99,,medium,low,9,name.com,,,
 949e82cc-9fa7-40cd-ab4f-3ee789b197d2,sumbuddy.digital,available,2.99,,medium,low,8,name.com,,,
 3e2821ad-bdcc-4af8-93cd-1e80f7f7db15,amphoteric.digital,available,2.98,53.98,low,low,10,namecheap,,,
@@ -668,7 +666,6 @@ c033d5da-86de-4a37-92e2-be7bf4460493,pencilpouch.digital,available,2.99,,high,lo
 87a0c63c-991b-4086-99a6-7d3ffbefc4d2,getupearly.digital,available,2.99,,high,low,12,name.com,,,
 b8080a6b-36db-46ff-a493-31fc3b2f7677,coffeebreak.digital,available,2.99,41.49,high,low,12,namesilo,,,
 90ebc957-33fb-4020-96ba-f120c538ce10,undisciplined.digital,available,2.99,,medium,low,13,name.com,,,
-5339bea1-ac57-4796-b6d3-8de0f8fe5676,allright.digital,available,2.99,54.99,medium,low,9,name.com,,,
 93dcc9a7-b11d-4353-bab9-b59ea85565cf,justyet.digital,available,2.99,,medium,low,8,name.com,,,
 404d267d-1185-43e5-8372-23b15a8bd7c0,idiotic.digital,available,2.99,54.99,medium,low,7,name.com,,,
 948269d2-6cb7-4c34-8e50-dc97abe76632,could.digital,premium,46.2,92.4,high,low,5,namecheap,,,
@@ -683,7 +680,7 @@ cfa99582-70f6-43c9-8c32-6690a6fee4fd,recommend.digital,premium,46.2,92.4,high,lo
 bc07bf27-bccb-494d-b5d8-aa3aeb87d22c,relapse.digital,available,2.99,,high,low,7,name.com,,,
 d7898bd5-6c8e-4399-ad37-cc86b2f9152c,super.digital,resell,,,medium,medium,5,"GoDaddy.com, LLC",18/06/2015 05:04,18/06/2026 05:04,
 a33135cb-ae70-4b33-9b5e-408a6677554e,texascity.digital,available,2.99,,low,low,10,name.com,,,
-8bb7d5de-cf9f-4dc9-aaee-7b67ae35396b,marchon.digital,available,2.99,54.99,medium,low,8,name.com,,,
+8bb7d5de-cf9f-4dc9-aaee-7b67ae35396b,marchon.digital,available,2.98,53.98,low,low,8,namecheap,,,21/09/2026 20:39
 cd4d0aa6-280c-416f-8444-8e45db188874,vexation.digital,available,2.98,53.98,low,low,8,namecheap,,,
 bdfb30e0-7d2f-4110-81d9-98ad6c813fcd,solo.digital,available,,,high,low,4,,,,
 2270688a-2ce2-4b7a-91b2-62038698b09b,resonating.digital,available,2.99,,medium,low,10,name.com,,,
@@ -691,7 +688,7 @@ bdfb30e0-7d2f-4110-81d9-98ad6c813fcd,solo.digital,available,,,high,low,4,,,,
 c1c8069b-bf8c-4cc2-bea5-8a2d7618436c,masculine.digital,available,2.99,,high,low,9,name.com,,,
 2176bd36-6bc0-481b-8aca-93528200470f,goback.digital,available,2.99,41.49,high,low,7,namesilo,,,
 807d777e-cc00-4ad0-89aa-d72bd9712632,material.digital,resell,,,high,low,8,"Sav.com, LLC - 10",26/02/2026 15:15,26/02/2027 15:15,
-dca1f5db-e7aa-4b6c-b010-f9cac33a2559,justabout.digital,available,2.99,54.99,medium,low,10,name.com,,,
+dca1f5db-e7aa-4b6c-b010-f9cac33a2559,justabout.digital,available,3.49,41.49,low,low,10,namesilo,,,21/09/2026 14:09
 58a30942-4a2e-497e-a96c-75233cb88513,inlovewith.digital,available,2.99,,medium,low,12,name.com,,,
 3a5456b1-9a81-4a18-b13e-f7d734490319,tried.digital,available,,,high,low,5,,,,
 bee4d5df-058b-4b7f-a0f6-08b9d9fefda2,lifelesson.digital,available,2.99,,high,low,11,name.com,,,
@@ -700,10 +697,10 @@ bee4d5df-058b-4b7f-a0f6-08b9d9fefda2,lifelesson.digital,available,2.99,,high,low
 041bc6fc-3678-4ca2-bf0c-ac241f89084e,longhaired.digital,available,2.99,,low,low,11,name.com,,,
 d214fb44-7782-46f1-b510-4aaef0fb51b2,grandparent.digital,available,3.49,41.49,medium,low,11,namesilo,,,19/09/2026 04:27
 e281b129-b2ee-4dd5-aee2-2cb94acddb12,yukongold.digital,available,2.99,,low,low,10,name.com,,,
-5dce0105-4ba2-4686-9a60-d3940e227b7d,anticancer.digital,available,2.99,,high,low,10,name.com,,,
+5dce0105-4ba2-4686-9a60-d3940e227b7d,anticancer.digital,available,2.98,53.98,medium,low,10,namecheap,,,22/09/2026 06:38
 f29f0f80-de56-484a-8515-7bc2a51735d6,none.digital,premium,69.3,138.6,high,low,4,namecheap,,,
 d77c287d-4703-46f5-a220-1c2629e2b5e5,idoubtit.digital,available,2.99,,medium,low,10,name.com,,,
-b373bf5c-27d9-47f1-a6ca-b3c21772020d,atheist.digital,premium,46.2,92.4,high,low,7,namecheap,,,
+b373bf5c-27d9-47f1-a6ca-b3c21772020d,atheist.digital,premium,78.54,78.54,low,low,7,namesilo,,,22/09/2026 10:58
 7bf650a9-7141-49fc-bafe-21d0562dc044,glassceiling.digital,available,2.99,,medium,low,13,name.com,,,
 72b636ea-c75b-4c90-bebd-dd7cd656dae6,barbarian.digital,resell,,,low,low,9,"Sav.com, LLC - 42",03/08/2025 15:15,03/08/2027 15:15,08/08/2026 15:26
 efad54c1-ba23-4ba2-9bec-0847d0fd6a6f,armorial.digital,available,2.98,53.98,low,low,8,namecheap,,,06/08/2026 20:15
@@ -734,7 +731,7 @@ c50577cb-636c-46b1-a9ea-9f84bbffee10,placatory.digital,available,2.98,53.98,low,
 ab2f3e8e-e3d1-489c-9cd1-ae531927feb3,lookupon.digital,available,2.99,,high,low,9,name.com,,,
 a4754554-feed-4e69-a138-2dda528cf073,awlshaped.digital,available,2.98,53.98,low,low,10,namecheap,,,08/08/2026 01:10
 728fc5bb-33b0-4912-8330-3da1da03276b,bead.digital,available,2.99,41.49,high,low,4,namesilo,,,
-8472f2f6-2191-4c29-960d-bde957574362,blunt.digital,resell,,,medium,low,5,Porkbun LLC,12/09/2024 06:57,12/09/2026 06:57,
+8472f2f6-2191-4c29-960d-bde957574362,blunt.digital,resell,,,low,low,5,Porkbun LLC,12/09/2024 06:57,12/09/2027 06:57,22/09/2026 23:15
 1b7b9ca5-bd4f-452f-bedd-0c7341b7d87a,usbdrive.digital,resell,,,high,low,9,"Spaceship, Inc.",19/06/2025 20:33,19/06/2026 20:33,
 01171ecf-0a68-486c-81d3-f3db627296fe,squirrel.digital,resell,,,high,low,8,"NameCheap, Inc.",08/04/2023 21:57,08/04/2027 21:57,
 c2356899-faf4-46d0-8233-ad2357738267,concoct.digital,available,2.99,41.49,high,low,7,namesilo,,,
@@ -743,7 +740,7 @@ d408c4cb-d06e-45b8-93dc-24bc829374f1,different.digital,resell,,,high,low,9,"Sav.
 fd8f2387-1e80-4366-aa11-a1d84d28dc73,aeolian.digital,available,2.98,53.98,low,low,7,namecheap,,,
 9cdbcfca-d5ad-496e-bd0b-c27194030204,abkhasian.digital,available,2.98,53.98,low,low,9,namecheap,,,
 02a03773-4481-41b2-a33c-3dcd49d624df,howgoesthewar.digital,available,2.99,,medium,low,16,name.com,,,
-96f1eed7-f1ab-4cd0-94e2-a2c2ac2de05c,bordered.digital,available,2.99,41.49,medium,low,8,namesilo,,,
+96f1eed7-f1ab-4cd0-94e2-a2c2ac2de05c,bordered.digital,available,3.49,41.49,low,low,8,namesilo,,,22/09/2026 23:55
 e9a7a700-46e0-4766-b775-eee2d5d5e0c4,pissabout.digital,available,2.99,,low,low,10,name.com,,,
 04e22a94-6461-43d9-8b7f-b3991951cb12,deskchair.digital,available,2.99,41.49,high,low,10,namesilo,,,
 43c0afca-15fd-4749-99d5-5a17f719b7c7,merger.digital,resell,,,high,low,6,Dynadot Inc,28/09/2025 13:44,28/09/2026 13:44,
@@ -751,7 +748,7 @@ e9a7a700-46e0-4766-b775-eee2d5d5e0c4,pissabout.digital,available,2.99,,low,low,1
 859f1617-11db-4a29-9dc9-fa0e1b833d40,component.digital,resell,,,high,low,9,"Sav.com, LLC - 7",17/04/2026 15:15,17/04/2027 15:15,
 bab1b50a-bfc1-46ca-811f-d42a4e2ceea5,pull.digital,resell,,,high,low,4,"Sav.com, LLC - 33",16/02/2026 15:15,16/02/2027 15:15,
 de44b495-9b51-44fa-bf0b-cf899f8a0189,xlviii.digital,available,2.98,53.98,low,low,6,namecheap,,,
-78b94ce1-f079-4e0c-b455-3f2e489ee72d,july.digital,resell,,,high,low,4,"Sav.com, LLC - 36",17/08/2025 15:15,17/08/2026 15:15,
+78b94ce1-f079-4e0c-b455-3f2e489ee72d,july.digital,resell,,,high,low,4,"Sav.com, LLC - 36",17/08/2025 15:15,17/08/2027 15:15,21/09/2026 00:27
 e2178aad-66dd-44f6-9fb0-fb3b7f5db75a,masterofarts.digital,available,2.99,,medium,low,14,name.com,,,
 d6497d57-6c78-4c17-90f8-e56c31ea7a03,avellane.digital,available,2.98,53.98,low,low,8,namecheap,,,07/08/2026 22:29
 b560575f-debe-475e-909b-53fd53685a45,closeoff.digital,available,2.99,41.49,high,low,9,namesilo,,,
@@ -789,9 +786,8 @@ e3c53c81-860c-46d5-8a78-d876863c5ffc,burnunit.digital,available,2.99,41.49,mediu
 ffae2dbd-ec28-42ab-845f-96a6cdd66e48,crabbed.digital,available,2.98,53.98,low,low,7,namecheap,,,08/08/2026 07:37
 ab4e3bfd-d9dd-45f8-a7ce-e19d0d031e75,rulesisrules.digital,available,2.99,,medium,low,14,name.com,,,
 ce354082-5517-4bd0-8d96-1474598bfa9d,ilikepie.digital,available,2.99,,medium,low,10,name.com,,,
-a187fb91-7269-4c40-b1e4-6dae19257c22,wasted.digital,available,,,medium,high,6,,,,
 877aa5a8-1a3b-4596-9cfc-ac7a034fd909,unused.digital,available,2.99,,medium,low,6,name.com,,,
-d23330ca-f181-4c7c-9573-1eef8f22127f,allegro.digital,resell,,,high,low,7,"Sav.com, LLC - 7",14/06/2025 15:15,14/06/2026 15:15,
+d23330ca-f181-4c7c-9573-1eef8f22127f,allegro.digital,resell,,,medium,low,7,Dynadot Inc,15/09/2026 17:00,15/09/2027 17:00,22/09/2026 01:21
 db161048-28f5-40e4-b673-32a78137a86a,mealdeal.digital,available,2.99,,high,low,9,name.com,,,
 798e2c59-d278-4bc0-902e-bcc908ee39fb,channel.digital,premium,46.2,92.4,medium,low,7,namecheap,,,
 ff4a7e5b-71aa-4d8b-bbe5-5f6cd0218d42,xoxoxo.digital,available,2.99,,high,low,6,name.com,,,
@@ -813,7 +809,7 @@ bd7a9aec-2957-4c9c-8df5-c60b510de950,carrie.digital,available,2.99,41.49,high,lo
 983cc1ea-3f74-4d2d-8101-c03d6167828e,prepacked.digital,available,2.99,,medium,low,9,name.com,,,
 7e5f67a2-45b5-4f22-bbd5-0ae3c75e130e,concertroom.digital,available,2.99,41.49,medium,low,12,namesilo,,,
 bbae466f-56a4-420e-a998-a09276d86002,completing.digital,available,2.99,54.99,medium,low,10,name.com,,,
-454c08ad-ac2d-4000-956b-cdd1ca20e2d1,austere.digital,available,2.99,41.49,medium,low,7,namesilo,,,
+454c08ad-ac2d-4000-956b-cdd1ca20e2d1,austere.digital,available,3.49,41.49,low,low,7,namesilo,,,22/09/2026 13:15
 a7b38ad9-2a5f-46c3-9953-a48a37683e42,exhaust.digital,available,2.99,41.49,high,low,7,namesilo,,,
 b181a5f5-de96-4f03-9259-2c3b33c46a09,associable.digital,available,2.98,53.98,low,low,10,namecheap,,,07/08/2026 06:45
 9b9ebf3c-14d8-4994-94f4-af3886197c30,cocksucker.digital,available,2.98,53.98,low,low,10,namecheap,,,08/08/2026 23:29
@@ -846,7 +842,7 @@ adc9491d-383d-4fd4-a0dd-a50630416e32,assemblyline.digital,available,2.99,41.49,h
 587b0fa3-f7af-47fc-b87d-16e1f51586eb,thenandnow.digital,available,2.99,,low,low,12,name.com,,,
 c9dc19d9-ab19-4be9-80ee-bb28da6e82ff,antidromic.digital,available,2.98,53.98,low,low,10,namecheap,,,
 d2d51614-f63b-4c32-b1d9-8ea990a1283c,adjunct.digital,available,2.98,53.98,low,low,7,namecheap,,,
-a515d75b-bc67-4b15-b5a9-b893fba768b6,armored.digital,available,2.99,,medium,low,7,name.com,,,
+a515d75b-bc67-4b15-b5a9-b893fba768b6,armored.digital,available,3.49,41.49,low,low,7,namesilo,,,22/09/2026 08:00
 294993b5-743c-4a06-af1e-8cacc462fc54,chocolatetruffle.digital,available,2.99,41.49,high,low,17,namesilo,,,
 1f4f2396-6013-46c3-82af-87e930a08486,yellowcake.digital,available,2.99,,low,low,11,name.com,,,
 462656d2-4a4b-4032-a12e-3129a081b3d2,expecting.digital,available,2.99,41.49,high,low,9,namesilo,,,
@@ -874,7 +870,7 @@ c489fdbc-55d2-45ac-a23e-948335591ad5,eventoed.digital,available,2.98,53.98,low,l
 7639f882-1cf3-4bb2-9a01-8a4295648c01,acrophobic.digital,available,2.98,53.98,low,low,10,namecheap,,,
 5f61d81b-d20a-4818-b381-43bed97bc92e,scowling.digital,available,2.98,53.98,low,low,8,namecheap,,,09/08/2026 08:33
 fc5109ed-9e67-49ba-87e1-b7e37a676410,septenary.digital,available,2.98,53.98,low,low,9,namecheap,,,
-25388857-12ad-478f-9fec-15e60c379488,joy.digital,resell,,,high,medium,3,Porkbun LLC,28/08/2020 16:34,28/08/2026 16:34,
+25388857-12ad-478f-9fec-15e60c379488,joy.digital,resell,,,high,medium,3,Porkbun LLC,28/08/2020 16:34,28/08/2027 16:34,22/09/2026 19:33
 6b38035a-fea8-4b43-8e3b-26b703a9bd20,anoestrous.digital,available,2.98,53.98,low,low,10,namecheap,,,
 176b39db-f5f7-48e5-a406-6c0b3c51dc70,disgrace.digital,available,2.99,41.49,high,low,8,namesilo,,,
 9cca4834-4ba2-4c0a-ab8b-d12573d6d4d9,seeingas.digital,available,2.99,,medium,low,9,name.com,,,
@@ -884,10 +880,10 @@ f71f297f-be07-438c-a095-3d1c988a569b,blockaded.digital,available,2.98,53.98,low,
 2764397a-46eb-4f25-b481-1840d65c82ae,happiness.digital,resell,,,high,low,9,"Sav.com, LLC - 46",22/12/2025 15:15,22/12/2026 15:15,
 1f99649a-fd48-4f5a-8bca-d03c154a47a8,avestan.digital,available,2.98,53.98,low,low,7,namecheap,,,07/08/2026 23:07
 135737c7-2e94-4751-8754-904e5de40e1b,worry.digital,available,,,high,low,5,,,,
-9d468e56-8f1e-40ad-83c1-7151dc1b3483,respondent.digital,available,2.99,,high,low,10,name.com,,,
+9d468e56-8f1e-40ad-83c1-7151dc1b3483,respondent.digital,available,3.49,41.49,medium,low,10,namesilo,,,22/09/2026 05:39
 2ee688d5-fea4-4020-bfdf-35aa6f16923e,seat.digital,resell,,,low,low,4,"Sav.com, LLC - 20",03/02/2026 15:15,03/02/2027 15:15,09/08/2026 11:32
 6ba76f41-8a7e-4f25-86c6-278913356619,banned.digital,available,2.98,53.98,low,low,6,namecheap,,,08/08/2026 13:44
-b752b797-a5a9-4a70-ad48-5dd8e951a874,isolated.digital,available,2.99,,medium,low,8,name.com,,,
+b752b797-a5a9-4a70-ad48-5dd8e951a874,isolated.digital,available,2.98,53.98,low,low,8,namecheap,,,22/09/2026 07:07
 29737861-0714-42dd-803d-4a636c204f8c,geometry.digital,resell,,,medium,low,8,"Sav.com, LLC - 31",09/09/2025 15:15,09/09/2026 15:15,
 ff5d9ccb-1baf-4f86-bc83-70dd443debd6,aflutter.digital,available,2.98,53.98,low,low,8,namecheap,,,
 01cdd960-e5c0-418f-a4a1-c98dfcbfa6f2,scornful.digital,available,2.99,54.99,medium,low,8,name.com,,,
@@ -907,10 +903,9 @@ fc289cbc-b7a7-4599-ae63-2ad9cf1d3035,stagingarea.digital,available,2.99,,medium,
 19233f0a-513b-44cb-b05a-cbcfea2baf61,vivid.digital,available,,,high,low,5,,,,
 2cd926c7-a640-4106-b4eb-abca3c5be41a,admissible.digital,available,2.98,53.98,low,low,10,namecheap,,,
 4ed68222-3d68-4841-a89b-7751ba3ae00d,painful.digital,available,2.98,53.98,low,low,7,namecheap,,,
-35a0827f-b249-40f5-8082-93d2b2f74d0d,available.digital,resell,,,high,low,9,"Sav.com, LLC - 24",10/08/2025 15:15,10/08/2026 15:15,
-72bad1cc-3fe4-477f-a9fb-dcbe483564ac,abroad.digital,available,2.99,54.99,high,low,6,name.com,,,
+35a0827f-b249-40f5-8082-93d2b2f74d0d,available.digital,resell,,,medium,low,9,"Sav.com, LLC - 24",10/08/2025 15:15,10/08/2027 15:15,22/09/2026 14:22
 458f4645-c0fc-4727-a005-4f5ca8cf87ac,innocence.digital,available,2.99,,high,low,9,name.com,,,
-29f78086-0006-4a2f-9bd1-2a484c31096d,awakened.digital,available,2.99,41.49,medium,low,8,namesilo,,,
+29f78086-0006-4a2f-9bd1-2a484c31096d,awakened.digital,available,3.49,41.49,low,low,8,namesilo,,,22/09/2026 14:47
 e4a7dec1-3ad8-495d-90d9-0ecc5b9b0e49,justified.digital,available,,,medium,low,9,,,,
 dec76e1e-8847-47f2-8c6f-1483b4a912a8,agone.digital,available,2.98,53.98,low,low,5,namecheap,,,
 bb7d3c69-51f3-4c68-b093-499ae035f514,device.digital,resell,,,high,low,6,"Spaceship, Inc.",03/03/2026 21:14,03/03/2027 21:14,
@@ -919,12 +914,10 @@ a85ab741-aed6-4d33-b70b-ed858efaa6df,aramaic.digital,available,2.98,53.98,low,lo
 4ec1ece4-d34c-4def-996a-88c60ba59386,vaticancity.digital,available,2.99,,low,low,12,name.com,,,
 3ee187f2-1da3-4fcf-a08c-283d98bd4ea2,grandson.digital,available,2.99,,high,low,8,name.com,,,
 b0939b6b-c992-495c-aaf7-aa854a2748bc,oldagepensioner.digital,available,2.99,,medium,low,17,name.com,,,
-cb6f5b40-ea05-47e4-891a-e721fd4e4501,butter.digital,resell,,,high,low,6,Porkbun LLC,24/08/2020 10:04,24/08/2026 10:04,
 21384792-fe70-4818-a327-4f35fcd755ba,respiratory.digital,available,2.99,,low,low,11,name.com,,,
 d20a0c5c-318b-4653-829b-ca52a9cd0915,airplane.digital,resell,,,high,low,8,"Sav.com, LLC - 8",29/04/2026 15:15,29/04/2027 15:15,
 0ea0e246-63b0-40ea-a660-137f885cadd8,southcarolina.digital,premium,46.2,92.4,low,low,14,namecheap,,,
-940851bb-eae0-4431-81f7-ae4b97596b0e,pray.digital,resell,,,medium,low,4,"Sav.com, LLC - 21",04/08/2025 15:15,04/08/2026 15:15,
-262cb317-1bcd-4584-b523-49daa9a2b99d,licenced.digital,available,2.99,54.99,medium,low,8,name.com,,,
+262cb317-1bcd-4584-b523-49daa9a2b99d,licenced.digital,available,3.49,41.49,low,low,8,namesilo,,,21/09/2026 15:56
 08a3b56f-d14c-45ac-94a1-d6ea248a0ccb,humanlike.digital,available,2.98,53.98,low,low,9,namecheap,,,
 18099e33-034d-4730-a6d2-2fe563609acd,strongly.digital,available,2.99,,medium,low,8,name.com,,,
 4b7ca73a-2b27-4cdc-8e41-5e87993a1ae6,lucky.digital,resell,,,high,medium,5,Netregistry Wholesale Pty Ltd,24/12/2020 12:06,24/12/2026 12:06,
@@ -935,9 +928,9 @@ d20a0c5c-318b-4653-829b-ca52a9cd0915,airplane.digital,resell,,,high,low,8,"Sav.c
 64ffc680-dd22-45af-9175-ed45c28ca012,lxxxv.digital,available,2.98,53.98,low,low,5,namecheap,,,
 0cf53270-98ae-4e42-a178-456df431a661,putitabout.digital,available,2.99,,low,low,12,name.com,,,
 fc6138b8-bca0-435a-9984-19b5334658f7,comerainorshine.digital,available,2.99,41.49,medium,low,18,namesilo,,,
-4b0133dc-d9a6-4029-9339-f510e3f18667,nonstop.digital,resell,,,high,low,7,"Sav.com, LLC - 15",21/03/2025 15:15,21/03/2027 15:15,
+4b0133dc-d9a6-4029-9339-f510e3f18667,nonstop.digital,resell,,,medium,low,7,"Sav.com, LLC - 22",22/06/2026 15:15,22/06/2027 15:15,22/09/2026 08:07
 5c8de6f8-deaf-4aa5-af4a-96a1946231b2,fiery.digital,available,,,medium,low,5,,,,
-d442f386-cbd6-40a3-abab-205ff2e31ea8,alterable.digital,available,2.99,54.99,high,low,9,name.com,,,
+d442f386-cbd6-40a3-abab-205ff2e31ea8,alterable.digital,available,3.49,41.49,low,low,9,namesilo,,,22/09/2026 02:18
 7ffc1b81-09af-4a9e-bc19-2fa707332802,upper.digital,resell,,,high,low,5,"Sav.com, LLC - 33",17/12/2025 15:15,17/12/2026 15:15,
 230af97b-4d27-4815-a0ac-3a87681d8ed1,newwave.digital,resell,,,medium,low,8,"Sav.com, LLC - 32",10/04/2025 15:15,10/04/2026 15:15,
 4c106461-9019-4a33-961c-634a15ce3a7b,actress.digital,available,2.99,41.49,high,low,7,namesilo,,,
@@ -969,7 +962,6 @@ e62ffab2-b82d-4b1c-8349-7fb13c29a512,granting.digital,available,2.99,,high,low,8
 4e310e15-e7b7-4716-9a25-9af2cb08121d,pride.digital,resell,,,high,low,5,"Sav.com, LLC - 17",01/10/2022 13:15,01/10/2026 13:15,
 8628473b-8cb4-479a-95db-63cb36d7340b,liable.digital,available,2.99,,high,low,6,name.com,,,
 376e5e77-f843-462b-bfc7-4bdcc8313d37,satfat.digital,available,2.99,,medium,low,7,name.com,,,
-1f2e1a9a-dbf0-4092-937a-b75fc61710ae,vain.digital,available,2.99,,medium,low,4,name.com,,,
 57b0a7dd-6072-482e-98a5-5ea6eb0b85cb,goforthegold.digital,available,2.99,41.49,high,low,15,namesilo,,,
 6e9fe453-1862-46a6-9e12-803bc02ead60,notwithstanding.digital,available,2.99,,medium,low,15,name.com,,,
 0e6e7837-1936-4103-bd1f-6b4371c42de3,goto.digital,resell,,,medium,low,5,"Global Domains International, Inc. DBA DomainCostClub.com",21/02/2025 15:15,21/02/2026 15:15,
@@ -985,7 +977,7 @@ eb9927c0-00cf-48a7-92bb-a2d8702acc08,acidotic.digital,available,2.98,53.98,low,l
 13c88b15-9b01-4aed-acb3-4665069a0bcd,bahrain.digital,available,,,medium,low,7,,,,
 3fc31a23-6563-4448-be95-9c31f4e14cda,lplate.digital,available,2.99,,medium,low,7,name.com,,,
 16660320-4965-4e26-93e5-1a6514953e45,neglect.digital,available,2.99,,high,low,7,name.com,,,
-07836160-20b1-4d2e-a7aa-168824b59045,angelical.digital,available,2.99,41.49,medium,low,9,namesilo,,,
+07836160-20b1-4d2e-a7aa-168824b59045,angelical.digital,available,3.49,41.49,low,low,9,namesilo,,,22/09/2026 04:27
 209690b3-86aa-4e37-8569-acd420fdaf95,bacchantic.digital,available,2.98,53.98,low,low,10,namecheap,,,08/08/2026 04:40
 fae16a90-545d-482e-a36b-d61f712077a9,tracked.digital,available,2.99,,medium,low,7,name.com,,,
 f07a2f19-ced3-4955-a3f4-a0e483e65731,convene.digital,available,2.99,,high,low,7,name.com,,,
@@ -999,3 +991,11 @@ b12881c1-ef76-44f8-bfba-82cb85c3034a,tons.digital,available,2.99,,high,low,4,nam
 68fc69dd-91e0-4802-8c53-7f888c4707e3,azoic.digital,available,2.98,53.98,low,low,5,namecheap,,,08/08/2026 02:22
 c3a95f7a-2e2c-4a27-aa6b-5a4fe96b18b1,bagshaped.digital,available,2.98,53.98,low,low,10,namecheap,,,08/08/2026 08:17
 d3631ed5-66ce-4f25-9993-4e495d292a7b,sixteenth.digital,available,2.98,53.98,low,low,9,namecheap,,,
+79e3c910-0cf7-427a-8ed7-c5f6d0822b42,sliced.digital,available,2.99,,high,low,6,name.com,,,
+adfd0639-9c21-43f8-8466-1b598bf0298e,wouldithurt.digital,available,2.99,,low,low,13,name.com,,,
+2028f2a8-d2fb-4067-88ad-e0585768831d,parched.digital,available,2.98,53.98,low,low,7,namecheap,,,
+254b0027-439f-4983-b6fb-091e6450f132,likenightandday.digital,available,2.99,,medium,low,18,name.com,,,
+64893ea5-7877-4ba1-8fde-d92dcad35ea8,annular.digital,available,2.98,53.98,low,low,7,namecheap,,,
+f0e11591-8dfc-4d5f-8ead-bf09da617a62,moneytalks.digital,available,2.99,,medium,low,11,name.com,,,
+419839d8-bf31-4cd0-9f83-55e709f07281,allegiant.digital,available,2.98,53.98,low,low,9,namecheap,,,
+c72f112a-ca45-4aa9-9558-1378495faf32,acropetal.digital,available,2.98,53.98,low,low,9,namecheap,,,
